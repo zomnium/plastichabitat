@@ -8,7 +8,7 @@ Description: Plastic Habitat, playground for design and development.
 
 Plastic Habitat is a personal project to write an online book. An easy to read reference about all best practices for designing and developing cross-device websites. Instead of blogging about everything I want to create a structured reference instead. Which will be updated with developments within the ever changing web.
 
-It's work in progress!
+*It's work in progress!*
 
 
 ### Who is this for?
