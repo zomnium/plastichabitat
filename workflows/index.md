@@ -1,0 +1,71 @@
+/*
+Title: Workflows
+Description: Time saving approaches for creating awesome stuff
+*/
+
+
+## Todo:
+
+* Prototyping workflows for devices (web and apps)
+* Responsive webdesign workflow (from design to deploy)
+* Application planning and UML
+* Deployment workflows using git, php and ...?
+
+
+## Deploy Git over FTP
+
+Based on NodeJS: [DPLOY](http://leanmeanfightingmachine.github.io/dploy/) - [Github](https://github.com/LeanMeanFightingMachine/dploy)
+
+Online Services:
+
+- [dploy](http://dploy.io/)
+- [FTPLOY](http://ftploy.com/)
+
+
+## Using Grunt
+
+### Articles
+
+- [Grunt is not weird and hard on 24 Ways](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
+- [Setting up Pure and SASS with Grunt](http://kalenjohnson.com/customizing-roots-sass/)
+
+### Tasks shortlist:
+
+- Javascript (jslint)
+- CSS (preprocessor, minimize)
+- Image optimizing (imagemin)
+- Watch (watch config, livepreview)
+
+
+## Terminal Tricks (For OS X)
+
+### A little cheatsheet with commands:
+
+* **ls -a**: lists all files, including hidden files (-a).
+
+
+### .bash_profile
+
+This file located at the /~ (your user folder) manages all bash/commandline settings for your account. Below some basics and tricks:
+
+**For easy editing this bash profile file and also reloading it you can add these lines. Edit using 'editprofile' and 'reloadprofile' reloads the settings after editing.**
+
+	alias editprofile="sudo nano ~/.bash_profile"
+	alias reloadprofile=". ~/.bash_profile"
+
+
+**Adding applications so you can use inkscape, bower or yo like below, without the filepath.**
+
+	alias inkscape="/Applications/Inkscape.app/Contents/Resources/bin/inkscape"
+	alias bower="/usr/local/lib/node_modules/bower/bin/bower"
+	alias yo="/usr/local/lib/node_modules/yo/bin/yo"
+
+
+**It's also possible to add paths/directories so everything within will be accessable without the full filepath.**
+
+	export PATH="/usr/local/bin:$PATH"
+	export PATH="/usr/local/php5/bin:$PATH"
+	export PATH="/usr/local/mysql/bin:$PATH"
+	export PATH="/Applications/Xcode.app/Contents/Developer/usr/libexec/git-core/:$PATH"
+	export PATH="/Users/tim/Documents/Mobile/android-sdk-macosx/tools/:$PATH"
+	export PATH="/Users/tim/Documents/Mobile/android-sdk-macosx/platform-tools/:$PATH"
