@@ -32,9 +32,9 @@ Description: All about styling with CSS
 	- Skeleton-official
 	- UIKit
 - Preprocessors
-	- SASS
-	- LESS
-	- AbsurdJS
+	- [SASS](http://sass-lang.com/)
+	- [LESS](http://www.lesscss.org/)
+	- [AbsurdJS](http://krasimir.github.io/absurd/)
 - Crossbrowser compatibility
 - Fonts
 - Retina
