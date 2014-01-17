@@ -4,6 +4,7 @@ composer.phar
 
 # Dploy
 dploy.yaml
+dploy/*
 
 # Twig
 vendor/twig/twig/doc/*
