@@ -10,6 +10,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [CSS Tricks](http://css-tricks.com/)
 * [Designmodo](http://designmodo.com/)
 * [Html5Rocks](http://html5rocks.com/)
+* [Sitepoint](http://www.sitepoint.com/)
 * [Smashing Magazine](http://smashingmagazine.com/)
 * [ThemeShaper](http://themeshaper.com/)
 
@@ -28,6 +29,7 @@ Description: Useful websites, guides, blogs and newsletters
 
 * [Browser diet](http://browserdiet.com/) - How to lose weight in the browser
 * [Dive into html5](http://diveintohtml5.info/) - Online book about html5
+* [Javascript The Right Way](http://jstherightway.org/) - Doing Javascript the right way
 * [PHP The Right Way](http://www.phptherightway.com/) - Doing PHP the right way
 * [Web standards](http://www.yellowshoe.com.au/standards/) - Best practices about front-end development
 
