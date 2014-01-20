@@ -17,6 +17,7 @@ Description: Client side javascript and frameworks
 * [D3JS Graphs](http://d3js.org/)
 * [Raphael](http://raphaeljs.com/)
 * [Hammer](http://eightmedia.github.io/hammer.js/)
+* [Slip](https://github.com/pornel/slip)
 
 
 ## MVC Frameworks
