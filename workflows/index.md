@@ -7,6 +7,10 @@ Description: Time saving approaches for creating awesome stuff
 ## Todo:
 
 * Prototyping workflows for devices (web and apps)
+	* Some paper and a pencil
+	* Axure
+	* OmniGraffle
+	* inVision
 * Responsive webdesign workflow (from design to deploy)
 * Application planning and UML
 * Deployment workflows using git, php and ...?
