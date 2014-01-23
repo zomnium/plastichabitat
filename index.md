@@ -18,7 +18,7 @@ This reference is not a course for starting with webdevelopment, you should know
 
 ### Open Source!
 
-Do you know the basics or have advanced skills? Then you probably find this a useful resource and I would appriciate to receive any feedback, advice and like to discuss. All content is open source and will be in a repository on [Github](http://github.com/), so you can fork, change, commit and make pull requests!
+Do you know the basics or have advanced skills? Then you probably find this a useful resource and I would appriciate to receive any feedback, advice and like to discuss. All content is open source and will be in a repository on [Github](https://github.com/zomnium/plastichabitat), so you can fork, change, commit and make pull requests!
 
 
 ### A little about me
