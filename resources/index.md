@@ -53,3 +53,11 @@ Description: Useful websites, guides, blogs and newsletters
 
 * [The Smashing Library](http://www.smashingmagazine.com/ebooks/)
 
+
+## Graphics
+
+* [Font Awesome](http://fontawesome.io/)
+* [The Noun Project](http://thenounproject.com/)
+* [The Pattern Library](http://thepatternlibrary.com/)
+* [Stock photos that don't suck](https://medium.com/p/62ae4bcbe01b)
+
