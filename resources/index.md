@@ -20,6 +20,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [24 ways](http://24ways.org/) - Advent calendar about all kinds of stuff
 * [Can I use](http://caniuse.com/) - Cross-browser compatibility
 * [Codrops](http://tympanus.net/codrops/) - Awesome html5/css3 experiments
+* [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
 * [Unheap](http://unheap.com/) - jQuery plugins
 * [Unify](http://unicode.johnholtripley.co.uk/) - Unicode tested accross devices
 * [Tutsplus](http://tutsplus.com/) - All kinds of tutorials
