@@ -32,3 +32,8 @@ Description: Client side javascript and frameworks
 
 * [Ember vs. Angular](http://eviltrout.com/2013/06/15/ember-vs-angular.html)
 * [Ember introduction](http://dev.tutsplus.com/tutorials/getting-into-ember-part-4--net-31517)
+
+
+## Useful
+
+* [Google Charts](https://developers.google.com/chart/interactive/docs/index)
