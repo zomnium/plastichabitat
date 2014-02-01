@@ -18,12 +18,15 @@ Description: Time saving approaches for creating awesome stuff
 
 ## Deploy Git over FTP
 
-Based on NodeJS: [DPLOY](http://leanmeanfightingmachine.github.io/dploy/) - [Github](https://github.com/LeanMeanFightingMachine/dploy)
+The best one I've found so far is based on NodeJS and called [DPLOY](http://leanmeanfightingmachine.github.io/dploy/) which is also available on [Github](https://github.com/LeanMeanFightingMachine/dploy). All settings are in YAML and it has support for multiple environments, perfect for local development with staging and production environments.
 
-Online Services:
+Note: if you install dploy in the same directory you want to sync, then leave path.local blank! [Read Github Issue](https://github.com/LeanMeanFightingMachine/dploy/issues/19#issuecomment-29133963).
+
+You also have online services to deploy git project over FTP, but the most are quite expensive and not always so reliable:
 
 - [dploy](http://dploy.io/)
 - [FTPLOY](http://ftploy.com/)
+- [Beanstalk](http://beanstalkapp.com/)
 
 
 ## Using Grunt
