@@ -85,6 +85,7 @@ Nice Yo Generators
 ### A little cheatsheet with commands:
 
 * **ls -a**: lists all files, including hidden files (-a).
+* **open .**: open directory in OS X Finder.
 
 
 ### .bash_profile
