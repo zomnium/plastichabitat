@@ -79,7 +79,7 @@ Open-source web analytics tool, online and app for mobile! Try it out, it even h
 * [Bower](http://bower.io/) - Web Package Manager
 * [Compass](http://compass-style.org/) - SASS Compiler
 * [Grunt](http://gruntjs.com/) - JavaScript Task Runner
-* [YEO](http://yeoman.io/) - Workflows with Yo, Grunt and Bower
+* [YEO](http://yeoman.io/) - Workflows with Yo, generate projects with Grunt and Bower
 
 
 ## Online Tools
