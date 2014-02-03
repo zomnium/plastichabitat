@@ -29,6 +29,32 @@ You also have online services to deploy git project over FTP, but the most are q
 - [Beanstalk](http://beanstalkapp.com/)
 
 
+## Using Yeoman
+
+Installation is quite simple when you have NPM and Git installed: npm install -g yo
+
+This will install Grunt and Bower automaticly. You'll also need Ruby and Compass when your planning to use SASS (SCSS).
+
+[Getting started wiki](https://github.com/yeoman/yeoman/wiki/Getting-Started)
+
+[Building apps with the Yeoman workflow](http://dev.tutsplus.com/tutorials/building-apps-with-the-yeoman-workflow--net-33254)
+
+Examples of use:
+
+- yo webapp
+- npm install -g generator-ember
+- yo ember
+- yo ember:model
+- grunt test
+- grunt serve
+- grunt (--force)
+
+Nice Yo Generators
+
+- [Ember](https://github.com/yeoman/generator-ember)
+- More will follow... Check out the [community generators](http://yeoman.io/community-generators.html)
+
+
 ## Using Grunt
 
 ### Articles
@@ -42,6 +68,16 @@ You also have online services to deploy git project over FTP, but the most are q
 - CSS (preprocessor, minimize)
 - Image optimizing (imagemin)
 - Watch (watch config, livepreview)
+
+
+## Using Bower
+
+- bower search ...
+- bower install ... (--save)
+- bower list
+- bower update ...
+- grunt bower - Injects your Bower dependencies into your ... configuration
+- grunt bower-install - Injects your dependencies into your index.html file
 
 
 ## Terminal Tricks (For OS X)
