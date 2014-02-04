@@ -14,10 +14,15 @@ Description: Client side javascript and frameworks
 ## Awesome styff
 
 * [Socket.io](http://socket.io/)
-* [D3JS Graphs](http://d3js.org/)
+* [D3JS](http://d3js.org/)
 * [Raphael](http://raphaeljs.com/)
 * [Hammer](http://eightmedia.github.io/hammer.js/)
 * [Slip](https://github.com/pornel/slip)
+
+
+## Useful
+
+* [Google Charts](https://developers.google.com/chart/interactive/docs/index)
 
 
 ## MVC Frameworks
@@ -34,6 +39,8 @@ Description: Client side javascript and frameworks
 * [Ember introduction](http://dev.tutsplus.com/tutorials/getting-into-ember-part-4--net-31517)
 
 
-## Useful
+## MVC - Ember
 
-* [Google Charts](https://developers.google.com/chart/interactive/docs/index)
+* [EmberWatch](http://emberwatch.com/)
+* [Getting Into EmberJS](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js/) on Tutsplus
+
