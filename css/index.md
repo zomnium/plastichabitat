@@ -42,3 +42,38 @@ Date: 2014-2-1
 - Retina
 - Forms
 - Print
+
+
+## Building a grid
+
+### Interesting approaches
+
+- [Don't overthing grids](http://css-tricks.com/dont-overthink-it-grids/)
+- [Golden Grid System](http://goldengridsystem.com/)
+- [Golden Grid System explained](http://seangoresht.com/index.php/tutorials/item/the-golden-gridlet-system-ggs-explained)
+
+### Use of box-sizing
+
+- [CSS Tricks](http://css-tricks.com/box-sizing/)
+- [Paul Irish](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+- [HTML5 Please](http://html5please.com/#box-sizing)
+- [Box-sizing polyfill](https://github.com/Schepp/box-sizing-polyfill)
+- [Box-sizing border-box for IE8](http://stackoverflow.com/questions/11608291/box-sizing-border-box-for-ie8)
+
+### Working with Modernizr
+
+- [Detect media-queries](http://stackoverflow.com/questions/7460670/how-to-detect-if-media-queries-are-present-using-modernizr)
+- [Detect box-sizing](http://modernizr.com/download/#-shiv-mq-cssclasses-teststyles-testallprops-css_boxsizing-load)
+
+### Useful articles
+
+- [Fluid grids](http://alistapart.com/article/fluidgrids)
+- [How to use text in CSS](http://alistapart.com/article/howtosizetextincss)
+- [Sub-pixel problems in CSS](http://ejohn.org/blog/sub-pixel-problems-in-css/)
+- [Setting type on the web](http://alistapart.com/article/settingtypeontheweb)
+
+### Misc.
+
+- [Responsive Web-design](http://www.abookapart.com/products/responsive-web-design) - A Book Apart
+- [Sass Boilerplate](https://github.com/srsgores/sass-boilerplate/)
+
