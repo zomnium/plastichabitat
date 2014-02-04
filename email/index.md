@@ -6,11 +6,12 @@ Description: HTML for use in emails
 
 ## Useful projects
 
-* [Html Email Boilerplate](http://htmlemailboilerplate.com/)
-* [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate)
 * [Bullet proof buttons](http://buttons.cm/)
 * [Background Images](http://backgrounds.cm/)
 * [Email Standards](http://www.email-standards.org/)
+* [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate)
+* [Html Email Boilerplate](http://htmlemailboilerplate.com/)
+* [Zurb Ink](http://zurb.com/ink/)
 
 
 ## Tools
