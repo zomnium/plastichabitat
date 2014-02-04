@@ -50,7 +50,7 @@ Date: 2014-2-1
 
 ### Interesting approaches
 
-- [Don't overthing grids](http://css-tricks.com/dont-overthink-it-grids/)
+- [Don't overthink grids](http://css-tricks.com/dont-overthink-it-grids/)
 - [Golden Grid System](http://goldengridsystem.com/)
 - [Golden Grid System explained](http://seangoresht.com/index.php/tutorials/item/the-golden-gridlet-system-ggs-explained)
 
