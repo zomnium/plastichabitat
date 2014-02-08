@@ -39,6 +39,13 @@ Description: Notes for all kinds of cms's
 - Homebrew shizzles
 
 
+### Wordpress
+
+- [Underscores](http://underscores.me/) Start Theme
+- [Roots](http://roots.io/) Modern WordPress Development, *using Composer, Boilerplate, Bootstrap and Grunt*
+- [Customizing the Roots Theme Pure CSS and Sass/Compass](http://kalenjohnson.com/customizing-roots-sass/)
+
+
 ### Next level shit!
 
 - [PHP OOP5](http://www.php.net/manual/en/language.oop5.basic.php)
