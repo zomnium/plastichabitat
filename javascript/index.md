@@ -11,7 +11,7 @@ Description: Client side javascript and frameworks
 * Vanilla JS
 
 
-## Awesome styff
+## Awesome stuff
 
 * [Socket.io](http://socket.io/)
 * [D3JS](http://d3js.org/)
