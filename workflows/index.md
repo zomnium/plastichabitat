@@ -35,9 +35,9 @@ Installation is quite simple when you have NPM and Git installed: `npm install -
 
 This will install Grunt and Bower automaticly. You'll also need Ruby and Compass when your planning to use SASS (SCSS).
 
-[Getting started wiki](https://github.com/yeoman/yeoman/wiki/Getting-Started)
-
-[Building apps with the Yeoman workflow](http://dev.tutsplus.com/tutorials/building-apps-with-the-yeoman-workflow--net-33254)
+- [Getting started wiki](https://github.com/yeoman/yeoman/wiki/Getting-Started)
+- [Building apps with the Yeoman workflow](http://dev.tutsplus.com/tutorials/building-apps-with-the-yeoman-workflow--net-33254)
+- [Yeoman Ember -- The missing tutorial](https://www.openshift.com/blogs/day-24-yeoman-ember-the-missing-tutorial)
 
 Examples of use:
 
