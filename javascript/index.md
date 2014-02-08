@@ -23,6 +23,9 @@ Description: Client side javascript and frameworks
 ## Useful
 
 * [Google Charts](https://developers.google.com/chart/interactive/docs/index)
+* [Isotope](http://isotope.metafizzy.co/beta/) *v2 beta*
+* [Masonry](http://masonry.desandro.com/)
+* [MixItUp](http://mixitup.io/)
 
 
 ## MVC Frameworks
