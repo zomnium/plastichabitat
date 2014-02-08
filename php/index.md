@@ -7,28 +7,29 @@ Description: Notes for all kinds of cms's
 ## Todo: Collect
 
 - Content Management Systems
-	- AnchorCMS
-	- Drupal
-	- ModX
-	- Silverstripe
-	- WordPress
+	- [AnchorCMS](http://anchorcms.com)
+	- [Drupal](http://drupal.org/)
+	- [MODx](http://modx.com/)
+	- [Perch](http://grabaperch.com/) *($79 per site)*
+	- [Silverstripe](http://silverstripe.com/)
+	- [WordPress](http://wordpress.org/)
 - Markdown & File based
-	- Cutenews
-	- Dropplets
-	- Kirby
-	- Koken
-	- Leeflets
-	- Pico
-	- Robodt
+	- [Cutenews](cutephp.com/)
+	- [Dropplets](http://dropplets.com/)
+	- [Kirby](http://getkirby.com/) *($39 per site)*
+	- [Koken](http://koken.me/)
+	- [Leeflets](https://leeflets.com/)
+	- [Pico](http://pico.dev7studios.com/)
+	- [Robodt](http://robodt.io/)
 - Frameworks
-	- CakePHP
-	- CodeIgniter
-	- Symfony
-	- Laravel
+	- [CakePHP](http://cakephp.org/)
+	- [CodeIgniter](http://ellislab.com/codeigniter)
+	- [Symfony](http://symfony.com/)
+	- [Laravel](http://laravel.com/)
 - Micro Frameworks
-	- Fat-free
-	- Slim
-	- Silex
+	- [Fat-free](http://fatfreeframework.com/)
+	- [Slim](slimframework.com)
+	- [Silex](http://silex.sensiolabs.org/)
 
 
 ### Say no to these:
