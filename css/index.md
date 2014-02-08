@@ -37,6 +37,7 @@ Date: 2014-2-1
 	- [UIKit](http://www.getuikit.com/)
 - Preprocessors
 	- [SASS](http://sass-lang.com/)
+		- [Sass Style Guide](http://css-tricks.com/sass-style-guide/) *on CSS-Tricks*
 	- [LESS](http://www.lesscss.org/)
 	- [AbsurdJS](http://krasimir.github.io/absurd/)
 - Crossbrowser compatibility
