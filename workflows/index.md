@@ -31,7 +31,7 @@ You also have online services to deploy git project over FTP, but the most are q
 
 ## Using Yeoman
 
-Installation is quite simple when you have NPM and Git installed: npm install -g yo
+Installation is quite simple when you have NPM and Git installed: `npm install -g yo`
 
 This will install Grunt and Bower automaticly. You'll also need Ruby and Compass when your planning to use SASS (SCSS).
 
@@ -41,13 +41,13 @@ This will install Grunt and Bower automaticly. You'll also need Ruby and Compass
 
 Examples of use:
 
-- yo webapp
-- npm install -g generator-ember
-- yo ember
-- yo ember:model
-- grunt test
-- grunt serve
-- grunt (--force)
+- `yo webapp`
+- `npm install -g generator-ember`
+- `yo ember`
+- `yo ember:model`
+- `grunt test`
+- `grunt serve`
+- `grunt (--force)`
 
 Nice Yo Generators
 
@@ -73,27 +73,27 @@ Nice Yo Generators
 
 ## Using Bower
 
-- bower search ...
-- bower install ... (--save)
-- bower list
-- bower update ...
-- grunt bower - Injects your Bower dependencies into your ... configuration
-- grunt bower-install - Injects your dependencies into your index.html file
+- `bower search ...`
+- `bower install ...` (`--save`)
+- `bower list`
+- `bower update ...`
+- `grunt bower` - Injects your Bower dependencies into your ... configuration
+- `grunt bower-install` - Injects your dependencies into your index.html file
 
 
 ## Terminal Tricks (For OS X)
 
 ### A little cheatsheet with commands:
 
-* **ls -a**: lists all files, including hidden files (-a).
-* **open .**: open directory in OS X Finder.
+* `ls -a` - lists all files, including hidden files (-a).
+* `open .` - open directory in OS X Finder.
 
 
 ### .bash_profile
 
 This file located at the /~ (your user folder) manages all bash/commandline settings for your account. Below some basics and tricks:
 
-**For easy editing this bash profile file and also reloading it you can add these lines. Edit using 'editprofile' and 'reloadprofile' reloads the settings after editing.**
+**For easy editing this bash profile file and also reloading it you can add these lines. Edit using '`editprofile`' and '`reloadprofile`' reloads the settings after editing.**
 
 	alias editprofile="sudo nano ~/.bash_profile"
 	alias reloadprofile=". ~/.bash_profile"
