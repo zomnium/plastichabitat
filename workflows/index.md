@@ -52,6 +52,8 @@ Examples of use:
 Nice Yo Generators
 
 - [Ember](https://github.com/yeoman/generator-ember)
+- [Html 5 Boilerplate](https://github.com/h5bp/generator-h5bp)
+- [Sass Boilerplate](https://github.com/srsgores/generator-sass-boilerplate)
 - [Underscores for WordPress](https://github.com/kdo/generator-wp-underscores)
 - More will follow... Check out the [community generators](http://yeoman.io/community-generators.html)
 
