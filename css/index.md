@@ -15,9 +15,9 @@ Date: 2014-2-1
 - Modulair
 	- [SMACCS](http://smacss.com/)
 	- BEM
-		- [Getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) by CSS Wizardry
-		- [Our principles for BEM + Sass](http://blog.14islands.com/post/70395374262/our-principles-for-bem-sass) by 14islands
-		- [Sassier (BE)Modifers](http://viget.com/extend/bem-sass-modifiers) by Viget
+		- [Getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) *by CSS Wizardry*
+		- [Our principles for BEM + Sass](http://blog.14islands.com/post/70395374262/our-principles-for-bem-sass) *by 14islands*
+		- [Sassier (BE)Modifers](http://viget.com/extend/bem-sass-modifiers) *by Viget*
 	- Working method
 	- Part sheets
 - Resets and boilerplates
@@ -45,6 +45,7 @@ Date: 2014-2-1
 - Retina
 - Forms
 - Print
+- Mobile first approach
 
 
 ## Building a grid
