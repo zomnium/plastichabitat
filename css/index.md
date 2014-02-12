@@ -28,7 +28,7 @@ Date: 2014-2-1
 
 ## Box-sizing, use it!
 
-Whatever you choose, just use box-sizing. It's available in all new browsers and is awesome! Block elements (like divs) will be way more predictable when you apply it to all elements and is recommed by Paul Irish and Chris Coyier. You know how hard it is to align forms? When you use this, it won't! Just do it already!
+Just use box-sizing, on everything. It's available in all new browsers and it's awesome! Block elements (like divs) will be way more predictable when you apply it to all elements and is recommed by Paul Irish and Chris Coyier. You know how hard it is to align forms? When you use this, it won't! Just do it already!
 
     *, *:before, *:after {
         -webkit-box-sizing: border-box; 
@@ -63,6 +63,24 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 
 - Using ems, use it for everything.
 - Using ems for mediaqueries.
+
+In pure CSS it can be a little time consuming, calculating everything. But with Sass it can be quite easy using this function:
+
+    @function em($target, $context: 16) {
+        @return ($target / $context) * 1em;
+    }
+
+    h1 {
+        font-size:em(30);
+    }
+
+It's also possibly to use this approach inline like this:
+
+    h1 {
+        font-size:(30 / 14) * 1em;
+    }
+
+More information about [Calculating EMs with SCSS](http://erskinedesign.com/blog/calculating-ems-scss/).
 
 
 
