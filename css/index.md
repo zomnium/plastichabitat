@@ -148,6 +148,7 @@ There's a lot of choice, below a little overview with well-known frameworks you 
 Some interesting approaches for settings up your custom grid:
 
 - [Don't overthink grids](http://css-tricks.com/dont-overthink-it-grids/)
+- [GRID - A simple guide to responsive design](http://www.adamkaplan.me/grid/)
 - [Golden Grid System](http://goldengridsystem.com/)
 - [Golden Grid System explained](http://seangoresht.com/index.php/tutorials/item/the-golden-gridlet-system-ggs-explained)
 
