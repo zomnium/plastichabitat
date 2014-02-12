@@ -25,7 +25,7 @@ Description: HTML for use in emails
 2. Don't support Lotus Notes, it's even worse then IE6, really.
 
 
-## Todo: html email signatures
+## Html email signatures
 
 1. Write html without block elements
 2. Style them without padding, using breaks and define all font styles
