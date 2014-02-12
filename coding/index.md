@@ -29,5 +29,8 @@ Description: All about server and client side coding
 
 ## Apps
 
-- [Four Ways To Build A Mobile Application, Part 1: Native iOS](http://mobile.smashingmagazine.com/2013/11/22/four-ways-to-build-a-mobile-app-part1-native-ios/)
-- [Four Ways To Build A Mobile Application, Part 2: Native Android](http://mobile.smashingmagazine.com/2014/01/10/four-ways-to-build-a-mobile-app-part2-native-android/)
+Four Ways To Build A Mobile Application *on Smashing Magazine*:
+
+- [Part 1: Native iOS](http://mobile.smashingmagazine.com/2013/11/22/four-ways-to-build-a-mobile-app-part1-native-ios/)
+- [Part 2: Native Android](http://mobile.smashingmagazine.com/2014/01/10/four-ways-to-build-a-mobile-app-part2-native-android/)
+- [Part 3: PhoneGap](http://mobile.smashingmagazine.com/2014/02/11/four-ways-to-build-a-mobile-app-part3-phonegap/)
