@@ -48,17 +48,6 @@ More resources about the subject:
 
 
 
-## Modernizr
-
-Working with Modernizr can also be quite helpful when you need to support prehistoric browsers. With this tool you can detect functionalities/features, like SVG-support, media-queries or even box-sizing. When it doesn't, you can load a shiv (some javascript) to implement a fallback.
-
-- [Modernizr](http://modernizr.com/)
-- [Detect box-sizing](http://modernizr.com/download/#-shiv-mq-cssclasses-teststyles-testallprops-css_boxsizing-load)
-- [Detect media-queries](http://stackoverflow.com/questions/7460670/how-to-detect-if-media-queries-are-present-using-modernizr)
-- Todo: add a getting started tutorial/reference
-
-
-
 ## Using em for everything
 
 - Using ems, use it for everything.
@@ -106,6 +95,8 @@ Or baseline, is very important for the balance and readablity of a webpage. Belo
     }
 
 Todo: add more notes and information.
+
+Also check out [Modular Scale](http://modularscale.com/), which also has a Sass implementation: [Modular Scale Calculator](https://github.com/Team-Sass/modular-scale).
 
 
 
@@ -176,6 +167,17 @@ This preprocessor is quite different from the others. Most other preprocessors a
 ### [LESS](http://www.lesscss.org/)
 
 It's a very basic preprocessor, when you're a performance user you'll probably be better of with Sass. When you're not, probably too, Sass is awesome.
+
+
+
+## Modernizr
+
+Working with Modernizr can also be quite helpful when you need to support prehistoric browsers. With this tool you can detect functionalities/features, like SVG-support, media-queries or even box-sizing. When it doesn't, you can load a shiv (some javascript) to implement a fallback.
+
+- [Modernizr](http://modernizr.com/)
+- [Detect box-sizing](http://modernizr.com/download/#-shiv-mq-cssclasses-teststyles-testallprops-css_boxsizing-load)
+- [Detect media-queries](http://stackoverflow.com/questions/7460670/how-to-detect-if-media-queries-are-present-using-modernizr)
+- Todo: add a getting started tutorial/reference
 
 
 
