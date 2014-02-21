@@ -13,7 +13,7 @@ The package and dependency-manager for PHP. More information and documentation c
 
 Version Control System, VCS in short, Git is used for controlling versions and different branches of development. This way you can manage your versions and can go back in time, also work on your project easily with multiple persons.
 
-A nice way to work with git is the [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/) approach. Which is also integrated in [SourceTree](http://www.sourcetreeapp.com/), a Git GUI for OS X. Want to practice your git commandline skills? [Github](https://github.com/) and [CodeSchool](https://www.codeschool.com/) made a nice webapp to do this: [Try Git in 15 Minutes](http://try.github.io/levels/1/challenges/1). Want to know more? Read this: [git - the simple guide](http://rogerdudler.github.io/git-guide/).
+A nice way to work with git is the [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/) approach. Which is also integrated in [SourceTree](http://www.sourcetreeapp.com/), a Git GUI for OS X. Want to practice your git commandline skills? [Github](https://github.com/) and [CodeSchool](https://www.codeschool.com/) made a nice webapp to do this: [Try Git in 15 Minutes](http://try.github.io/levels/1/challenges/1). Want to know more? Read this: [git - the simple guide](http://rogerdudler.github.io/git-guide/). When you've got the basics, read [Git Best Practices](http://sethrobertson.github.io/GitBestPractices/).
 
 For creating a secure connection you'll need to generate a SSH key, GitHub has a nice article about it: [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys#platform-mac)
 
