@@ -150,6 +150,24 @@ Some background information about grids and using types:
 - [Sub-pixel problems in CSS](http://ejohn.org/blog/sub-pixel-problems-in-css/)
 - [Setting type on the web](http://alistapart.com/article/settingtypeontheweb)
 
+A nice micro clearfix hack:
+
+    .clearfix:before,
+    .clearfix:after {
+        content: " ";
+        display: table;
+    }
+
+    .clearfix:after {
+        clear: both;
+    }
+
+    .clearfix {
+        *zoom: 1;
+    }
+
+[Created by Nicolas Gallagher](http://nicolasgallagher.com/micro-clearfix-hack/)
+
 
 
 ## Preprocessors
