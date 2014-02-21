@@ -9,7 +9,7 @@ Description: All about HTML5
 
 ## Outlining
 
-Todo: write something about outlining content and semantic structures.
+Todo: write something about outlining content and semantic structures. Nice tool: [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
 
 
 ## Doctype

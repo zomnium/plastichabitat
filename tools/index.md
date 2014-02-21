@@ -87,6 +87,7 @@ Open-source web analytics tool, online and app for mobile! Try it out, it even h
 ## Online Tools
 
 * [Google Maps Builder](http://googlemapbuilder.mynameisdonald.com/)
+* [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
 * [Nibbler](http://nibbler.silktide.com/)
 
 
