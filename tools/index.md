@@ -9,6 +9,11 @@ Description: Useful tools for creating and managing front-end and backend stuff
 The package and dependency-manager for PHP. More information and documentation can be found on [getcomposer.org](http://getcomposer.org) and packages can be browsed and added at [Packagist](https://packagist.org/).
 
 
+## [FontPrep](http://fontprep.com/)
+
+Open-source tool for OS X drag & drop webfont creation, with support for OTF and TTF files.
+
+
 ## [Git](http://git-scm.com/)
 
 Version Control System, VCS in short, Git is used for controlling versions and different branches of development. This way you can manage your versions and can go back in time, also work on your project easily with multiple persons.
