@@ -9,7 +9,7 @@ Description: All about HTML5
 
 ## Outlining
 
-Todo: write something about outlining content and semantic structures. Nice tool: [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
+Todo: write something about [outlining content](http://html5doctor.com/outlines/) and semantic structures. Nice tool: [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
 
 
 ## Doctype
@@ -43,15 +43,37 @@ Check W3C's [Language Tags](http://www.w3.org/International/questions/qa-choosin
 
 ## Html5 Semantic Elements
 
-- Section
-- Nav
-- Article
-- Aside
-- Hgroup
-- Header
-- Footer
-- Time
-- Mark
+### Section
+
+Represents a thematic grouping of content, often with a heading. Could be chapters or tabbed interfaces. Webpages could be split into several sections like introduction, news items, latest posts, etc.
+
+### Nav
+
+This element is for a page section with links, to other pages or area's within the current document. Only major navigation blocks can use the nav element, paginations and footer links don't need it.
+
+### Article
+
+Represents a document, page, post, forumpost, article etc. and is intended to be indenpent or reusable. 
+
+### Aside
+
+Is a section of the page that contains content that can be related to the main content, but is considered separate.
+
+### Hgroup
+
+Is used to group multiple levels of headlines, subheadings, alternative titles and taglines (h1 - h6).
+
+### Header
+
+Can be used for headers with logo's, navigation and search forms. But also for a sections heading.
+
+### Footer
+
+Typically contains information about the author, links to resources, coprights, etc. Can be used for sections and for documents.
+
+### Time
+
+Can be used with a 24 hour clock notation or Gregorian calendar, also has an optional time-zone attribute. Commonly used for publication dates etc.
 
 
 ## More semantic elements
