@@ -89,6 +89,7 @@ Nice Yo Generators
 
 * `ls -a` - lists all files, including hidden files (-a).
 * `open .` - open directory in OS X Finder.
+* `cp` - copy a file or directory.
 
 
 ### .bash_profile
