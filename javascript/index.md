@@ -18,6 +18,7 @@ Description: Client side javascript and frameworks
 * [Raphael](http://raphaeljs.com/)
 * [Hammer](http://eightmedia.github.io/hammer.js/)
 * [Slip](https://github.com/pornel/slip)
+* [localForage](http://mozilla.github.io/localForage/)
 
 
 ## Useful
