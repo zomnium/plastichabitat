@@ -39,10 +39,10 @@ It takes a lot of time building for old IE browsers and debugging is a pain. Hac
 
 More information about this approach: [Leaving old IE behind](http://www.jonikorpi.com/leaving-old-IE-behind/) *by Joni Korpi*
 
-You can also add a little browse happy notification for those people affected by this (if you use Html5 Boilerplate you'll already have this piece of code). Right after opening the body tag. This way your visitors know they're not browsing the most beautiful version of your website.
+You can also add a little browse happy notification for those people who are affected by this, if you use [Html5 Boilerplate](http://html5boilerplate.com/) you'll already have this piece of code. Put it right after the opening body tag. This way your visitors know they're not browsing the most beautiful version of your website.
 
 	<!--[if lt IE 10]>
-	<p class="browsehappy">Uw browser is verouderd, <a href="http://browsehappy.com/">update uw browser</a> voor een betere ervaring.</p>
+	<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 	<![endif]-->
 
 Add a little bit of styling and your done!
