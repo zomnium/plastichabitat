@@ -15,6 +15,7 @@ Date: 2014-2-1
 - Print
 - Mobile first approach
 - Content first, start here, work your way up
+- Selectors [CSS Diner](http://flukeout.github.io/)
 
 
 
