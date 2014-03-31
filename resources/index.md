@@ -24,6 +24,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [OneXtraPixel](http://www.onextrapixel.com/) - Tutorials, freebies and inspiration
 * [Unheap](http://unheap.com/) - jQuery plugins
 * [Unify](http://unicode.johnholtripley.co.uk/) - Unicode tested accross devices
+* [WTF, HTML and CSS?](http://wtfhtmlcss.com/) - Reasons HTML and CSS might make you say what the fuck
 * [Tutsplus](http://tutsplus.com/) - All kinds of tutorials
 
 
