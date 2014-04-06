@@ -39,6 +39,16 @@ Description: Notes for all kinds of cms's
 - Homebrew shizzles
 
 
+### Drupal
+
+- [Basic](https://drupal.org/project/basic) Starter Theme
+- [Getting started with SASS and Compass on Drupal](http://thejibe.com/blog/11/1/getting-started-basic-sass-and-compass-drupal)
+- [Starter Themes](https://drupal.org/node/323993)
+- [The Definitive Guide to Drupal 7](http://themery.com/dgd7)
+- [Zen](https://drupal.org/project/zen) Starter Theme
+- [Zen Documentation](https://drupal.org/node/193318)
+
+
 ### Wordpress
 
 - [Underscores](http://underscores.me/) Start Theme
