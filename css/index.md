@@ -196,6 +196,7 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 - [Modernizr](http://modernizr.com/)
 - [Detect box-sizing](http://modernizr.com/download/#-shiv-mq-cssclasses-teststyles-testallprops-css_boxsizing-load)
 - [Detect media-queries](http://stackoverflow.com/questions/7460670/how-to-detect-if-media-queries-are-present-using-modernizr)
+- [Respond](https://github.com/scottjehl/Respond) *A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)*
 - Todo: add a getting started tutorial/reference
 
 
