@@ -61,6 +61,7 @@ Description: Useful websites, guides, blogs and newsletters
 
 ## Graphics
 
+* [Devices](http://marvelapp.github.io/devices.css/) - 8 Pure CSS Flat Mobile Devices
 * [Font Awesome](http://fontawesome.io/)
 * [The Noun Project](http://thenounproject.com/)
 * [The Pattern Library](http://thepatternlibrary.com/)
