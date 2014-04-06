@@ -22,10 +22,11 @@ Description: Useful websites, guides, blogs and newsletters
 * [Codrops](http://tympanus.net/codrops/) - Awesome html5/css3 experiments
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
 * [OneXtraPixel](http://www.onextrapixel.com/) - Tutorials, freebies and inspiration
+* [Tutsplus](http://tutsplus.com/) - All kinds of tutorials
 * [Unheap](http://unheap.com/) - jQuery plugins
 * [Unify](http://unicode.johnholtripley.co.uk/) - Unicode tested accross devices
 * [WTF, HTML and CSS?](http://wtfhtmlcss.com/) - Reasons HTML and CSS might make you say what the fuck
-* [Tutsplus](http://tutsplus.com/) - All kinds of tutorials
+* [You might not need jQuery](http://youmightnotneedjquery.com/)
 
 
 ## Guides
