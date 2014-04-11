@@ -35,3 +35,9 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 - [Part 2: Native Android](http://mobile.smashingmagazine.com/2014/01/10/four-ways-to-build-a-mobile-app-part2-native-android/)
 - [Part 3: PhoneGap](http://mobile.smashingmagazine.com/2014/02/11/four-ways-to-build-a-mobile-app-part3-phonegap/)
 - [Part 4: Appcelerator Titanium](http://mobile.smashingmagazine.com/2014/03/10/4-ways-build-mobile-application-part4-appcelerator-titanium/)
+
+
+## Google Chrome Extensions
+
+- [Content scripts](https://developer.chrome.com/extensions/content_scripts)
+- [Web accessible resources](https://developer.chrome.com/extensions/manifest/web_accessible_resources) - [on stack overflow](http://stackoverflow.com/questions/3559781/google-chrome-extensions-cant-load-local-images-with-css)
