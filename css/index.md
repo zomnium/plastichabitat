@@ -128,6 +128,7 @@ There's a lot of choice, below a little overview with well-known frameworks you 
 - [Foundation](http://foundation.zurb.com/)
 - [Golden Grid System](http://goldengridsystem.com/) *- Grid concept*
 - [Goldilocks](http://goldilocksapproach.com/)
+- [Gumby](http://gumbyframework.com/)
 - [GuideGuide2](http://guideguide.me/) *- Grids extension for Photoshop*
 - [Gumpy](http://gumbyframework.com/)
 - [Pure](http://purecss.io/)
@@ -177,6 +178,21 @@ A nice micro clearfix hack:
 
 Todo: add some more information about Sass. For now, read this: [Sass Style Guide](http://css-tricks.com/sass-style-guide/) *on CSS-Tricks*.
 
+- [Getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) *on csswizardry*
+- [Principles for BEM + Sass](http://blog.14islands.com/post/70395374262/our-principles-for-bem-sass) *on 14islands blog*
+- [Sassier (BE)Modifers](http://viget.com/extend/bem-sass-modifiers) *on viget blog*
+- [Naming UI components in OOCSS](http://csswizardry.com/2014/03/naming-ui-components-in-oocss/?utm_source=CSS-Weekly&utm_campaign=Issue-105&utm_medium=email) *on csswizardry*
+- [Sassy Grid](http://springload.github.io/sassy-grid/demos/)
+- [My Current CSS and Sass Styleguide](http://www.sitepoint.com/css-sass-styleguide/) *on sitepoint*
+- [Architecture for a Sass Project](http://www.sitepoint.com/architecture-sass-project/) *on sitepoint*
+- [A Sass Component in 10 Minutes](http://www.sitepoint.com/sass-component-10-minutes/) *on sitepoint*
+
+Nice libraries:
+
+- [Bourbon](http://bourbon.io/) Lightweight mixin library for Sass.
+- [Bourbon Neat](http://neat.bourbon.io/) Lightweight semantic grid framework for Sass.
+- [Bourbon Refills](http://refills.bourbon.io/) Prepackaged patterns and components, built on top of Bourbon, Bitters, and Neat.
+
 
 ### [AbsurdJS](http://krasimir.github.io/absurd/)
 
@@ -186,6 +202,11 @@ This preprocessor is quite different from the others. Most other preprocessors a
 ### [LESS](http://www.lesscss.org/)
 
 It's a very basic preprocessor, when you're a performance user you'll probably be better of with Sass. When you're not, probably too, Sass is awesome.
+
+
+### [Stylus](http://learnboost.github.io/stylus/)
+
+CSS preprocessor built on NodeJS, so quite easy to install and intergrate in your workflow. [Nice tutorial on tutplus](http://webdesign.tutsplus.com/articles/why-i-choose-stylus-and-you-should-too--webdesign-18412).
 
 
 
