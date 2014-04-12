@@ -23,6 +23,11 @@ A nice way to work with git is the [Git Flow](http://nvie.com/posts/a-successful
 For creating a secure connection you'll need to generate a SSH key, GitHub has a nice article about it: [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys#platform-mac)
 
 
+## [GitLab](https://www.gitlab.com/)
+
+A self hosted version of GitHub, commercial and community licences are available. To get started read [How to Setup GitLab](http://scotch.io/tutorials/how-to-setup-gitlab-a-self-hosted-github) on Scotch.
+
+
 ## MAMP - Local development
 
 Combine Mac OS X with Apache, MySQL and PHP and you'll have MAMP. There is an application with all-in-one, called [MAMP](http://www.mamp.info/en/index.html). I prefer to install and manage it myself using these:
