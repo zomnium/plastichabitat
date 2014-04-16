@@ -124,13 +124,17 @@ There's a lot of choice, below a little overview with well-known frameworks you 
 
 - [960gs](http://960.gs/)
 - [Bootstrap](http://getbootstrap.com/)
+- [Bourbon Neat](http://neat.bourbon.io/)
 - [Fluid Baseline Grid](http://fluidbaselinegrid.com/)
 - [Foundation](http://foundation.zurb.com/)
 - [Golden Grid System](http://goldengridsystem.com/) *- Grid concept*
 - [Goldilocks](http://goldilocksapproach.com/)
 - [GuideGuide2](http://guideguide.me/) *- Grids extension for Photoshop*
 - [Gumpy](http://gumbyframework.com/)
+- [PopGrid](http://www.popgridsass.com/)
 - [Pure](http://purecss.io/)
+- [Semantic Grid System](http://semantic.gs/)
+- [Singularity](https://github.com/Team-Sass/Singularity)
 - [Skeleton](http://www.getskeleton.com/)
 - [Susy](http://susy.oddbird.net/)
 - [UIKit](http://www.getuikit.com/)
