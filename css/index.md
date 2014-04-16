@@ -128,7 +128,6 @@ There's a lot of choice, below a little overview with well-known frameworks you 
 - [Foundation](http://foundation.zurb.com/)
 - [Golden Grid System](http://goldengridsystem.com/) *- Grid concept*
 - [Goldilocks](http://goldilocksapproach.com/)
-- [Gumby](http://gumbyframework.com/)
 - [GuideGuide2](http://guideguide.me/) *- Grids extension for Photoshop*
 - [Gumpy](http://gumbyframework.com/)
 - [Pure](http://purecss.io/)
