@@ -30,7 +30,7 @@ A self hosted version of GitHub, commercial and community licences are available
 
 ## MAMP - Local development
 
-Combine Mac OS X with Apache, MySQL and PHP and you'll have MAMP. There is an application with all-in-one, called [MAMP](http://www.mamp.info/en/index.html). I prefer to install and manage it myself using these:
+Combine Mac OS X with Apache, MySQL and PHP and you'll have MAMP. There is an application with all-in-one, called [MAMP](http://www.mamp.info/en/index.html). Bitnami has [some stacks](https://bitnami.com/stacks/infrastructure) available too. I prefer to install and manage it myself using these:
 
 * [PHP for OS X by Liip](https://github.com/liip/php-osx)
 * [MySQL Community Edition](http://dev.mysql.com/downloads/mysql/)
