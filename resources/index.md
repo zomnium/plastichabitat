@@ -13,6 +13,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Sitepoint](http://www.sitepoint.com/)
 * [Smashing Magazine](http://smashingmagazine.com/)
 * [ThemeShaper](http://themeshaper.com/)
+* [UsabilityPost](http://usabilitypost.com/)
 
 
 ## Useful sites
@@ -35,6 +36,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Browser diet](http://browserdiet.com/) - How to lose weight in the browser
 * [Dive into html5](http://diveintohtml5.info/) - Online book about html5
 * [GoodUI](http://goodui.org/) - An idea list for good easy to use UI's
+* [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - O'Reilly e-book
 * [Javascript The Right Way](http://jstherightway.org/) - Doing Javascript the right way
 * [PHP The Right Way](http://www.phptherightway.com/) - Doing PHP the right way
 * [Web standards](http://www.yellowshoe.com.au/standards/) - Best practices about front-end development
@@ -57,7 +59,9 @@ Description: Useful websites, guides, blogs and newsletters
 
 ## Books
 
+* [design+code](http://designcode.io/)
 * [The Smashing Library](http://www.smashingmagazine.com/ebooks/)
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 
 ## Graphics
@@ -68,3 +72,8 @@ Description: Useful websites, guides, blogs and newsletters
 * [The Pattern Library](http://thepatternlibrary.com/)
 * [Stock photos that don't suck](https://medium.com/p/62ae4bcbe01b)
 
+
+## Theming
+
+* [HTML5up](http://html5up.net/) customizable responsive templates
+* [tumblr boilerplate](http://www.tumblrboilerplate.com/)
