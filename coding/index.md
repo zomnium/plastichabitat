@@ -37,6 +37,12 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 - [Part 4: Appcelerator Titanium](http://mobile.smashingmagazine.com/2014/03/10/4-ways-build-mobile-application-part4-appcelerator-titanium/)
 
 
+## Languages
+
+- [Lua](http://www.lua.org/) is a powerful, fast, lightweight, embeddable scripting language
+- [Go](http://golang.org/) is an open source programming language that makes it easy to build simple, reliable, and efficient software
+
+
 ## Google Chrome Extensions
 
 - [Content scripts](https://developer.chrome.com/extensions/content_scripts)
