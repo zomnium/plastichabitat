@@ -42,3 +42,8 @@ Description: HTML for use in emails
 * [Mad Mimi](https://madmimi.com/) - Simple Newsletter subscriptions
 * [Mandrill](http://mandrill.com/) - Transactional Email from MailChimp
 * [Litmus](https://litmus.com/) - Test and track emails
+
+
+## Aditional awesomeness
+
+* [HTML5 email background](https://litmus.com/blog/how-to-code-html5-video-background-in-email) - *by Litmus*
