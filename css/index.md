@@ -110,6 +110,7 @@ Several approaches are available to write modulair CSS (it's a way of working, n
     - [Getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) *by CSS Wizardry*
     - [Our principles for BEM + Sass](http://blog.14islands.com/post/70395374262/our-principles-for-bem-sass) *by 14islands*
     - [Sassier (BE)Modifers](http://viget.com/extend/bem-sass-modifiers) *by Viget*
+- [DoCSSa](http://docssa.info/)
 - OOCS
 - Working method
 - Part sheets
@@ -131,6 +132,7 @@ There's a lot of choice, below a little overview with well-known frameworks you 
 - [Goldilocks](http://goldilocksapproach.com/)
 - [GuideGuide2](http://guideguide.me/) *- Grids extension for Photoshop*
 - [Gumpy](http://gumbyframework.com/)
+- [Jeet](http://jeet.gs/)
 - [PopGrid](http://www.popgridsass.com/)
 - [Pure](http://purecss.io/)
 - [Semantic Grid System](http://semantic.gs/)
@@ -190,6 +192,7 @@ Todo: add some more information about Sass. For now, read this: [Sass Style Guid
 - [My Current CSS and Sass Styleguide](http://www.sitepoint.com/css-sass-styleguide/) *on sitepoint*
 - [Architecture for a Sass Project](http://www.sitepoint.com/architecture-sass-project/) *on sitepoint*
 - [A Sass Component in 10 Minutes](http://www.sitepoint.com/sass-component-10-minutes/) *on sitepoint*
+- [Managing Responsive Breakpoints with Sass](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
 
 Nice libraries:
 
@@ -222,6 +225,7 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 - [Detect box-sizing](http://modernizr.com/download/#-shiv-mq-cssclasses-teststyles-testallprops-css_boxsizing-load)
 - [Detect media-queries](http://stackoverflow.com/questions/7460670/how-to-detect-if-media-queries-are-present-using-modernizr)
 - [Respond](https://github.com/scottjehl/Respond) *A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)*
+- [Guide to Using Modernizr responsibly](https://github.com/Modernizr/Modernizr/issues/878#issuecomment-41448059) *by Paul Irish on GitHub*
 - Todo: add a getting started tutorial/reference
 
 
@@ -230,3 +234,11 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 
 - [Responsive Web-design](http://www.abookapart.com/products/responsive-web-design) *on A Book Apart*
 - [Sass Boilerplate](https://github.com/srsgores/sass-boilerplate/) *on GitHub*
+
+### Icons
+
+- [Auticons](http://heydonworks.com/auticons-icon-font/)
+
+### CSS3
+
+- [Getting to know CSS Blend Modes](http://dev.opera.com/articles/getting-to-know-css-blend-modes/)
