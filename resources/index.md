@@ -77,3 +77,12 @@ Description: Useful websites, guides, blogs and newsletters
 
 * [HTML5up](http://html5up.net/) customizable responsive templates
 * [tumblr boilerplate](http://www.tumblrboilerplate.com/)
+
+
+## Inspiration
+
+* [Designspiration](http://designspiration.net/)
+* [HTTPSTER](http://httpster.net/)
+* [Niice](http://niice.co/)
+* [Siteinspire](http://siteinspire.com/)
+* [Trendlist](http://www.trendlist.org/)
