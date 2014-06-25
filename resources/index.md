@@ -83,6 +83,7 @@ Description: Useful websites, guides, blogs and newsletters
 
 * [Designspiration](http://designspiration.net/)
 * [HTTPSTER](http://httpster.net/)
+* [Mediaqueri.es](http://mediaqueri.es/)
 * [Niice](http://niice.co/)
 * [Siteinspire](http://siteinspire.com/)
 * [Trendlist](http://www.trendlist.org/)
