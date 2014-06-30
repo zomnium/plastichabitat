@@ -7,10 +7,11 @@ Description: Time saving approaches for creating awesome stuff
 ## Todo:
 
 * Prototyping workflows for devices (web and apps)
-	* Some paper and a pencil
-	* Axure
-	* OmniGraffle
-	* inVision
+	* [Some paper and a pencil](https://www.google.com/search?q=pencil+and+paper&tbm=isch)
+	* [Axure](http://axure.com/)
+	* [OmniGraffle](http://www.omnigroup.com/omnigraffle/)
+	* [inVision](http://www.invisionapp.com/)
+	* [FramerJS](http://framerjs.com/)
 * Responsive webdesign workflow (from design to deploy)
 * Application planning and UML
 * Deployment workflows using git, php and ...?
@@ -81,6 +82,11 @@ Nice Yo Generators
 - `bower update ...`
 - `grunt bower` - Injects your Bower dependencies into your ... configuration
 - `grunt bower-install` - Injects your dependencies into your index.html file
+
+
+## Gulp
+
+[Building with Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
 
 
 ## Terminal Tricks (For OS X)

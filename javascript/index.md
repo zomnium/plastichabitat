@@ -45,6 +45,8 @@ Description: Client side javascript and frameworks
 * [MixItUp](http://mixitup.io/)
 * [Prerender](https://prerender.io/)
 * [Breeze](http://www.breezejs.com/)
+* [Slick](http://kenwheeler.github.io/slick/)
+* [Webpack](http://webpack.github.io/)
 
 
 ## MVC Frameworks
@@ -57,6 +59,7 @@ Description: Client side javascript and frameworks
 * [Stapes.js](http://hay.github.io/stapes/)
 * [React.js](http://www.ractivejs.org/)
 * [Synapse](http://bruth.github.io/synapse/docs/)
+* [Mean](http://mean.io/)
 
 
 ## Good reads about MVC Frameworks
@@ -85,6 +88,11 @@ Description: Client side javascript and frameworks
 * [Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
 * [Native Drag & Drop](http://www.html5rocks.com/en/tutorials/dnd/basics/)
 * [element.animate(), HTML Imports, and Object.observe()](http://blog.chromium.org/2014/05/chrome-36-beta-elementanimate-html.html)
+
+
+## D3 
+
+* [Ember and D3](http://embervis.affin.io/) - [slides](http://embervis.affin.io/slides/#/)
 
 
 ## JS Fun

@@ -30,6 +30,9 @@ Description: Notes for all kinds of cms's
 	- [Fat-free](http://fatfreeframework.com/)
 	- [Slim](slimframework.com)
 	- [Silex](http://silex.sensiolabs.org/)
+- PHP Extension Frameworks
+	- [Yaf](http://yafdev.com/)
+	- [Phalcon](http://phalconphp.com/en/)
 
 
 ### Say no to these:
