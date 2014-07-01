@@ -18,6 +18,7 @@ Description: Client side javascript and frameworks
 * [The Module Pattern](http://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/) *on CSS-Tricks*
 * [Javascript module instances/objects](http://www.sefol.com/?p=1090)
 * [Why I don't love JavaScript's Module Pattern](http://snook.ca/archives/javascript/no-love-for-module-pattern)
+* [Javascript's this](http://www.2ality.com/2014/05/this.html)
 
 ### Misc.
 

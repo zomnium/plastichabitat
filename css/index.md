@@ -194,6 +194,7 @@ Todo: add some more information about Sass. For now, read this: [Sass Style Guid
 - [Architecture for a Sass Project](http://www.sitepoint.com/architecture-sass-project/) *on sitepoint*
 - [A Sass Component in 10 Minutes](http://www.sitepoint.com/sass-component-10-minutes/) *on sitepoint*
 - [Managing Responsive Breakpoints with Sass](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
+- [DoCCSa, Sass based CSS architecture and methodology](http://docssa.info/)
 
 Nice libraries:
 
@@ -243,3 +244,7 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 ### CSS3
 
 - [Getting to know CSS Blend Modes](http://dev.opera.com/articles/getting-to-know-css-blend-modes/)
+
+### Fun
+
+- [Simpsons in CSS](https://pattle.github.io/simpsons-in-css/)
