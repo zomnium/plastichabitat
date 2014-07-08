@@ -40,6 +40,7 @@ Description: Client side javascript and frameworks
 
 ## Useful
 
+* [Agile](http://a-jie.github.io/Agile/) CSS3 Engine
 * [Google Charts](https://developers.google.com/chart/interactive/docs/index)
 * [Isotope](http://isotope.metafizzy.co/beta/) *v2 beta*
 * [Masonry](http://masonry.desandro.com/)
@@ -78,6 +79,8 @@ Description: Client side javascript and frameworks
 
 ## Editors
 
+* [Ace](http://ace.c9.io/)
+* [Code Mirror](http://codemirror.net/)
 * [Medium.js](https://github.com/jakiestfu/Medium.js/)
 * [Scribe](https://github.com/guardian/scribe)
 * [ZenPen](http://www.zenpen.io/)
