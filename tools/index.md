@@ -49,7 +49,7 @@ Open-source web analytics tool, online and app for mobile! Try it out, it even h
 
 ## [Sublime Text](http://www.sublimetext.com/)
 
-A lightning fast extendable and customizable text-editor. Note: I'm waiting on my invite for [Atom.io](https://atom.io/) which looks alot like Sublime Text, but has a CLI and Git intergration.
+A lightning fast extendable and customizable text-editor. Nice alternatives are [Atom.io](https://atom.io/) which looks alot like Sublime Text, but is open-source and has a CLI and Git intergration. Adobe funded [Brackets](http://brackets.io/) which is also open-source and is completely build in JavaScript.
 
 ##### Useful plugins:
 
