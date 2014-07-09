@@ -4,12 +4,6 @@ Description: Client side javascript and frameworks
 */
 
 
-## Contents
-
-* Frameworks like jQuery, jQuery pp
-* MVC Frameworks
-* Vanilla JS
-
 ## Articles
 
 ### OOP
@@ -30,21 +24,38 @@ Description: Client side javascript and frameworks
 * [Socket.io](http://socket.io/)
 * [D3JS](http://d3js.org/)
 * [Raphael](http://raphaeljs.com/)
-* [Hammer](http://eightmedia.github.io/hammer.js/)
-* [Slip](https://github.com/pornel/slip)
 * [localForage](http://mozilla.github.io/localForage/)
 * [PlayerJS](http://playerjs.io/)
 * [Watch.js](https://github.com/melanke/Watch.JS)
+
+
+## Useful libraries and plugins
+
+### Filter and sort
+
+* [Isotope](http://isotope.metafizzy.co/)
+* [Masonry](http://masonry.desandro.com/)
+* [MixItUp](http://mixitup.io/)
+* [Shuffle](http://vestride.github.io/Shuffle/)
+
+### Editors
+
+* [Ace](http://ace.c9.io/)
+* [Code Mirror](http://codemirror.net/)
+* [Medium.js](https://github.com/jakiestfu/Medium.js/)
+* [Scribe](https://github.com/guardian/scribe)
+* [ZenPen](http://www.zenpen.io/)
+
+### Touch and gestures
+
+* [Hammer](http://eightmedia.github.io/hammer.js/)
 * [Interact.js](http://interactjs.io/)
+* [Slip](https://github.com/pornel/slip)
 
-
-## Useful
+### Misc.
 
 * [Agile](http://a-jie.github.io/Agile/) CSS3 Engine
 * [Google Charts](https://developers.google.com/chart/interactive/docs/index)
-* [Isotope](http://isotope.metafizzy.co/beta/) *v2 beta*
-* [Masonry](http://masonry.desandro.com/)
-* [MixItUp](http://mixitup.io/)
 * [Prerender](https://prerender.io/)
 * [Breeze](http://www.breezejs.com/)
 * [Slick](http://kenwheeler.github.io/slick/)
@@ -64,26 +75,17 @@ Description: Client side javascript and frameworks
 * [Mean](http://mean.io/)
 
 
-## Good reads about MVC Frameworks
+### Good reads about MVC Frameworks
 
 * [Ember vs. Angular](http://eviltrout.com/2013/06/15/ember-vs-angular.html)
 * [Ember introduction](http://dev.tutsplus.com/tutorials/getting-into-ember-part-4--net-31517)
 * [Learn Angular](http://www.learn-angular.org/)
 
 
-## MVC - Ember
+### MVC - Ember
 
 * [EmberWatch](http://emberwatch.com/)
 * [Getting Into EmberJS](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js/) on Tutsplus
-
-
-## Editors
-
-* [Ace](http://ace.c9.io/)
-* [Code Mirror](http://codemirror.net/)
-* [Medium.js](https://github.com/jakiestfu/Medium.js/)
-* [Scribe](https://github.com/guardian/scribe)
-* [ZenPen](http://www.zenpen.io/)
 
 
 ## HTML5 Spotlight
