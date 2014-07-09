@@ -236,6 +236,7 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 
 - [Responsive Web-design](http://www.abookapart.com/products/responsive-web-design) *on A Book Apart*
 - [Sass Boilerplate](https://github.com/srsgores/sass-boilerplate/) *on GitHub*
+- [CSS Toggle Switch](http://ghinda.net/css-toggle-switch/)
 
 ### Icons
 
