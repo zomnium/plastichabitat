@@ -13,7 +13,7 @@ Plastic Habitat is a personal project to write an online book. An easy to read r
 
 ### Who is this for?
 
-This reference is not a course for starting with webdevelopment, you should know some basics. Good places to start out are sites like [W3Schools](http://w3schools.com/) (free), [NetTuts+](http://net.tutsplus.com/) (free and paid), [Treehouse](http://teamtreehouse.com/) (paid) and [Code Academy](http://www.codecademy.com/).
+This reference is not a course for starting with webdevelopment, you should know some basics. Good places to start out are sites like [W3Schools](http://w3schools.com/) (free), [NetTuts+](http://net.tutsplus.com/) (free and paid), [Treehouse](http://teamtreehouse.com/) (paid) and [Code Cademy](http://www.codecademy.com/).
 
 
 ### Open Source!
