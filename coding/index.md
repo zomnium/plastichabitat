@@ -37,6 +37,19 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 - [Part 4: Appcelerator Titanium](http://mobile.smashingmagazine.com/2014/03/10/4-ways-build-mobile-application-part4-appcelerator-titanium/)
 
 
+### [Swift](http://swift-lang.org/main/)
+
+- [Swift on Apple Developer](https://developer.apple.com/swift/)
+- [Basic setup](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html)
+- [Introduction to the Swift Programming Language](http://www.sitepoint.com/introduction-swift-programming-language/) *on SitePoint*
+- [Free Swift Tutorials for Apple’s New Programming Language](http://designmodo.com/swift-tutorials/) *on Designmodo*
+
+
+### [JS Talk](http://jstalk.org/)
+
+'JSTalk is a scripting language for Mac OS X built on top of JavaScript, with a bridge to Apple's Cocoa libraries. You can use it to communicate with other applications just like AppleScript does.'
+
+
 ## Languages
 
 - [Lua](http://www.lua.org/) is a powerful, fast, lightweight, embeddable scripting language
