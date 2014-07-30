@@ -53,7 +53,7 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 
 ##### Useful plugins:
 
-* [Emmet](http://emmet.io/)
+* [Emmet](http://emmet.io/) - also in combination with (Re:View)[http://re-view.emmet.io/]
 * [Spacegray Theme](http://kkga.github.io/spacegray/)
 * [Flatland Theme](https://github.com/thinkpixellab/flatland)
 * [More useful Sublime Text plugins](http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions/)
