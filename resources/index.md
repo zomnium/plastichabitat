@@ -69,6 +69,7 @@ Description: Useful websites, guides, blogs and newsletters
 
 ## Graphics
 
+* [Albumarium](http://albumarium.com/)
 * [Devices](http://marvelapp.github.io/devices.css/) - 8 Pure CSS Flat Mobile Devices
 * [Font Awesome](http://fontawesome.io/)
 * [The Noun Project](http://thenounproject.com/)
