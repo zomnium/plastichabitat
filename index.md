@@ -23,6 +23,6 @@ Do you know the basics or have advanced skills? Then you probably find this a us
 
 ### A little about me
 
-My name is Tim van Bergenhenegouwen and I'm a graphic designer who likes also likes programming. My interests are PHP, NodeJS, Front-end MVC and Realtime applications. Also I'm building an open source CMS called [Robodt](http://robodt.io/).
+My name is Tim van Bergenhenegouwen and I'm a graphic designer who also likes programming. My interests are PHP, NodeJS, Front-end MVC and Realtime applications. I'm building an open source CMS called [Robodt](http://robodt.io/).
 
-I run a small design and development agency in the Netherlands called [Slurfhondje](http://www.slurfhondje.nl/) (Dutch for [Elephant Shrew](http://en.wikipedia.org/wiki/Elephant_shrew)) and like to create projects at [Zomnium](http://zomnium.com/). You can also find me at [Github](https://github.com/zomnium), [Twitter](http://twitter.com/slurfhondje), Zerply, Linkedin and [Flickr](http://flickr.com/benangerheim).
+I run a small design and development agency in the Netherlands called [Slurfhondje](http://www.slurfhondje.nl/) (Dutch for [Elephant Shrew](http://en.wikipedia.org/wiki/Elephant_shrew)) and like to create projects at [Zomnium](http://zomnium.com/). You can also find me at [Github](https://github.com/zomnium), [Twitter](http://twitter.com/slurfhondje), [Linkedin](//www.linkedin.com/in/timvanbergenhenegouwen) and [Flickr](http://flickr.com/benangerheim).
