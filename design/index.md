@@ -13,9 +13,16 @@ Todo!
 
 ## Style Guides
 
-- http://alistapart.com/blog/post/getting-started-with-pattern-libraries
-- http://style.codeforamerica.org/
-- http://barebones.paulrobertlloyd.com/
-- http://jacobrask.github.io/styledocco/
-- http://kaleistyleguide.com/
+### Exmaples
 
+- [A List Apart](http://alistapart.com/blog/post/getting-started-with-pattern-libraries)
+- [Code for America](http://style.codeforamerica.org/)
+- [FontShop](http://next.fontshop.com/styleguide/globals)
+- [MailChimp](http://mailchimp.com/about/brand-assets/)
+- [Voice and Tone](http://voiceandtone.com/) *by MailChimp*
+
+### Projects
+
+- [Barebones](http://barebones.paulrobertlloyd.com/)
+- [Styledecco](http://jacobrask.github.io/styledocco/)
+- [Kalei Styleguide](http://kaleistyleguide.com/)
