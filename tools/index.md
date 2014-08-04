@@ -16,7 +16,9 @@ Open-source tool for OS X drag & drop webfont creation, with support for OTF and
 
 ## [Git](http://git-scm.com/)
 
-Version Control System, VCS in short, Git is used for controlling versions and different branches of development. This way you can manage your versions and can go back in time, also work on your project easily with multiple persons.
+Version Control System, VCS in short, Git is used for controlling versions and different branches of development. This way you can manage your versions and can go back in time, also work on your project easily with multiple developers without conflicts.
+
+Git is widely supported in the development world. If you need a Git server/cloud service check out [GitHub](http://github.com/), commonly used for open source projects. [BitBucket](http://bitbucket.com/) is also a cloud service, but has free unlimited private respositories. Of course it's also possible to run your own server (see GitLab below).
 
 A nice way to work with git is the [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/) approach. Which is also integrated in [SourceTree](http://www.sourcetreeapp.com/), a Git GUI for OS X. Want to practice your git commandline skills? [Github](https://github.com/) and [CodeSchool](https://www.codeschool.com/) made a nice webapp to do this: [Try Git in 15 Minutes](http://try.github.io/levels/1/challenges/1). Want to know more? Read this: [git - the simple guide](http://rogerdudler.github.io/git-guide/). When you've got the basics, read [Git Best Practices](http://sethrobertson.github.io/GitBestPractices/).
 
