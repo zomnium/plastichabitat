@@ -12,6 +12,7 @@ Description: Time saving approaches for creating awesome stuff
 	* [OmniGraffle](http://www.omnigroup.com/omnigraffle/)
 	* [inVision](http://www.invisionapp.com/)
 	* [FramerJS](http://framerjs.com/)
+	* [Origami](http://facebook.github.io/origami/) prototyping toolkit for Quartz Composer
 * Responsive webdesign workflow (from design to deploy)
 * Application planning and UML
 * Deployment workflows using git, php and ...?
