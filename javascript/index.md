@@ -104,3 +104,35 @@ Description: Client side javascript and frameworks
 ## JS Fun
 
 * [In browser DVD's](http://gmarty.github.io/jsconf-2014-talk-play-dvd-in-js/)
+
+
+## Wrapper
+
+	(function (window, document) {
+
+		'use strict';
+
+		// Code here please :)
+
+	}(this, this.document));
+
+
+## Module
+
+	var module = function() {
+
+		'use strict';
+
+		var variable = 'hello';
+
+		function hello(what) {
+			return variable + ' ' + what;
+		}
+
+		return {
+			say: hello
+		}
+	};
+
+	var hello = new module();
+	console.log(hello.say('world'));
