@@ -23,6 +23,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Axureland](http://axureland.com/) - Tutorials for Axure
 * [Can I use](http://caniuse.com/) - Cross-browser compatibility
 * [Codrops](http://tympanus.net/codrops/) - Awesome html5/css3 experiments
+* [Cody](http://codyhouse.co/) - A free library of HTML, CSS, JS nuggets
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
 * [OneXtraPixel](http://www.onextrapixel.com/) - Tutorials, freebies and inspiration
 * [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
@@ -72,6 +73,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Albumarium](http://albumarium.com/)
 * [Devices](http://marvelapp.github.io/devices.css/) - 8 Pure CSS Flat Mobile Devices
 * [Font Awesome](http://fontawesome.io/)
+* [Icon Works](http://icon-works.com/) - Free Icon Font
 * [The Noun Project](http://thenounproject.com/)
 * [The Pattern Library](http://thepatternlibrary.com/)
 * [Stock photos that don't suck](https://medium.com/p/62ae4bcbe01b)
