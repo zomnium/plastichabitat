@@ -43,6 +43,8 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 - [Basic setup](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html)
 - [Introduction to the Swift Programming Language](http://www.sitepoint.com/introduction-swift-programming-language/) *on SitePoint*
 - [Free Swift Tutorials for Apple’s New Programming Language](http://designmodo.com/swift-tutorials/) *on Designmodo*
+- [iOS 8 Day-by-Day](http://www.shinobicontrols.com/blog/posts/2014/07/16/ios8-day-by-day-index)
+- [Prototyping iOS animations in Swift](http://mathewsanders.com/prototyping-iOS-iPhone-iPad-animations-in-swift/)
 
 
 ### [JS Talk](http://jstalk.org/)
