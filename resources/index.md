@@ -77,6 +77,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [The Noun Project](http://thenounproject.com/)
 * [The Pattern Library](http://thepatternlibrary.com/)
 * [Stock photos that don't suck](https://medium.com/p/62ae4bcbe01b)
+* [Subtle Patterns](http://subtlepatterns.com/)
 
 
 ## Theming
@@ -93,5 +94,6 @@ Description: Useful websites, guides, blogs and newsletters
 * [Minimal Sites](http://www.minimalsites.com/)
 * [Mobile Patterns](http://www.mobile-patterns.com/)
 * [Niice](http://niice.co/)
+* [Pttrns](http://www.pttrns.com/)
 * [Siteinspire](http://siteinspire.com/)
 * [Trendlist](http://www.trendlist.org/)
