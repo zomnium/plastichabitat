@@ -12,6 +12,7 @@ Description: HTML for use in emails
 * [Email Standards](http://www.email-standards.org/)
 * [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate)
 * [Html Email Boilerplate](http://htmlemailboilerplate.com/)
+* [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
 * [Responsive Email Patterns](http://responsiveemailpatterns.com/)
 * [Zurb Ink](http://zurb.com/ink/)
 
@@ -19,6 +20,12 @@ Description: HTML for use in emails
 ## Tools
 
 * [CSS Inliner](http://beaker.mailchimp.com/inline-css) *by MailChimp*
+
+
+## Inspiration
+
+* [Inspiration by MailChimp](http://inspiration.mailchimp.com/)
+* [Really Good Emails](http://reallygoodemails.com/)
 
 
 ## Lessons
