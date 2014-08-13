@@ -49,6 +49,13 @@ Package and dependency-manager for NodeJS, serverside Javascript server.
 Open-source web analytics tool, online and app for mobile! Try it out, it even has an auto-updater.
 
 
+## [Sketch](http://bohemiancoding.com/sketch/)
+
+Vector based application for designing digital media, with all kinds nice features. Including an easy assets export. The software is available on the App Store for $79, a trial version is available on their website.
+
+Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple plugin manager for Sketch.
+
+
 ## [Sublime Text](http://www.sublimetext.com/)
 
 A lightning fast extendable and customizable text-editor. Nice alternatives are [Atom.io](https://atom.io/) which looks alot like Sublime Text, but is open-source and has a CLI and Git intergration. Adobe funded [Brackets](http://brackets.io/) which is also open-source and is completely build in JavaScript.
@@ -96,6 +103,11 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 * [Compass](http://compass-style.org/) - SASS Compiler
 * [Grunt](http://gruntjs.com/) - JavaScript Task Runner
 * [YEO](http://yeoman.io/) - Workflows with Yo, generate projects with Grunt and Bower
+
+
+## Browser plugins
+
+* [FontFaceNinja](http://fontface.ninja/)
 
 
 ## Online Tools
