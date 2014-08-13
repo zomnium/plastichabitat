@@ -22,6 +22,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [24 ways](http://24ways.org/) - Advent calendar about all kinds of stuff
 * [Axureland](http://axureland.com/) - Tutorials for Axure
 * [Can I use](http://caniuse.com/) - Cross-browser compatibility
+* [The Code Player](http://thecodeplayer.com/) - HTML5 walkthroughs
 * [Codrops](http://tympanus.net/codrops/) - Awesome html5/css3 experiments
 * [Cody](http://codyhouse.co/) - A free library of HTML, CSS, JS nuggets
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
