@@ -96,6 +96,11 @@ Description: Client side javascript and frameworks
 * [element.animate(), HTML Imports, and Object.observe()](http://blog.chromium.org/2014/05/chrome-36-beta-elementanimate-html.html)
 
 
+## Node
+
+* [ROOTS](http://roots.cx/) - toolbox
+
+
 ## D3 
 
 * [Ember and D3](http://embervis.affin.io/) - [slides](http://embervis.affin.io/slides/#/)
