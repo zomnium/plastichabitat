@@ -46,11 +46,19 @@ Description: Client side javascript and frameworks
 * [Scribe](https://github.com/guardian/scribe)
 * [ZenPen](http://www.zenpen.io/)
 
+### Tools
+
+* [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs/)
+
 ### Touch and gestures
 
 * [Hammer](http://eightmedia.github.io/hammer.js/)
 * [Interact.js](http://interactjs.io/)
 * [Slip](https://github.com/pornel/slip)
+
+### User interface
+
+* [Tooltipser](http://iamceege.github.io/tooltipster/)
 
 ### Misc.
 
