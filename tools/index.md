@@ -58,7 +58,7 @@ Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple pl
 
 ## [Sublime Text](http://www.sublimetext.com/)
 
-A lightning fast extendable and customizable text-editor. Nice alternatives are [Atom.io](https://atom.io/) which looks alot like Sublime Text, but is open-source and has a CLI and Git intergration. Adobe funded [Brackets](http://brackets.io/) which is also open-source and is completely build in JavaScript.
+A lightning fast extendable and customizable text-editor. Nice alternatives are [Atom.io](https://atom.io/) which looks alot like Sublime Text, but is open-source and has a CLI and Git intergration (also check out [Seti UI](https://atom.io/themes/seti-ui)). Adobe funded [Brackets](http://brackets.io/) which is also open-source and is completely build in JavaScript.
 
 ### Useful plugins:
 
