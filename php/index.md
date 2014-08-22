@@ -78,3 +78,14 @@ Sortable content types:
 - [Symfony Service containers](http://symfony.com/doc/current/book/service_container.html)
 - [PHP References Explained](http://www.php.net/manual/en/language.references.php)
 - More resources: [PHP The Right Way](http://www.phptherightway.com/)
+
+
+## Configuration
+
+### Change max upload file size
+
+You'll have to edit your `php.ini` file, in three places:
+
+- `upload_max_filesize` to set the maximum filesize
+- `post_max_size` for handling the forms
+- `memory_limit` is important to check too
