@@ -80,6 +80,14 @@ Sortable content types:
 - More resources: [PHP The Right Way](http://www.phptherightway.com/)
 
 
+## Realtime frameworks
+
+- [Elephant](http://elephant.io/) - *Socket.io client*
+- [PHP Deamon](http://daemon.io/)
+- [ReactPHP](http://reactphp.org/)
+- [Ratchet](http://socketo.me/)
+
+
 ## Configuration
 
 ### Change max upload file size
