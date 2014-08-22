@@ -18,11 +18,11 @@ This reference is not a course for starting with webdevelopment, you should know
 
 ### Open Source!
 
-Do you know the basics or have advanced skills? Then you probably find this a useful resource and I would appriciate to receive any feedback if you have. All content is open source and is [available on Github](https://github.com/zomnium/plastichabitat), so you can fork it!
+Do you already know how to develop websites? Then you probably find this a useful resource and I appreciate feedback if you have any. All content is open source and is [available on Github](https://github.com/zomnium/plastichabitat), so feel free to fork!
 
 
 ### A little about me
 
-My name is Tim van Bergenhenegouwen and I'm a graphic designer who also likes programming. My interests are PHP, NodeJS, Front-end MVC and Realtime applications. I'm building an open source CMS called [Robodt](http://robodt.io/).
+My name is Tim van Bergenhenegouwen and I'm a developer and graphic designer. My interests are PHP, NodeJS, Front-end MVC and Realtime applications. I'm also building an open source CMS called [Robodt](http://robodt.io/).
 
-I run a small design and development agency in the Netherlands called [Slurfhondje](http://www.slurfhondje.nl/) (Dutch for [Elephant Shrew](http://en.wikipedia.org/wiki/Elephant_shrew)) and like to create projects at [Zomnium](http://zomnium.com/). You can also find me at [Github](https://github.com/zomnium), [Twitter](http://twitter.com/slurfhondje), [Linkedin](//www.linkedin.com/in/timvanbergenhenegouwen) and [Flickr](http://flickr.com/benangerheim).
+I run a small design and development studio in the Netherlands called [Slurfhondje](http://www.slurfhondje.nl/) (Dutch for [Elephant Shrew](http://en.wikipedia.org/wiki/Elephant_shrew)) and like to create projects at [Zomnium](http://zomnium.com/). You can find me on [Github](https://github.com/zomnium), [Twitter](http://twitter.com/slurfhondje) and [Linkedin](//www.linkedin.com/in/timvanbergenhenegouwen).
