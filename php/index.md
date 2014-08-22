@@ -14,7 +14,7 @@ Description: Notes for all kinds of cms's
 	- [Silverstripe](http://silverstripe.com/)
 	- [WordPress](http://wordpress.org/)
 - Markdown & File based
-	- [Cutenews](cutephp.com/)
+	- [Cutenews](http://cutephp.com/)
 	- [Dropplets](http://dropplets.com/)
 	- [Kirby](http://getkirby.com/) *($39 per site)*
 	- [Koken](http://koken.me/)
@@ -28,7 +28,7 @@ Description: Notes for all kinds of cms's
 	- [Laravel](http://laravel.com/)
 - Micro Frameworks
 	- [Fat-free](http://fatfreeframework.com/)
-	- [Slim](slimframework.com)
+	- [Slim](http://slimframework.com)
 	- [Silex](http://silex.sensiolabs.org/)
 - PHP Extension Frameworks
 	- [Yaf](http://yafdev.com/)
