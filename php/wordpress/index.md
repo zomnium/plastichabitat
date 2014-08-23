@@ -24,6 +24,10 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [Regenerate thumbnails](http://www.viper007bond.com/wordpress-plugins/regenerate-thumbnails/) in batches
 - [WordPress Importer](http://wordpress.org/plugins/wordpress-importer/) let's you import exported content
 
+### Security and Logging
+
+- [Security Audit Log](http://wordpress.org/plugins/wp-security-audit-log/)
+
 ### Content plugins
 
 - [Akismet](http://akismet.com/) check's for spam messages
