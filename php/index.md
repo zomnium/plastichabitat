@@ -8,8 +8,11 @@ Description: Notes for all kinds of cms's
 
 - Content Management Systems
 	- [AnchorCMS](http://anchorcms.com)
+	- [Bolt](https://bolt.cm/)
 	- [Drupal](http://drupal.org/)
+	- [Fork](http://www.fork-cms.com/)
 	- [MODx](http://modx.com/)
+	- [PageKit](http://pagekit.com/)
 	- [Perch](http://grabaperch.com/) *($79 per site)*
 	- [Silverstripe](http://silverstripe.com/)
 	- [WordPress](http://wordpress.org/)
@@ -20,7 +23,13 @@ Description: Notes for all kinds of cms's
 	- [Koken](http://koken.me/)
 	- [Leeflets](https://leeflets.com/)
 	- [Pico](http://pico.dev7studios.com/)
+	- [Statamic](http://www.statamic.com/)
 	- [Robodt](http://robodt.io/)
+- Generators
+	- [Carew](http://carew.github.io/) 
+	- [Easybook](http://easybook-project.org/)
+	- [Sami](https://github.com/fabpot/sami) API documentation generator
+	- [Sculpin](https://sculpin.io/)
 - Frameworks
 	- [CakePHP](http://cakephp.org/)
 	- [CodeIgniter](http://ellislab.com/codeigniter)
