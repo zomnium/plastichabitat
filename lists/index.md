@@ -15,6 +15,9 @@ Description: Resources, frameworks, plugins, tools etc.
 		- DB
 		- Flat
 	- NodeJS
+		- [Express](http://expressjs.com/)
+		- [Middleman](http://middlemanapp.com/)
+		- [Wintersmith](http://wintersmith.io/)
 	- Django
 - Frameworks
 	- PHP
@@ -27,4 +30,13 @@ Description: Resources, frameworks, plugins, tools etc.
 	- Galleries
 	- Sliders
 	- Misc...
-
+- Hosting &amp; Cloud
+	- [Amazon Web Services](http://aws.amazon.com/)
+	- [Appfog](https://www.appfog.com/)
+	- [Divshot](http://www.divshot.com/)
+	- [Google Cloud Platform](https://cloud.google.com/)
+	- [OpenShift](https://www.openshift.com/)
+	- [Pantheon](https://www.getpantheon.com/)
+- Databases
+	- [Cloudant](https://cloudant.com/)
+	- [FoundationDB](https://foundationdb.com/)
