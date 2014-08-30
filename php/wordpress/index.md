@@ -29,6 +29,10 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [Regenerate thumbnails](http://www.viper007bond.com/wordpress-plugins/regenerate-thumbnails/) in batches
 - [WordPress Importer](http://wordpress.org/plugins/wordpress-importer/) let's you import exported content
 
+### Editing
+
+- [Conductor](http://slocumthemes.com/wordpress-plugins/conductor/)
+
 ### Security and Logging
 
 - [Security Audit Log](http://wordpress.org/plugins/wp-security-audit-log/)
@@ -90,3 +94,4 @@ More background information:
 - [How to get a post from another site in the network](http://make.marketpress.com/multilingualpress/2014/07/how-to-get-a-post-from-another-site-in-the-network/)
 - [Switch to blog performance](http://wordpress.stackexchange.com/questions/106834/switch-to-blog-performance-considerations-alternatives)
 - [Before you create a network](http://codex.wordpress.org/Before_You_Create_A_Network)
+- [Share some data between two blogs](http://wordpress.org/support/topic/share-some-data-between-2-blogs-on-one-install)
