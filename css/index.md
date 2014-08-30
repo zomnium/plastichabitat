@@ -113,7 +113,7 @@ Also check out [Modular Scale](http://modularscale.com/), which also has a Sass 
 Several approaches are available to write modulair CSS (it's a way of working, not a tool):
 
 - [SMACCS](http://smacss.com/)
-- BEM
+- [BEM](http://bem.info/)
     - [Getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) *by CSS Wizardry*
     - [Our principles for BEM + Sass](http://blog.14islands.com/post/70395374262/our-principles-for-bem-sass) *by 14islands*
     - [Sassier (BE)Modifers](http://viget.com/extend/bem-sass-modifiers) *by Viget*
