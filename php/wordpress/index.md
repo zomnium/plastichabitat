@@ -4,6 +4,11 @@ Description: Handy plugins, resources and snippets for WordPress.
 */
 
 
+## Useful resources
+
+- [Make Sense of WP Query Functions](http://wordpress.stackexchange.com/questions/1753/when-should-you-use-wp-query-vs-query-posts-vs-get-posts)
+
+
 ## Developing themes
 
 It can be a lot of work to start from nothing, therefore it can be useful to start from a boilerplate:
@@ -40,15 +45,48 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [Jetpack Widget Visibility](http://wordpress.org/plugins/jetpack-widget-visibility/) manage visibility per widget
 - [Multisite Posts](https://wordpress.org/plugins/multisite-posts/) receives posts across sites
 
-
 ### Admin UI
 
 - [Post types reorder](https://wordpress.org/plugins/post-types-order/) using a dragg and drop interface
 - [White label CMS](www.videousermanuals.com/white-label-cms/) for a branded experience
 
+### MultiSite/Network related
+
+- [Broadcast MU](http://wordpress.org/plugins/broadcast-mu/)
+- [Proper Network Activiation](http://wordpress.org/plugins/proper-network-activation/)
+- [ThreeWP Broadcast](http://wordpress.org/plugins/threewp-broadcast/)
+
 
 ## Multilingual websites
 
 - [Codestyling Localization](http://www.code-styling.de/deutsch/entwicklungen/wordpress-plugin-codestyling-localization)
+- [Multilingual Press](https://wordpress.org/plugins/multilingual-press/)
 - [Polylang](http://polylang.wordpress.com/)
 - [Zanto](http://zanto.org/)
+
+
+## Snippets
+
+### Get a post from another multisite
+
+You can do this:
+
+	switch_to_blog( $site_id );
+	$post = get_post( $post_id );
+	restore_current_blog();
+
+But this function is also in WP core:
+
+	function get_blog_post( $blog_id, $post_id ) {
+	    switch_to_blog( $blog_id );
+	    $post = get_post( $post_id );
+	    restore_current_blog();
+
+	    return $post;
+	}
+
+More background information:
+
+- [How to get a post from another site in the network](http://make.marketpress.com/multilingualpress/2014/07/how-to-get-a-post-from-another-site-in-the-network/)
+- [Switch to blog performance](http://wordpress.stackexchange.com/questions/106834/switch-to-blog-performance-considerations-alternatives)
+- [Before you create a network](http://codex.wordpress.org/Before_You_Create_A_Network)
