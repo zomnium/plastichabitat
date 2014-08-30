@@ -26,3 +26,8 @@ Todo!
 - [Barebones](http://barebones.paulrobertlloyd.com/)
 - [Styledecco](http://jacobrask.github.io/styledocco/)
 - [Kalei Styleguide](http://kaleistyleguide.com/)
+- [kss-node](http://kss-node.github.io/kss-node/)
+
+### Articles
+
+- [Using Handlebars.js Templates in the LivingStyleGuide](http://www.hagenburger.net/BLOG/handlebars-js-templates-living-style-guide.html) *by hagenburger*
