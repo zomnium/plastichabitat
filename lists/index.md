@@ -33,6 +33,7 @@ Description: Resources, frameworks, plugins, tools etc.
 - Hosting &amp; Cloud
 	- [Amazon Web Services](http://aws.amazon.com/)
 	- [Appfog](https://www.appfog.com/)
+	- [DigitalOcean](https://www.digitalocean.com/)
 	- [Divshot](http://www.divshot.com/)
 	- [EngineYard](https://www.engineyard.com/)
 	- [Google Cloud Platform](https://cloud.google.com/)
