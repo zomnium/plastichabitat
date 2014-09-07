@@ -34,9 +34,11 @@ Description: Resources, frameworks, plugins, tools etc.
 	- [Amazon Web Services](http://aws.amazon.com/)
 	- [Appfog](https://www.appfog.com/)
 	- [Divshot](http://www.divshot.com/)
+	- [EngineYard](https://www.engineyard.com/)
 	- [Google Cloud Platform](https://cloud.google.com/)
 	- [OpenShift](https://www.openshift.com/)
 	- [Pantheon](https://www.getpantheon.com/)
+	- [Resello](https://www.resello.com/)
 - Databases
 	- [Cloudant](https://cloudant.com/)
 	- [FoundationDB](https://foundationdb.com/)
