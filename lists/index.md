@@ -37,6 +37,7 @@ Description: Resources, frameworks, plugins, tools etc.
 	- [Divshot](http://www.divshot.com/)
 	- [EngineYard](https://www.engineyard.com/)
 	- [Google Cloud Platform](https://cloud.google.com/)
+	- [Modulus](https://modulus.io/)
 	- [OpenShift](https://www.openshift.com/)
 	- [Pantheon](https://www.getpantheon.com/)
 	- [Resello](https://www.resello.com/)
