@@ -86,6 +86,8 @@ Sortable content types:
 - [Symfony DI Dependency Injection](http://symfony.com/doc/current/components/dependency_injection/introduction.html)
 - [Symfony Service containers](http://symfony.com/doc/current/book/service_container.html)
 - [PHP References Explained](http://www.php.net/manual/en/language.references.php)
+- [PHP Property Visibility](http://php.net/manual/en/language.oop5.visibility.php)
+- [PHP Traits](http://php.net/manual/en/language.oop5.traits.php)
 - More resources: [PHP The Right Way](http://www.phptherightway.com/)
 
 
