@@ -64,6 +64,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
 - [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/)
 - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
+- [5 of the Most Popular WordPress Caching Plugins](http://www.sitepoint.com/5-of-the-most-popular-wordpress-caching-plugins/) *on Sitepoint*
 
 ### MultiSite/Network related
 
