@@ -54,6 +54,17 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [Post types reorder](https://wordpress.org/plugins/post-types-order/) using a dragg and drop interface
 - [White label CMS](www.videousermanuals.com/white-label-cms/) for a branded experience
 
+### Performance
+
+- [WordPress Optimization/WordPress Performance](http://codex.wordpress.org/WordPress_Optimization/WordPress_Performance)
+- [WordPress Optimization/Caching](http://codex.wordpress.org/WordPress_Optimization/Caching)
+- [WordPress Performance Improvements That Can Go Wrong](http://www.smashingmagazine.com/2014/03/21/wordpress-performance-improvements-that-can-go-wrong/)
+- [Asynchronous Javascript](https://wordpress.org/plugins/asynchronous-javascript/)
+- [WP Performance Pack](http://wordpress.org/plugins/wp-performance-pack/)
+- [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
+- [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/)
+- [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
+
 ### MultiSite/Network related
 
 - [Broadcast MU](http://wordpress.org/plugins/broadcast-mu/)
