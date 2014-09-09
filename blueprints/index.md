@@ -55,3 +55,59 @@ Add a little bit of styling and your done!
 	    padding: 1em;
 	    text-align: center;
 	}
+
+
+## Maintenance page, using .htaccess
+
+When you're doing some maintenance on your website, it's nice to have all traffic redirected to a message that it will be back asap. This way they can't interupt anything and know about the current state (or else they will think the website is broken).
+
+When using an Apache stack, the easiest way is to use `.htaccess`. See the example below, with this piece of configuration all requests will be redirected to `maintenance.html` (which will be the only accessible file).
+
+	Options +FollowSymlinks
+	RewriteEngine On
+	RewriteBase /
+	RewriteCond %{REQUEST_URI} !/maintenance.html$
+	RewriteRule .* /maintenance.html [R=307,L]
+
+So when you create a be right back message, just name it `maintenance.html` and make sure all needed css, javascript and assets are in there! All other files won't be accessible with this configuration.
+
+### Don't lock yourself out
+
+The only problem with the previous `.htaccess` configuration is that it will redirect everyone, including you. If you want to lock everybody out, except yourself. Then the following snippet could be useful:
+
+	Options +FollowSymlinks
+	RewriteEngine On
+	RewriteBase /
+	RewriteCond %{REMOTE_ADDR} !^11\.111\.111\.111
+	RewriteCond %{REQUEST_URI} !^/maintenance\.html$
+	RewriteRule .* /maintenance.html [R=307,L]
+
+*Don't forget to replace the IP-address with your own*
+
+### Maintenance page for WordPress
+
+When you want to apply the tricks seen above to a WordPress website, you will get this:
+
+	# Mod rewrite
+	Options +FollowSymlinks
+	RewriteEngine On
+	RewriteBase /
+
+	# Maintenance
+	RewriteCond %{REMOTE_ADDR} !^11\.111\.111\.111
+	RewriteCond %{REQUEST_URI} !^/maintenance\.html$
+	RewriteRule .* /maintenance.html [R=307,L]
+
+	# WordPress
+	RewriteRule ^index\.php$ - [L]
+	RewriteRule ^wp-admin$ wp-admin/ [R=301,L]
+	RewriteCond %{REQUEST_FILENAME} -f [OR]
+	RewriteCond %{REQUEST_FILENAME} -d
+	RewriteRule ^ - [L]
+	RewriteRule ^(wp-(content|admin|includes).*) $1 [L]
+	RewriteRule ^(.*\.php)$ $1 [L]
+	RewriteRule . index.php [L]
+
+*And again, don't forget to replace the IP-address with yours!*
+
+When you wan't to go back online, just comment out the Maintenance section by putting `#` before each line. Save and upload, done! You're back online :)
