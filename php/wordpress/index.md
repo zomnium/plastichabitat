@@ -36,6 +36,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 ### Security and Logging
 
 - [Security Audit Log](http://wordpress.org/plugins/wp-security-audit-log/)
+- [Wordfence](http://wordpress.org/plugins/wordfence/)
 
 ### Content plugins
 
@@ -64,6 +65,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
 - [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/)
 - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
+- [Wordfence](http://wordpress.org/plugins/wordfence/)
 - [5 of the Most Popular WordPress Caching Plugins](http://www.sitepoint.com/5-of-the-most-popular-wordpress-caching-plugins/) *on Sitepoint*
 
 ### MultiSite/Network related
@@ -71,6 +73,8 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [Broadcast MU](http://wordpress.org/plugins/broadcast-mu/)
 - [Proper Network Activiation](http://wordpress.org/plugins/proper-network-activation/)
 - [ThreeWP Broadcast](http://wordpress.org/plugins/threewp-broadcast/)
+
+Manage remote WordPress installations with [ManageWP Worker](http://wordpress.org/plugins/worker/).
 
 
 ## Multilingual websites
