@@ -106,7 +106,12 @@ Description: Client side javascript and frameworks
 
 ## Node
 
-* [ROOTS](http://roots.cx/) - toolbox
+* [Express](http://expressjs.com/) application framework
+* [Ghost](https://ghost.org/) publishing platform
+* [Hexo](http://hexo.io/) bloging framework
+* [ROOTS](http://roots.cx/) toolbox
+* [Sails](http://sailsjs.org/) realtime framework
+* [Wintersmith](http://wintersmith.io/) static site generator
 
 
 ## D3 
