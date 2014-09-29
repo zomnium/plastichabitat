@@ -35,6 +35,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 
 ### Security and Logging
 
+- [Blackbox](https://wordpress.org/plugins/blackbox-debug-bar/)
 - [Security Audit Log](http://wordpress.org/plugins/wp-security-audit-log/)
 - [Wordfence](http://wordpress.org/plugins/wordfence/)
 
