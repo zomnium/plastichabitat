@@ -20,6 +20,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [Underscores](http://underscores.me/) Start Theme
 - [Roots](http://roots.io/) Modern WordPress Development, *using Composer, Boilerplate, Bootstrap and Grunt*
 - [Customizing the Roots Theme Pure CSS and Sass/Compass](http://kalenjohnson.com/customizing-roots-sass/)
+- [Timber](https://github.com/jarednova/timber) for OO Twig templates in WordPress
 
 
 ## Useful plugins
