@@ -25,7 +25,7 @@ Description: Notes for all kinds of cms's
 	- [Pico](http://pico.dev7studios.com/)
 	- [Statamic](http://www.statamic.com/)
 	- [Robodt](http://robodt.io/)
-- Generators
+- Generators ([nice overview](https://www.staticgen.com/))
 	- [Carew](http://carew.github.io/) 
 	- [Easybook](http://easybook-project.org/)
 	- [Sami](https://github.com/fabpot/sami) API documentation generator
