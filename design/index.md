@@ -4,9 +4,19 @@ Description: Desiiiiign
 */
 
 
+## What to do...
+
+On this page I want to write about the following subjects:
+
+- Designing in the browser
+- Content first approach (or is this workflow?)
+- Designing with style guides and patterns
+- The mathematical aspect of design, using grids and modular scaling
+
+
 ## Interesting Articles
 
-- [Automic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
+- [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
 - [Element Collages](http://danielmall.com/articles/rif-element-collages/)
 - [Hack Smart Objects to Create Dynamic Sprites](http://methodandcraft.com/videos/hack-smart-objects-to-create-dynamic-sprites)
 - [Style Tiles](http://styletil.es/)
