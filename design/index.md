@@ -53,3 +53,4 @@ On this page I want to write about the following subjects:
 [Pears](http://pea.rs/) - not active anymore?
 [Rock Hammer](http://malarkey.github.io/Rock-Hammer/) - [article](http://stuffandnonsense.co.uk/blog/about/rock-hammer-a-curated-responsive-project-library)
 [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
+[Designer Theme Style Guide](http://themes.array.is/designer/style-guide/)
