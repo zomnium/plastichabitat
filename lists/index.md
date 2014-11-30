@@ -26,6 +26,17 @@ Description: Resources, frameworks, plugins, tools etc.
 	- NodeJS
 	- Javascript
 	- Java
+- PHP template engines
+	- [Blade](http://laravel.com/docs/4.2/templates)
+	- [Dwoo](http://dwoo.org/)
+	- [FigDice](http://www.figdice.org/)
+	- [Mustache](http://mustache.github.io/)
+	- [PHPTal](http://phptal.org/)
+	- [Plates](http://platesphp.com/)
+	- [Smarty](http://www.smarty.net/)
+	- [Timber](http://upstatement.com/timber/) - *WordPress theming framework*
+	- [Twig](http://twig.sensiolabs.org/)
+	- [Razr](https://github.com/pagekit/razr)
 - jQuery plugins
 	- Galleries
 	- Sliders
