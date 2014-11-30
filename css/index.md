@@ -141,6 +141,7 @@ There's a lot of choice, below a little overview with well-known frameworks you 
 - [GuideGuide2](http://guideguide.me/) *- Grids extension for Photoshop*
 - [Gumpy](http://gumbyframework.com/)
 - [Jeet](http://jeet.gs/)
+- [Less Framework](http://lessframework.com/)
 - [PopGrid](http://www.popgridsass.com/)
 - [Pure](http://purecss.io/)
 - [Semantic Grid System](http://semantic.gs/)
