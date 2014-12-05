@@ -135,6 +135,7 @@ There's a lot of choice, below a little overview with well-known frameworks you 
 - [Bourbon Neat](http://neat.bourbon.io/)
 - [Concise](http://concisecss.com/)
 - [Fluid Baseline Grid](http://fluidbaselinegrid.com/)
+- [Fluidity](http://www.fluiditycss.com/)
 - [Foundation](http://foundation.zurb.com/)
 - [Golden Grid System](http://goldengridsystem.com/) *- Grid concept*
 - [Goldilocks](http://goldilocksapproach.com/)
@@ -209,6 +210,7 @@ Nice libraries:
 - [Bourbon](http://bourbon.io/) Lightweight mixin library for Sass.
 - [Bourbon Neat](http://neat.bourbon.io/) Lightweight semantic grid framework for Sass.
 - [Bourbon Refills](http://refills.bourbon.io/) Prepackaged patterns and components, built on top of Bourbon, Bitters, and Neat.
+- [Jeet](http://jeet.gs/) Grid system
 
 
 ### [AbsurdJS](http://krasimir.github.io/absurd/)
@@ -225,7 +227,9 @@ It's a very basic preprocessor, when you're a performance user you'll probably b
 
 CSS preprocessor built on NodeJS, so quite easy to install and intergrate in your workflow. [Nice tutorial on tutplus](http://webdesign.tutsplus.com/articles/why-i-choose-stylus-and-you-should-too--webdesign-18412).
 
-- [Rupture](https://github.com/jenius/rupture) breakpoint handling
+- [Fluidity](http://www.fluiditycss.com/) Framework
+- [Jeet](http://jeet.gs/) Grid system
+- [Rupture](https://github.com/jenius/rupture) Breakpoint handling
 
 
 
