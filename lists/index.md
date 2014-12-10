@@ -37,6 +37,8 @@ Description: Resources, frameworks, plugins, tools etc.
 	- [Timber](http://upstatement.com/timber/) - *WordPress theming framework*
 	- [Twig](http://twig.sensiolabs.org/)
 	- [Razr](https://github.com/pagekit/razr)
+- Template Engines
+	- [Jade](http://jade-lang.com/)
 - jQuery plugins
 	- Galleries
 	- Sliders
