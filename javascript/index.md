@@ -122,6 +122,7 @@ Description: Client side javascript and frameworks
 ## JS Fun
 
 * [In browser DVD's](http://gmarty.github.io/jsconf-2014-talk-play-dvd-in-js/)
+* [Screeps](http://screeps.com/) JavaScript game!
 
 
 ## Wrapper
