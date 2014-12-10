@@ -48,9 +48,15 @@ On this page I want to write about the following subjects:
 
 ### (still have to process this info :P)
 
-[Pattern Primer](https://github.com/adactio/Pattern-Primer) / [preview?](http://patternprimer.adactio.com/)
-[Style Guide Boilerplate](http://brettjankord.com/projects/style-guide-boilerplate/)
-[Pears](http://pea.rs/) - not active anymore?
-[Rock Hammer](http://malarkey.github.io/Rock-Hammer/) - [article](http://stuffandnonsense.co.uk/blog/about/rock-hammer-a-curated-responsive-project-library)
-[Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
-[Designer Theme Style Guide](http://themes.array.is/designer/style-guide/)
+- [Pattern Primer](https://github.com/adactio/Pattern-Primer) / [preview?](http://patternprimer.adactio.com/)
+- [Style Guide Boilerplate](http://brettjankord.com/projects/style-guide-boilerplate/)
+- [Pears](http://pea.rs/) - not active anymore?
+- [Rock Hammer](http://malarkey.github.io/Rock-Hammer/) - [article](http://stuffandnonsense.co.uk/blog/about/rock-hammer-a-curated-responsive-project-library)
+- [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
+- [Designer Theme Style Guide](http://themes.array.is/designer/style-guide/)
+
+
+## Facebook images
+
+- [All Facebook Image Dimensions](http://www.jonloomer.com/2014/01/20/facebook-image-dimensions/)
+- [Fb pages: Sizes &amp; dimensions](https://www.facebook.com/PagesSizesDimensions)
