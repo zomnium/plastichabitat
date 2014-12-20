@@ -27,6 +27,7 @@ Description: Client side javascript and frameworks
 * [localForage](http://mozilla.github.io/localForage/)
 * [PlayerJS](http://playerjs.io/)
 * [Watch.js](https://github.com/melanke/Watch.JS)
+* [Metrics Graphics JS](http://metricsgraphicsjs.org/)
 
 
 ## Useful libraries and plugins
