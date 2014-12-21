@@ -91,6 +91,7 @@ Description: Useful websites, guides, blogs and newsletters
 
 * [Designspiration](http://designspiration.net/)
 * [HTTPSTER](http://httpster.net/)
+* [MaterialUp](http://www.materialup.com/)
 * [Mediaqueri.es](http://mediaqueri.es/)
 * [Minimal Sites](http://www.minimalsites.com/)
 * [Mobile Patterns](http://www.mobile-patterns.com/)
