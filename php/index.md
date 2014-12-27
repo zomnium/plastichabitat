@@ -33,8 +33,9 @@ Description: Notes for all kinds of cms's
 - Frameworks
 	- [CakePHP](http://cakephp.org/)
 	- [CodeIgniter](http://ellislab.com/codeigniter)
-	- [Symfony](http://symfony.com/)
 	- [Laravel](http://laravel.com/)
+	- [PPI](http://ppi.io/)
+	- [Symfony](http://symfony.com/)
 - Micro Frameworks
 	- [Fat-free](http://fatfreeframework.com/)
 	- [Slim](http://slimframework.com)
