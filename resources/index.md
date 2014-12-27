@@ -99,3 +99,4 @@ Description: Useful websites, guides, blogs and newsletters
 * [Pttrns](http://www.pttrns.com/)
 * [Siteinspire](http://siteinspire.com/)
 * [Trendlist](http://www.trendlist.org/)
+* [Vormplatform](http://www.vormplatform.nl/)
