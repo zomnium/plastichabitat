@@ -37,6 +37,7 @@ Combine Mac OS X with Apache, MySQL and PHP and you'll have MAMP. There is an ap
 * [PHP for OS X by Liip](https://github.com/liip/php-osx)
 * [MySQL Community Edition](http://dev.mysql.com/downloads/mysql/)
 * Pre-installed Apache with vhosts and /etc/hosts
+* [Get MAMP working on Yosemite](http://coolestguidesontheplanet.com/get-apache-mysql-php-phpmyadmin-working-osx-10-10-yosemite/)
 
 
 ## [Npm](https://npmjs.org/)
