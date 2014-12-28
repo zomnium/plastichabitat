@@ -117,6 +117,7 @@ Several approaches are available to write modulair CSS (it's a way of working, n
     - [Getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) *by CSS Wizardry*
     - [Our principles for BEM + Sass](http://blog.14islands.com/post/70395374262/our-principles-for-bem-sass) *by 14islands*
     - [Sassier (BE)Modifers](http://viget.com/extend/bem-sass-modifiers) *by Viget*
+    - [The Evolution Of The BEM Methodology](http://www.smashingmagazine.com/2013/02/21/the-history-of-the-bem-methodology/)
 - [DoCSSa](http://docssa.info/)
 - OOCS
 - Working method
