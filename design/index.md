@@ -60,3 +60,11 @@ On this page I want to write about the following subjects:
 
 - [All Facebook Image Dimensions](http://www.jonloomer.com/2014/01/20/facebook-image-dimensions/)
 - [Fb pages: Sizes &amp; dimensions](https://www.facebook.com/PagesSizesDimensions)
+
+
+## Modular scale
+
+- [Modular scale](http://modularscale.com/) - [example](http://modularscale.com/scale/?px1=16&px2=300&ra1=1.5&ra2=0)
+- [Composing the new canon](http://24ways.org/2011/composing-the-new-canon/)
+- [More meaningful typography](http://alistapart.com/article/more-meaningful-typography)
+- [Building Sparkbox](http://building.seesparkbox.com/)
