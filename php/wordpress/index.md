@@ -117,3 +117,10 @@ More background information:
 - [Switch to blog performance](http://wordpress.stackexchange.com/questions/106834/switch-to-blog-performance-considerations-alternatives)
 - [Before you create a network](http://codex.wordpress.org/Before_You_Create_A_Network)
 - [Share some data between two blogs](http://wordpress.org/support/topic/share-some-data-between-2-blogs-on-one-install)
+
+
+## Posts
+
+- [Get posts](http://codex.wordpress.org/Template_Tags/get_posts)
+- [WP_Query](http://codex.wordpress.org/Class_Reference/WP_Query)
+- [Using WP_Query](http://www.smashingmagazine.com/2013/01/14/using-wp_query-wordpress/) *on Smashing Magazine*
