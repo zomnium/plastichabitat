@@ -21,7 +21,7 @@ Description: Components and snippets, responsive and for daily use
 
 ## Easiest fallback for Internet Explorer (IE6 to IE8)
 
-It takes a lot of time building for old IE browsers and debugging is a pain. Hacks and fallbacks will quickly take over your code. But if you design and build website with a content/mobile first approach there is an easy way out! Media queries are supported by IE9 and up, so that CSS won't be executed. In combination with Paul Irish's [IE conditional classes](http://paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/) and a few rules of CSS you can serve just simple mobile layouts:
+It takes a lot of time building for old IE browsers and debugging is a pain. Hacks and fallbacks will quickly take over your code. But if you design and build website with a content/mobile first approach there is an easy way out! Media queries are supported by IE9 and up. So all that CSS code in the media queries won't be executed. In combination with Paul Irish's [IE conditional classes](http://paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/) and a few rules of CSS you can serve the mobile layout:
 
 	body {
 		width: auto;
@@ -39,9 +39,9 @@ It takes a lot of time building for old IE browsers and debugging is a pain. Hac
 
 More information about this approach: [Leaving old IE behind](http://www.jonikorpi.com/leaving-old-IE-behind/) *by Joni Korpi*
 
-You can also add a little browse happy notification for those people who are affected by this, if you use [Html5 Boilerplate](http://html5boilerplate.com/) you'll already have this piece of code. Put it right after the opening body tag. This way your visitors know they're not browsing the most beautiful version of your website.
+You can also add a little browse happy notification for those people who are affected by this, if you use [Html5 Boilerplate](http://html5boilerplate.com/) you'll already have this piece of code. Although Html5 Boilerplate uses lower then IE 10 by default. Put it right after the opening body tag. This way your visitors know they're not getting the full desktop experience.
 
-	<!--[if lt IE 10]>
+	<!--[if lt IE 9]>
 	<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 	<![endif]-->
 
@@ -55,6 +55,20 @@ Add a little bit of styling and your done!
 	    padding: 1em;
 	    text-align: center;
 	}
+
+### Important note!
+
+Recently I read some issues on GitHub from the HTML5 boilerplate project. Where they removed conditional classes:
+
+* [Conditional comments wrapping <html> prevent IE from honouring <meta http-equiv=X-UA-Compatible>](https://github.com/h5bp/html5-boilerplate/issues/1187)
+* [Remove IE conditional classes](https://github.com/h5bp/html5-boilerplate/issues/1290)
+
+So I'm looking for better fallback technics (if it's needed at all). Some things that can come in handy:
+
+* [Modernizr](http://modernizr.com/)
+* [CSS Browser Selector](https://github.com/ridjohansen/css_browser_selector)
+
+*To be continued!*
 
 
 ## Maintenance page, using .htaccess
