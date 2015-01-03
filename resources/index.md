@@ -10,6 +10,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [CSS Tricks](http://css-tricks.com/)
 * [Designmodo](http://designmodo.com/)
 * [Html5Rocks](http://html5rocks.com/)
+* [Product Hunt](http://www.producthunt.com/)
 * [Scotch](http://scotch.io/)
 * [Sitepoint](http://www.sitepoint.com/)
 * [Smashing Magazine](http://smashingmagazine.com/)
@@ -23,6 +24,8 @@ Description: Useful websites, guides, blogs and newsletters
 * [Axureland](http://axureland.com/) - Tutorials for Axure
 * [Can I use](http://caniuse.com/) - Cross-browser compatibility
 * [The Code Player](http://thecodeplayer.com/) - HTML5 walkthroughs
+* [Codepen: Design Patterns](http://codepen.io/patterns/) - Ideas for your Projects
+* [Codepen: Webfont Browser Bugs](http://codepen.io/collection/ijEJq/) - A collection of browser bugs related to fonts, web fonts and text rendering
 * [Codrops](http://tympanus.net/codrops/) - Awesome html5/css3 experiments
 * [Cody](http://codyhouse.co/) - A free library of HTML, CSS, JS nuggets
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
@@ -75,8 +78,10 @@ Description: Useful websites, guides, blogs and newsletters
 * [Devices](http://marvelapp.github.io/devices.css/) - 8 Pure CSS Flat Mobile Devices
 * [Font Awesome](http://fontawesome.io/)
 * [Icon Works](http://icon-works.com/) - Free Icon Font
+* [Mazwai](http://mazwai.com/)
 * [The Noun Project](http://thenounproject.com/)
 * [The Pattern Library](http://thepatternlibrary.com/)
+* [Raumrot](http://www.raumrot.com/)
 * [Stock photos that don't suck](https://medium.com/p/62ae4bcbe01b)
 * [Subtle Patterns](http://subtlepatterns.com/)
 
@@ -100,3 +105,9 @@ Description: Useful websites, guides, blogs and newsletters
 * [Siteinspire](http://siteinspire.com/)
 * [Trendlist](http://www.trendlist.org/)
 * [Vormplatform](http://www.vormplatform.nl/)
+
+
+## Communities
+
+* [Behance](https://www.behance.net/)
+* [Meeet](http://meeet.co/)
