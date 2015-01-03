@@ -40,11 +40,15 @@ On this page I want to write about the following subjects:
 - [Kalei Styleguide](http://kaleistyleguide.com/)
 - [kss-node](http://kss-node.github.io/kss-node/)
 - [Pattern Lab](http://patternlab.io/)
+- [SC5 Styleguide](http://styleguide.sc5.io/)
 - [Styledecco](http://jacobrask.github.io/styledocco/)
+- [Stylify Me](http://stylifyme.com/)
 
 ### Articles
 
 - [Using Handlebars.js Templates in the LivingStyleGuide](http://www.hagenburger.net/BLOG/handlebars-js-templates-living-style-guide.html) *by hagenburger*
+- [Styleguide driven development](http://webuild.envato.com/blog/styleguide-driven-development/) *by Envato*
+- [Style Guide Best Practices](http://bradfrost.com/blog/post/style-guide-best-practices/) *by Brad Frost*
 
 ### (still have to process this info :P)
 
@@ -54,6 +58,12 @@ On this page I want to write about the following subjects:
 - [Rock Hammer](http://malarkey.github.io/Rock-Hammer/) - [article](http://stuffandnonsense.co.uk/blog/about/rock-hammer-a-curated-responsive-project-library)
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
 - [Designer Theme Style Guide](http://themes.array.is/designer/style-guide/)
+
+
+## Atomic Design
+
+- [Pattern Lab](http://patternlab.io/) *Create atomic design systems*
+- [Brad Frost: Atomic Design (Webdagene 2014)](http://vimeo.com/109130093) *on Vimeo*
 
 
 ## Facebook images
@@ -68,3 +78,13 @@ On this page I want to write about the following subjects:
 - [Composing the new canon](http://24ways.org/2011/composing-the-new-canon/)
 - [More meaningful typography](http://alistapart.com/article/more-meaningful-typography)
 - [Building Sparkbox](http://building.seesparkbox.com/)
+- [Gridlover](http://www.gridlover.net/) *The tool to establish a typographic system
+with modular scale and vertical rhythm.*
+
+
+## Typography
+
+- [Typeplate](http://typeplate.com/)
+- [Web Design is 95% Typography](https://ia.net/blog/the-web-is-all-about-typography-period/)
+- [Typography is a practice.](http://practice.typekit.com/)
+- [Typography is how text looks](http://practice.typekit.com/lesson/typography-is-how-text-looks/)
