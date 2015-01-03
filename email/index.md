@@ -55,3 +55,9 @@ Description: HTML for use in emails
 ## Aditional awesomeness
 
 * [HTML5 email background](https://litmus.com/blog/how-to-code-html5-video-background-in-email) - *by Litmus*
+
+
+## Great articles
+
+* [Making responsive HTML emails](http://www.benjystanton.co.uk/blog/making-responsive-html-emails/) *by Benjy Stanton*
+* [A Bulletproof Guide to Using HTML5 and CSS3 in Email ](https://litmus.com/blog/a-bulletproof-guide-to-using-html5-and-css3-in-email) *on Litmus*
