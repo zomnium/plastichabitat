@@ -119,6 +119,9 @@ Several approaches are available to write modulair CSS (it's a way of working, n
     - [Sassier (BE)Modifers](http://viget.com/extend/bem-sass-modifiers) *by Viget*
     - [The Evolution Of The BEM Methodology](http://www.smashingmagazine.com/2013/02/21/the-history-of-the-bem-methodology/)
 - [DoCSSa](http://docssa.info/)
+- [csstyle](http://www.csstyle.io/)
+- DRY
+    - [CSS, DRY, and Code Optimization](http://meiert.com/en/blog/20141009/css-dry-and-optimization/)
 - OOCS
 - Working method
 - Part sheets
@@ -132,6 +135,7 @@ Several approaches are available to write modulair CSS (it's a way of working, n
 There's a lot of choice, below a little overview with well-known frameworks you can build upon:
 
 - [960gs](http://960.gs/)
+- [Applepie](http://www.apppie.org/)
 - [Bootstrap](http://getbootstrap.com/)
 - [Bourbon Neat](http://neat.bourbon.io/)
 - [Concise](http://concisecss.com/)
@@ -260,6 +264,11 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 ### CSS3
 
 - [Getting to know CSS Blend Modes](http://dev.opera.com/articles/getting-to-know-css-blend-modes/)
+- [Flexbox adventures](http://chriswrightdesign.com/experiments/flexbox-adventures/)
+
+### Optimize
+
+- [Understanding CSS Stats: How to Make the Most of the Numbers](http://webdesign.tutsplus.com/tutorials/understanding-css-stats-how-to-make-the-most-of-the-numbers--cms-22756) *on Tuts+*
 
 ### Fun
 
