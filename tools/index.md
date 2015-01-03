@@ -57,9 +57,9 @@ Vector based application for designing digital media, with all kinds nice featur
 Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple plugin manager for Sketch.
 
 
-## [Sublime Text](http://www.sublimetext.com/)
+## [Sublime Text](http://www.sublimetext.com/) *and code editors in general*
 
-A lightning fast extendable and customizable text-editor. Nice alternatives are [Atom.io](https://atom.io/) which looks alot like Sublime Text, but is open-source and has a CLI and Git intergration (also check out [Seti UI](https://atom.io/themes/seti-ui)). Adobe funded [Brackets](http://brackets.io/) which is also open-source and is completely build in JavaScript.
+A lightning fast extendable and customizable text-editor. Nice alternatives are [Atom.io](https://atom.io/) which looks alot like Sublime Text, but is open-source and has a CLI and Git intergration (also check out [Seti UI](https://atom.io/themes/seti-ui)). Adobe funded [Brackets](http://brackets.io/) which is also open-source and is completely build in JavaScript. Commonly used paid editors are [Coda](https://panic.com/coda/) and [BBEdit](http://www.barebones.com/products/bbedit/).
 
 ### Useful plugins:
 
@@ -100,7 +100,7 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 
 ## Front-end Tools
 
-* [Bower](http://bower.io/) - Web Package Manager
+* [Bower](http://bower.io/) - Web Package Manager / [What’s So Great About Bower?](http://css-tricks.com/whats-great-bower/)
 * [Compass](http://compass-style.org/) - SASS Compiler
 * [Grunt](http://gruntjs.com/) - JavaScript Task Runner
 * [YEO](http://yeoman.io/) - Workflows with Yo, generate projects with Grunt and Bower
@@ -113,8 +113,11 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 
 ## Online Tools
 
+* [Brandcolors](http://brandcolors.net/)
 * [Compressor.io](http://compressor.io/compress)
+* [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Google Maps Builder](http://googlemapbuilder.mynameisdonald.com/)
+* [Gridlover](http://www.gridlover.net/)
 * [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
 * [Material Palette](http://www.materialpalette.com/)
 * [Nibbler](http://nibbler.silktide.com/)
