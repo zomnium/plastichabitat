@@ -63,3 +63,17 @@ Good to know: Facebook uses OpenGraph (OG in short) for getting titles, images a
  		<a target="_blank" class="button button--social button--google" href="https://plus.google.com/share?url=[permalink]">Google+</a>
 		<a target="_blank" class="button button--social button--linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=[permalink]&title=[title]&source=[permalink]">LinkedIn</a>
 	</p>
+
+
+## Icons
+
+[Favicons, Touch Icons, Tile Icons, etc. What All Do You Need?](http://css-tricks.com/favicon-quiz/)
+
+
+## Online advertising
+
+Flash has been the standard for online advertising for a long time. But today, it isn't widely supported on mobile devices. Which are becoming more and more importand everyday. Therefore it's important to look at other technical solutions. One promosing technique is SVG (Scalable Vector Graphics). Which can be animated using CSS.
+
+* [Animating SVG with CSS](http://css-tricks.com/animating-svg-css/) *on CSS-Tricks*
+* [How we designed and coded an animated banner ad with no images](https://www.campaignmonitor.com/blog/post/4288/coding-animated-banner-ad-no-images) *on CampaignMonitor*
+* [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/) *on Smashing Magazine*
