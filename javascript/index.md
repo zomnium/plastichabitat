@@ -91,6 +91,11 @@ Description: Client side javascript and frameworks
 * [Learn Angular](http://www.learn-angular.org/)
 
 
+### MVC - Angular
+
+* [The ginormous and unstoppable list of useful Angular resources](http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/) *on Planning for Aliens*
+
+
 ### MVC - Ember
 
 * [EmberWatch](http://emberwatch.com/)
@@ -103,6 +108,7 @@ Description: Client side javascript and frameworks
 * [Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
 * [Native Drag & Drop](http://www.html5rocks.com/en/tutorials/dnd/basics/)
 * [element.animate(), HTML Imports, and Object.observe()](http://blog.chromium.org/2014/05/chrome-36-beta-elementanimate-html.html)
+* [Presentation API Tutorial](http://html5hub.com/presentation-api-tutorial/)
 
 
 ## Node
