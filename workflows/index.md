@@ -60,14 +60,19 @@ Nice Yo Generators
 - More will follow... Check out the [community generators](http://yeoman.io/community-generators.html)
 
 
-## Using Grunt
+## Taskmanagers
 
-### Articles
+[Choose: Grunt, Gulp, or npm?](http://ponyfoo.com/articles/choose-grunt-gulp-or-npm)
+
+
+### Grunt
+
+#### Articles
 
 - [Grunt is not weird and hard on 24 Ways](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
 - [Setting up Pure and SASS with Grunt](http://kalenjohnson.com/customizing-roots-sass/)
 
-### Tasks shortlist:
+#### Tasks shortlist:
 
 - Javascript (jslint)
 - CSS (preprocessor, minimize)
@@ -75,17 +80,7 @@ Nice Yo Generators
 - Watch (watch config, livepreview)
 
 
-## Using Bower
-
-- `bower search ...`
-- `bower install ...` (`--save`)
-- `bower list`
-- `bower update ...`
-- `grunt bower` - Injects your Bower dependencies into your ... configuration
-- `grunt bower-install` - Injects your dependencies into your index.html file
-
-
-## Gulp
+### Gulp
 
 [Building with Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
 
@@ -98,6 +93,16 @@ Nice Yo Generators
 * `open .` - open directory in OS X Finder.
 * `cp` - copy a file or directory.
 * `mv` - move a file or directory.
+
+
+## Using Bower
+
+- `bower search ...`
+- `bower install ...` (`--save`)
+- `bower list`
+- `bower update ...`
+- `grunt bower` - Injects your Bower dependencies into your ... configuration
+- `grunt bower-install` - Injects your dependencies into your index.html file
 
 
 ### .bash_profile
