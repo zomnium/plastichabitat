@@ -225,7 +225,7 @@ This preprocessor is quite different from the others. Most other preprocessors a
 
 ### [LESS](http://www.lesscss.org/)
 
-It's a very basic preprocessor, when you're a performance user you'll probably be better of with Sass. When you're not, probably too, Sass is awesome.
+It's a very basic preprocessor, when you're a performance user you'll probably be better of with Stylus or Sass. When you're not, probably too, Sass is okay, Stylus is awesome.
 
 
 ### [Stylus](http://learnboost.github.io/stylus/)
