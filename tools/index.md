@@ -40,9 +40,25 @@ Combine Mac OS X with Apache, MySQL and PHP and you'll have MAMP. There is an ap
 * [Get MAMP working on Yosemite](http://coolestguidesontheplanet.com/get-apache-mysql-php-phpmyadmin-working-osx-10-10-yosemite/)
 
 
-## [Npm](https://npmjs.org/)
+## [npm](https://npmjs.org/)/[node](http://nodejs.org/)
 
-Package and dependency-manager for NodeJS, serverside Javascript server.
+Node is a fast and light-weight JavaScript application platform. Build on Google's V8 JavaScript engine, used in Chrome/Chromium. The package and dependency-manager for node is npm.
+
+### Update npm/node
+
+You can update npm like this:
+
+	npm install npm -g
+
+When you have problems with lockfiles afterwards. You can solve this by resetting the file owner ([see topic on stackoverflow](http://stackoverflow.com/questions/22152162/npm-cannot-install-dependencies-attempt-to-unlock-something-which-hasnt-been)). Which you can do like this:
+
+	sudo chown -R `whoami\` ~/.npm
+
+For node you'll have to do a little bit more:
+
+	sudo npm cache clean -f
+	sudo npm install -g n
+	sudo n stable
 
 
 ## [Piwik](http://piwik.org/)
