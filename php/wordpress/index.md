@@ -36,6 +36,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 
 ### Editing
 
+- [Advanced Responsive Video Embedder](https://wordpress.org/plugins/advanced-responsive-video-embedder/)
 - [Conductor](http://slocumthemes.com/wordpress-plugins/conductor/)
 
 ### Security and Logging
