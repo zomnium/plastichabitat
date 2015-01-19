@@ -59,6 +59,7 @@ Description: Client side javascript and frameworks
 
 ### User interface
 
+* [SmoothState](http://weblinc.github.io/jquery.smoothState.js/index.html) page transitions ([introduction article on CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/))
 * [Tooltipser](http://iamceege.github.io/tooltipster/)
 
 ### Misc.
