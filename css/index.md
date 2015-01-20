@@ -7,6 +7,7 @@ Date: 2014-2-1
 
 ## Todo: add more subjects
 
+- Animation
 - Crossbrowser compatibility
 - Fonts
 - Icons
