@@ -19,5 +19,11 @@ Description: Improve client and server side performance
 
 ## Server side
 
-* PHP: APC
+* [PHP APC](http://php.net/manual/en/book.apc.php)
+* [nginx](http://nginx.org/)
+* [Varnish](https://www.varnish-cache.org/)
+* [Squid](http://www.squid-cache.org/)
+* [HAProxy](http://www.haproxy.org/)
+
+Nice article on Quora: [What is the fundamental difference between varnish and squid caching architectures?](http://www.quora.com/What-is-the-fundamental-difference-between-varnish-and-squid-caching-architectures)
 
