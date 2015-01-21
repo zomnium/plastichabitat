@@ -49,6 +49,7 @@ Description: Resources, frameworks, plugins, tools etc.
 	- [DigitalOcean](https://www.digitalocean.com/)
 	- [Divshot](http://www.divshot.com/)
 	- [EngineYard](https://www.engineyard.com/)
+	- [Fortrabbit](http://fortrabbit.com/)
 	- [Google Cloud Platform](https://cloud.google.com/)
 	- [Linode](https://www.linode.com/)
 	- [Modulus](https://modulus.io/)
