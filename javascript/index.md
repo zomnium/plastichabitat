@@ -9,6 +9,7 @@ Description: Client side javascript and frameworks
 ### OOP
 
 * [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript) *on MDN*
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [The Module Pattern](http://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/) *on CSS-Tricks*
 * [Javascript module instances/objects](http://www.sefol.com/?p=1090)
 * [Why I don't love JavaScript's Module Pattern](http://snook.ca/archives/javascript/no-love-for-module-pattern)
