@@ -19,6 +19,11 @@ Date: 2014-2-1
 - Selectors [CSS Diner](http://flukeout.github.io/)
 
 
+## Animation
+
+- [CSS animations performance: the untold story](http://greensock.com/css-performance) *on GreenSock*
+
+
 ## Tools
 
 - [Shrink](http://cssshrink.com/)
