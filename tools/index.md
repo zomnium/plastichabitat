@@ -84,6 +84,7 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 * [Flatland Theme](https://github.com/thinkpixellab/flatland)
 * [More useful Sublime Text plugins](http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions/)
 * [Best of Sublime Text features, plugins and settings](https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings) *on Scotch*
+* [Working with Code Snippets in Sublime Text](http://www.hongkiat.com/blog/sublime-code-snippets/)
 
 ### Hotkeys:
 
