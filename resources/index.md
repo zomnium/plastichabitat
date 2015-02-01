@@ -97,6 +97,7 @@ Description: Useful websites, guides, blogs and newsletters
 
 * [Designspiration](http://designspiration.net/)
 * [HTTPSTER](http://httpster.net/)
+* [InboxPixels](http://inboxpixels.com/)
 * [MaterialUp](http://www.materialup.com/)
 * [Mediaqueri.es](http://mediaqueri.es/)
 * [Minimal Sites](http://www.minimalsites.com/)
