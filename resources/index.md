@@ -29,6 +29,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Codrops](http://tympanus.net/codrops/) - Awesome html5/css3 experiments
 * [Cody](http://codyhouse.co/) - A free library of HTML, CSS, JS nuggets
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
+* [Modern IE](http://www.modern.ie/) - Dev tools for testing IE
 * [OneXtraPixel](http://www.onextrapixel.com/) - Tutorials, freebies and inspiration
 * [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
 * [Tutsplus](http://tutsplus.com/) - All kinds of tutorials
