@@ -47,6 +47,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 
 ### Content plugins
 
+- [ACF](http://www.advancedcustomfields.com/) powerful fields for developers
 - [Akismet](http://akismet.com/) check's for spam messages
 - [Gigpress](http://gigpress.com/) for artists and tour calendars
 - [WP User Avatar](http://wordpress.org/plugins/wp-user-avatar/) easy custom avatars
@@ -56,6 +57,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 
 - [Jetpack Widget Visibility](http://wordpress.org/plugins/jetpack-widget-visibility/) manage visibility per widget
 - [Multisite Posts](https://wordpress.org/plugins/multisite-posts/) receives posts across sites
+- [TinyMCE Widget](https://wordpress.org/plugins/black-studio-tinymce-widget/)
 
 ### Admin UI
 
@@ -82,6 +84,11 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [ThreeWP Broadcast](http://wordpress.org/plugins/threewp-broadcast/)
 
 Manage remote WordPress installations with [ManageWP Worker](http://wordpress.org/plugins/worker/).
+
+### Forms
+
+- [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+- [Contact Form DB](https://wordpress.org/plugins/contact-form-7-to-database-extension/)
 
 
 ## Multilingual websites
