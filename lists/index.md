@@ -46,6 +46,7 @@ Description: Resources, frameworks, plugins, tools etc.
 - Hosting &amp; Cloud
 	- [Amazon Web Services](http://aws.amazon.com/)
 	- [Appfog](https://www.appfog.com/)
+	- [BitBalloon](https://www.bitballoon.com/)
 	- [DigitalOcean](https://www.digitalocean.com/)
 	- [Divshot](http://www.divshot.com/)
 	- [EngineYard](https://www.engineyard.com/)
