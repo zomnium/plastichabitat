@@ -63,9 +63,11 @@ Description: Useful websites, guides, blogs and newsletters
 
 ## Blogs
 
+* [Chris Wright](http://chriswrightdesign.com/) - Front-end
 * [CSS Wizardry](http://csswizardry.com/) - Front-end
 * [Dayle Rees](http://daylerees.com/) - PHP
 * [Evil Trout](http://eviltrout.com/) - Javascript, Ruby and Ember
+
 
 
 ## Books
