@@ -55,6 +55,7 @@ Description: Resources, frameworks, plugins, tools etc.
 	- [Linode](https://www.linode.com/)
 	- [Modulus](https://modulus.io/)
 	- [OpenShift](https://www.openshift.com/)
+	- [Pagoda Box](https://pagodabox.com/)
 	- [Pantheon](https://www.getpantheon.com/)
 	- [Resello](https://www.resello.com/)
 	- [WPEngine](http://wpengine.com/)
