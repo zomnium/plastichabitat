@@ -62,7 +62,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 ### Admin UI
 
 - [Post types reorder](https://wordpress.org/plugins/post-types-order/) using a dragg and drop interface
-- [White label CMS](www.videousermanuals.com/white-label-cms/) for a branded experience
+- [White label CMS](http://www.videousermanuals.com/white-label-cms/) for a branded experience
 
 ### Performance
 
