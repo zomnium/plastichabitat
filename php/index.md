@@ -91,6 +91,8 @@ Sortable content types:
 - [PHP Property Visibility](http://php.net/manual/en/language.oop5.visibility.php)
 - [PHP Traits](http://php.net/manual/en/language.oop5.traits.php)
 - More resources: [PHP The Right Way](http://www.phptherightway.com/)
+- [HHVM](http://hhvm.com/)
+- [Indatus](http://indatus.github.io/) (PHP Tools: Ranger, Blacksmith, Trucker, Foreman, Dispatcher)
 
 
 ## Realtime frameworks
