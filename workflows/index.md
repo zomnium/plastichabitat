@@ -31,6 +31,25 @@ You also have online services to deploy git project over FTP, but the most are q
 - [Beanstalk](http://beanstalkapp.com/)
 
 
+## Deployment and development
+
+### Open Source Projects
+
+* [Docker](https://www.docker.com/)
+* [Deployer](http://deployer.org/) (for PHP)
+* [Magallanes](http://magephp.com/) (for PHP)
+* [Puppet](https://puppetlabs.com/)
+* [Rocketeer](http://rocketeer.autopergamene.eu/) (for PHP)
+* [Vagrant](https://www.vagrantup.com/)
+* [PHP The Right Way: Virtualization](http://www.phptherightway.com/#virtualization)
+
+### Services
+
+* [Chef](https://www.chef.io/)
+* [Envoyer](https://envoyer.io/)
+* [Forge](https://forge.laravel.com/)
+
+
 ## Using Yeoman
 
 Installation is quite simple when you have NPM and Git installed: `npm install -g yo`
