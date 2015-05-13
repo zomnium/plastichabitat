@@ -49,7 +49,7 @@ All kinds of social media platforms popped up last years and became very importa
 - Optimize images for it
 - Profile picture sizes
 
-[Always Up-to-Date Guide to Social Media Image Sizes](sproutsocial.com/insights/social-media-image-sizes-guide/) *on SproutSocial*
+[Always Up-to-Date Guide to Social Media Image Sizes](http://sproutsocial.com/insights/social-media-image-sizes-guide/) *on SproutSocial*
 
 
 ## Sharing
