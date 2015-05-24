@@ -44,6 +44,7 @@ Description: Resources, frameworks, plugins, tools etc.
 	- Sliders
 	- Misc...
 - Hosting &amp; Cloud
+	- [A small orange](http://asmallorange.com/)
 	- [Amazon Web Services](http://aws.amazon.com/)
 	- [Appfog](https://www.appfog.com/)
 	- [BitBalloon](https://www.bitballoon.com/)
