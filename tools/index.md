@@ -132,11 +132,13 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 ## Online Tools
 
 * [Brandcolors](http://brandcolors.net/)
+* [CloudConvert](https://cloudconvert.com/)
 * [Compressor.io](http://compressor.io/compress)
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Google Maps Builder](http://googlemapbuilder.mynameisdonald.com/)
 * [Gridlover](http://www.gridlover.net/)
 * [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
+* [Icomoon](https://icomoon.io/)
 * [Material Palette](http://www.materialpalette.com/)
 * [Nibbler](http://nibbler.silktide.com/)
 * [Nucleo](https://nucleoapp.com/)
