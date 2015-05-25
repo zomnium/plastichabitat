@@ -112,6 +112,7 @@ Todo: add more notes and information.
 
 Also check out [Modular Scale](http://modularscale.com/), which also has a Sass implementation: [Modular Scale Calculator](https://github.com/Team-Sass/modular-scale).
 
+Some technical information [about collapsing margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/) and [some tricks to use](http://csswizardry.com/2012/06/single-direction-margin-declarations/) can be useful.
 
 
 ## Modulair CSS
