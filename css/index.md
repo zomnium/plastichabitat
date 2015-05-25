@@ -9,7 +9,7 @@ Date: 2014-2-1
 
 - Animation
 - Crossbrowser compatibility
-- Fonts
+- Fonts ([Bulletproof @font-face syntax](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/))
 - Icons
 - Retina
 - Forms
