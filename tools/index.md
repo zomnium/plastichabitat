@@ -139,6 +139,7 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 * [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
 * [Material Palette](http://www.materialpalette.com/)
 * [Nibbler](http://nibbler.silktide.com/)
+* [Nucleo](https://nucleoapp.com/)
 * [Placeholdit](http://placehold.it/)
 * [Programmer Excuses](www.programmerexcuses.com)
 * [xip.io](http://xip.io/) *wildcard dns for everyone*
