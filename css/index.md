@@ -272,6 +272,9 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 
 - [Getting to know CSS Blend Modes](http://dev.opera.com/articles/getting-to-know-css-blend-modes/)
 - [Flexbox adventures](http://chriswrightdesign.com/experiments/flexbox-adventures/)
+- [Using Flexbox today](http://chriswrightdesign.com/experiments/using-flexbox-today/)
+- [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
+- [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
 ### Optimize
 
