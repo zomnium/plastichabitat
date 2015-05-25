@@ -31,6 +31,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [Asynchronous Tasks](https://github.com/techcrunch/wp-async-task) *by TechCrunch*
 - [Meta Box](http://www.deluxeblogtips.com/meta-box) creates an easy API for custom meta fields
 - [Posts 2 Posts](http://scribu.net/wordpress/posts-to-posts/) makes post relationships easy
+- [Redux Framework](https://wordpress.org/plugins/redux-framework/)
 - [Regenerate thumbnails](http://www.viper007bond.com/wordpress-plugins/regenerate-thumbnails/) in batches
 - [WordPress Importer](http://wordpress.org/plugins/wordpress-importer/) let's you import exported content
 
@@ -69,6 +70,8 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [WordPress Optimization/WordPress Performance](http://codex.wordpress.org/WordPress_Optimization/WordPress_Performance)
 - [WordPress Optimization/Caching](http://codex.wordpress.org/WordPress_Optimization/Caching)
 - [WordPress Performance Improvements That Can Go Wrong](http://www.smashingmagazine.com/2014/03/21/wordpress-performance-improvements-that-can-go-wrong/)
+- [Theme Performance](http://themeshaper.com/2014/02/06/theme-performance/)
+- [Transients API](http://codex.wordpress.org/Transients_API)
 - [Asynchronous Javascript](https://wordpress.org/plugins/asynchronous-javascript/)
 - [WP Performance Pack](http://wordpress.org/plugins/wp-performance-pack/)
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
@@ -132,3 +135,10 @@ More background information:
 - [Get posts](http://codex.wordpress.org/Template_Tags/get_posts)
 - [WP_Query](http://codex.wordpress.org/Class_Reference/WP_Query)
 - [Using WP_Query](http://www.smashingmagazine.com/2013/01/14/using-wp_query-wordpress/) *on Smashing Magazine*
+
+
+## API
+
+- [Theming with the REST API – Meet Picard](http://themeshaper.com/2015/05/07/theming-with-the-rest-api-meet-picard/)
+- [WP API](https://github.com/WP-API/WP-API) *on GitHub*
+- [WP API Docs](http://wp-api.org/)
