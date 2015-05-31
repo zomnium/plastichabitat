@@ -28,6 +28,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Codepen: Webfont Browser Bugs](http://codepen.io/collection/ijEJq/) - A collection of browser bugs related to fonts, web fonts and text rendering
 * [Codrops](http://tympanus.net/codrops/) - Awesome html5/css3 experiments
 * [Cody](http://codyhouse.co/) - A free library of HTML, CSS, JS nuggets
+* [CSS Animation Rocks](https://cssanimation.rocks/)
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
 * [Modern IE](http://www.modern.ie/) - Dev tools for testing IE
 * [OneXtraPixel](http://www.onextrapixel.com/) - Tutorials, freebies and inspiration
