@@ -131,9 +131,12 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 
 ## Online Tools
 
+* [Amp What?](http://www.amp-what.com/)
 * [Brandcolors](http://brandcolors.net/)
+* [Ceasar CSS Animation](http://matthewlein.com/ceaser/)
 * [CloudConvert](https://cloudconvert.com/)
 * [Compressor.io](http://compressor.io/compress)
+* [Cubic Bezier](http://cubic-bezier.com/)
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Google Maps Builder](http://googlemapbuilder.mynameisdonald.com/)
 * [Gridlover](http://www.gridlover.net/)
