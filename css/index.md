@@ -17,6 +17,7 @@ Date: 2014-2-1
 - Mobile first approach
 - Content first, start here, work your way up
 - Selectors [CSS Diner](http://flukeout.github.io/)
+- Loading: [SpinKit](https://github.com/tobiasahlin/SpinKit), [PleaseWait](http://pathgather.github.io/please-wait/)
 
 
 ## Animation
