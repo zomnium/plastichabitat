@@ -24,6 +24,13 @@ The most populair tools for analyzing your website:
 - Tracking (advanced)
 - E-commerce
 
+### Using Piwik for tracking e-mails
+
+Some approaches to use Piwik for tracking HTML e-mails:
+
+- [Collect visitor stats using any image](https://khromov.wordpress.com/2011/11/10/collect-visitor-stats-using-any-image-with-the-piwik-tracking-api/)
+- [Tracking openings via php api](http://blog.arvixe.com/piwik-tracking-email-openings-via-api-using-php/)
+
 
 ## Socials
 
