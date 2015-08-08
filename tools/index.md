@@ -147,6 +147,7 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 * [Nucleo](https://nucleoapp.com/)
 * [Placeholdit](http://placehold.it/)
 * [Programmer Excuses](www.programmerexcuses.com)
+* [SVG 2 VectorDrawable](http://inloop.github.io/svg2android/)
 * [xip.io](http://xip.io/) *wildcard dns for everyone*
 
 
