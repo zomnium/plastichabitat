@@ -124,6 +124,14 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 * [Sails](http://sailsjs.org/) realtime framework
 * [Wintersmith](http://wintersmith.io/) static site generator
 
+### Update Node.js
+
+The easiest way to update node through npm (by [David Walsh](http://davidwalsh.name/upgrade-nodejs)):
+
+	sudo npm cache clean -f
+	sudo npm install -g n
+	sudo n stable
+
 
 ## D3 
 
