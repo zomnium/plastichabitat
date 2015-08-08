@@ -61,7 +61,7 @@ Description: Client side javascript and frameworks
 ### User interface
 
 * [SmoothState](http://weblinc.github.io/jquery.smoothState.js/index.html) page transitions ([introduction article on CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/))
-* [Stretchy](leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
+* [Stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
 * [Tooltipser](http://iamceege.github.io/tooltipster/)
 
 ### Misc.
