@@ -58,7 +58,14 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 - [Go](http://golang.org/) is an open source programming language that makes it easy to build simple, reliable, and efficient software
 
 
-## Google Chrome Extensions
+## Browser Extensions
+
+### Google Chrome
 
 - [Content scripts](https://developer.chrome.com/extensions/content_scripts)
 - [Web accessible resources](https://developer.chrome.com/extensions/manifest/web_accessible_resources) - [on stack overflow](http://stackoverflow.com/questions/3559781/google-chrome-extensions-cant-load-local-images-with-css)
+
+## Mozilla Firefox
+
+- [The Future of Developing Firefox Add-ons](https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/) *on Mozilla Blog*
+- [WebExtensions](https://wiki.mozilla.org/WebExtensions)  *on Mozilla Wiki*
