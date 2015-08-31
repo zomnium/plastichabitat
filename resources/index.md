@@ -100,6 +100,7 @@ Description: Useful websites, guides, blogs and newsletters
 
 ## Inspiration
 
+* [100 Days UI](http://www.100daysui.com/)
 * [Designspiration](http://designspiration.net/)
 * [HTTPSTER](http://httpster.net/)
 * [InboxPixels](http://inboxpixels.com/)
