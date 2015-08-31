@@ -51,6 +51,7 @@ Description: Client side javascript and frameworks
 ### Tools
 
 * [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs/)
+* [Typeset.js](https://blot.im/typeset/)
 
 ### Touch and gestures
 
