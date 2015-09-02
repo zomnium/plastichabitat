@@ -17,10 +17,11 @@ Description: Handy plugins, resources and snippets for WordPress.
 
 It can be a lot of work to start from nothing, therefore it can be useful to start from a boilerplate:
 
-- [Underscores](http://underscores.me/) Start Theme
-- [Roots](http://roots.io/) Modern WordPress Development, *using Composer, Boilerplate, Bootstrap and Grunt*
 - [Customizing the Roots Theme Pure CSS and Sass/Compass](http://kalenjohnson.com/customizing-roots-sass/)
-- [Timber](https://github.com/jarednova/timber) for OO Twig templates in WordPress
+- [Cutlass](http://cutlasswp.com/) for OO templates with Blade and Gulp
+- [Roots](http://roots.io/) Modern WordPress Development, *using Composer, Boilerplate, Bootstrap and Grunt*
+- [Timber](https://github.com/jarednova/timber) for OO templates with Twig
+- [Underscores](http://underscores.me/) Start Theme
 
 
 ## Useful plugins
