@@ -58,6 +58,7 @@ Description: Client side javascript and frameworks
 * [Hammer](http://eightmedia.github.io/hammer.js/)
 * [Interact.js](http://interactjs.io/)
 * [Slip](https://github.com/pornel/slip)
+* [Sortable](http://rubaxa.github.io/Sortable/)
 
 ### User interface
 
