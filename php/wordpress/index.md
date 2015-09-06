@@ -24,6 +24,11 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [Underscores](http://underscores.me/) Start Theme
 
 
+## Developing plugins
+
+- [The WordPress Plugin Boilerplate](http://wppb.io/)
+
+
 ## Useful plugins
 
 ### Development
