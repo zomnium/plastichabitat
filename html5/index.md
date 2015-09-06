@@ -59,9 +59,9 @@ Represents a document, page, post, forumpost, article etc. and is intended to be
 
 Is a section of the page that contains content that can be related to the main content, but is considered separate.
 
-### Hgroup
+### Hgroup - *don't use this*
 
-Is used to group multiple levels of headlines, subheadings, alternative titles and taglines (h1 - h6).
+**Important: this tag has been removed from the spec, do not use.** It would be used to group multiple levels of headlines, subheadings, alternative titles and taglines (h1 - h6).
 
 ### Header
 
