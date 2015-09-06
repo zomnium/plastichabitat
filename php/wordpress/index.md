@@ -34,6 +34,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 ### Development
 
 - [Advanced Custom Fields](http://www.advancedcustomfields.com/) for full control of your edit screens &amp; custom field data
+	- [Extending ACF](http://www.smashingmagazine.com/2015/09/extending-advanced-custom-fields-with-your-own-controls/) *on Smashing Magazine*
 - [Asynchronous Tasks](https://github.com/techcrunch/wp-async-task) *by TechCrunch*
 - [Meta Box](http://www.deluxeblogtips.com/meta-box) creates an easy API for custom meta fields
 - [Posts 2 Posts](http://scribu.net/wordpress/posts-to-posts/) makes post relationships easy
