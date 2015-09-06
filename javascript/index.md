@@ -86,6 +86,7 @@ Description: Client side javascript and frameworks
 * [React.js](http://www.ractivejs.org/)
 * [Synapse](http://bruth.github.io/synapse/docs/)
 * [Mean](http://mean.io/)
+* [Vue](http://vuejs.org/) *(is a framework alike library)*
 
 Check out [TodoMVC](http://todomvc.com/) for real examples!
 
