@@ -61,6 +61,7 @@ Description: Resources, frameworks, plugins, tools etc.
 	- [Resello](https://www.resello.com/)
 	- [WPEngine](http://wpengine.com/)
 - Databases
+	- [Cassandra](http://cassandra.apache.org/)
 	- [Cloudant](https://cloudant.com/)
 	- [FoundationDB](https://foundationdb.com/)
 - Web Services
