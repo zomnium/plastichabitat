@@ -76,6 +76,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [design+code](http://designcode.io/)
 * [The Smashing Library](http://www.smashingmagazine.com/ebooks/)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [MEAN Machine](https://leanpub.com/mean-machine)
 
 
 ## Graphics
