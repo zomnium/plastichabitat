@@ -36,6 +36,7 @@ Description: Client side javascript and frameworks
 ### Filter and sort
 
 * [Isotope](http://isotope.metafizzy.co/)
+* [Listjs](http://www.listjs.com/examples)
 * [Masonry](http://masonry.desandro.com/)
 * [MixItUp](http://mixitup.io/)
 * [Shuffle](http://vestride.github.io/Shuffle/)
