@@ -17,6 +17,7 @@ Description: Components and snippets, responsive and for daily use
 * Headline backgrounds
 * Email protection
 * Sharing and socials
+* [CSS tooltip](http://codepen.io/mildrenben/pen/rVBrpK)
 
 
 ## Easiest fallback for Internet Explorer (IE6 to IE8)
