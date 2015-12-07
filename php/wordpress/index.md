@@ -71,6 +71,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 
 - [Post types reorder](https://wordpress.org/plugins/post-types-order/) using a dragg and drop interface
 - [White label CMS](http://www.videousermanuals.com/white-label-cms/) for a branded experience
+- [Titan Framework](http://www.titanframework.net/) for creating WP options, [intro on tutsplus](http://code.tutsplus.com/articles/a-beginners-guide-to-titan-framework-creating-an-admin-panel-with-titan--cms-24358).
 
 ### Performance
 
