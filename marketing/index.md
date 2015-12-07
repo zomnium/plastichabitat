@@ -86,3 +86,7 @@ Flash has been the standard for online advertising for a long time. But today, i
 * [Animating SVG with CSS](http://css-tricks.com/animating-svg-css/) *on CSS-Tricks*
 * [How we designed and coded an animated banner ad with no images](https://www.campaignmonitor.com/blog/post/4288/coding-animated-banner-ad-no-images) *on CampaignMonitor*
 * [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/) *on Smashing Magazine*
+
+### Ad words
+
+- ad extension
