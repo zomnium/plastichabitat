@@ -116,6 +116,11 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 	}
 
 
+## [Typographic Supply](http://typography.supply/)
+
+A great inventory of typographic tools, from font identifiers, online calculation and grid tools, javascript and css libraries to making typfaces.
+
+
 ## Front-end Tools
 
 * [Bower](http://bower.io/) - Web Package Manager / [What’s So Great About Bower?](http://css-tricks.com/whats-great-bower/)
