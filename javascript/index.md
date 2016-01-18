@@ -112,6 +112,10 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 * [Getting Into EmberJS](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js/) on Tutsplus
 
 
+### Interactive Libraries
+
+* [CreateJS](http://createjs.com/)
+
 ## HTML5 Spotlight
 
 * [Object.observe](http://wiki.ecmascript.org/doku.php?id=harmony:observe)
