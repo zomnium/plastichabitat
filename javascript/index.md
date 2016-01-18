@@ -138,6 +138,10 @@ The easiest way to update node through npm (by [David Walsh](http://davidwalsh.n
 	sudo npm install -g n
 	sudo n stable
 
+### Security
+
+* [Eliminating Known Vulnerabilities With Snyk](https://www.smashingmagazine.com/2016/01/eliminating-known-security-vulnerabilities-with-snyk/) *on Smashing Magazine*
+
 
 ## D3 
 
