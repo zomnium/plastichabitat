@@ -64,6 +64,8 @@ Description: Resources, frameworks, plugins, tools etc.
 	- [Cassandra](http://cassandra.apache.org/)
 	- [Cloudant](https://cloudant.com/)
 	- [FoundationDB](https://foundationdb.com/)
+	- [MongoDB](https://www.mongodb.org/)
+		- [Dr. Mongo](http://www.drmongo.com/)
 - Web Services
 	- Mail
 		- [Campaign Monitor](https://www.campaignmonitor.com/)
