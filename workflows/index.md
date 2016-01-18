@@ -106,6 +106,12 @@ Nice Yo Generators
 
 ## Terminal Tricks (For OS X)
 
+### Useful tools
+
+* [iTerm](http://iterm2.com/)
+* [Oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
+* [ZSH-LOVERS](https://grml.org/zsh/zsh-lovers.html)
+
 ### A little cheatsheet with commands:
 
 * `ls -a` - lists all files, including hidden files (-a).
