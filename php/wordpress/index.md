@@ -137,6 +137,10 @@ More background information:
 - [Before you create a network](http://codex.wordpress.org/Before_You_Create_A_Network)
 - [Share some data between two blogs](http://wordpress.org/support/topic/share-some-data-between-2-blogs-on-one-install)
 
+### Misc.
+
+- [Customize Login Page](https://premium.wpmudev.org/blog/customize-login-page/)
+
 
 ## Posts
 
