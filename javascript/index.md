@@ -57,6 +57,7 @@ Description: Client side javascript and frameworks
 ### Touch and gestures
 
 * [Dragula](https://github.com/bevacqua/dragula)
+* [Draggabilly](http://draggabilly.desandro.com/)
 * [Hammer](http://eightmedia.github.io/hammer.js/)
 * [Interact.js](http://interactjs.io/)
 * [Slip](https://github.com/pornel/slip)
