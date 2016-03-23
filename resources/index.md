@@ -7,6 +7,7 @@ Description: Useful websites, guides, blogs and newsletters
 ## Stay up-to-date
 
 * [A list apart](http://alistapart.com/)
+* [Bits of Code](http://bitsofco.de/)
 * [CSS Tricks](http://css-tricks.com/)
 * [Designmodo](http://designmodo.com/)
 * [Html5Rocks](http://html5rocks.com/)
