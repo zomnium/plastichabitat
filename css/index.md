@@ -295,4 +295,5 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 
 ### Fun
 
+- [Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
 - [Simpsons in CSS](https://pattle.github.io/simpsons-in-css/)
