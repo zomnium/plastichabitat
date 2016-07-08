@@ -20,7 +20,10 @@ Description: HTML for use in emails
 
 ## Tools
 
+* [Base64Image](http://base64image.org/)
 * [CSS Inliner](http://beaker.mailchimp.com/inline-css) *by MailChimp*
+* [CSS Inliner](https://inliner.cm/) *by Campaign Monitor*
+* [PutsMail](https://putsmail.com/) sends html mails *by Litmus*
 
 
 ## Inspiration
