@@ -36,12 +36,15 @@ On this page I want to write about the following subjects:
 
 ### Projects
 
+- [Atomic Docs](http://atomicdocs.io/)
 - [Barebones](http://barebones.paulrobertlloyd.com/)
 - [Kalei Styleguide](http://kaleistyleguide.com/)
 - [kss-node](http://kss-node.github.io/kss-node/)
+- [Modulr](https://decorator.io/modulr/)
 - [Pattern Lab](http://patternlab.io/)
 - [SC5 Styleguide](http://styleguide.sc5.io/)
 - [Styledecco](http://jacobrask.github.io/styledocco/)
+- [Styleguide](https://devbridge.github.io/Styleguide/)
 - [Stylify Me](http://stylifyme.com/)
 
 ### Articles
