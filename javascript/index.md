@@ -75,6 +75,7 @@ Description: Client side javascript and frameworks
 * [Google Charts](https://developers.google.com/chart/interactive/docs/index)
 * [Prerender](https://prerender.io/)
 * [Breeze](http://www.breezejs.com/)
+* [Leaflets](http://leafletjs.com/) Creating interactive maps
 * [Slick](http://kenwheeler.github.io/slick/)
 * [Webpack](http://webpack.github.io/)
 
