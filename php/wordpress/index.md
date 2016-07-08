@@ -154,3 +154,17 @@ More background information:
 - [Theming with the REST API – Meet Picard](http://themeshaper.com/2015/05/07/theming-with-the-rest-api-meet-picard/)
 - [WP API](https://github.com/WP-API/WP-API) *on GitHub*
 - [WP API Docs](http://wp-api.org/)
+
+
+remove_action('template_redirect', 'redirect_canonical');
+
+wp-login.php can be used to (re-)set the URIs. Find this line:
+
+require( dirname(__FILE__) . '/wp-load.php' );
+
+and insert the following lines below:
+
+//FIXME: do comment/remove these hack lines. (once the database is updated)
+update_option('siteurl', 'http://your.domain.name/the/path' );
+update_option('home', 'http://your.domain.name/the/path' );
+
