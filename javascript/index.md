@@ -134,6 +134,7 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 * [Hexo](http://hexo.io/) bloging framework
 * [ROOTS](http://roots.cx/) toolbox
 * [Sails](http://sailsjs.org/) realtime framework
+* [Snyk](https://snyk.io/) find & fix known vulnerabilities
 * [Wintersmith](http://wintersmith.io/) static site generator
 
 ### Update Node.js
