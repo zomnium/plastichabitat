@@ -49,6 +49,10 @@ You also have online services to deploy git project over FTP, but the most are q
 * [Envoyer](https://envoyer.io/)
 * [Forge](https://forge.laravel.com/)
 
+### Resources
+
+* [Getting Git Right](https://www.atlassian.com/git/)
+
 
 ## Using Yeoman
 
