@@ -32,10 +32,12 @@ Description: Useful websites, guides, blogs and newsletters
 * [Cody](http://codyhouse.co/) - A free library of HTML, CSS, JS nuggets
 * [CSS Animation Rocks](https://cssanimation.rocks/)
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
+* [HTTML5 Accessibility](http://html5accessibility.com/) - Accessibility support status across major browsers
 * [Modern IE](http://www.modern.ie/) - Dev tools for testing IE
 * [OneXtraPixel](http://www.onextrapixel.com/) - Tutorials, freebies and inspiration
 * [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
 * [Tutsplus](http://tutsplus.com/) - All kinds of tutorials
+* [TypeWolf](https://www.typewolf.com/) - What’s Trending in Type
 * [Unheap](http://unheap.com/) - jQuery plugins
 * [Unify](http://unicode.johnholtripley.co.uk/) - Unicode tested accross devices
 * [WebComponents.org](http://webcomponents.org/) - A place to discuss and evolve Web Component best-practices
