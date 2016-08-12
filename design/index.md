@@ -38,6 +38,7 @@ On this page I want to write about the following subjects:
 
 - [Atomic Docs](http://atomicdocs.io/)
 - [Barebones](http://barebones.paulrobertlloyd.com/)
+- [Fractal](http://fractal.build/)
 - [Kalei Styleguide](http://kaleistyleguide.com/)
 - [kss-node](http://kss-node.github.io/kss-node/)
 - [Modulr](https://decorator.io/modulr/)
