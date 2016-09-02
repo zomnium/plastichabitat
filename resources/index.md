@@ -40,6 +40,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [TypeWolf](https://www.typewolf.com/) - What’s Trending in Type
 * [Unheap](http://unheap.com/) - jQuery plugins
 * [Unify](http://unicode.johnholtripley.co.uk/) - Unicode tested accross devices
+* [User Onboard](http://www.useronboard.com/) - User onboarding cases, for inspiration
 * [WebComponents.org](http://webcomponents.org/) - A place to discuss and evolve Web Component best-practices
 * [Web Platform Docs](https://docs.webplatform.org/) - Community-driven web developer documentation
 * [WTF, HTML and CSS?](http://wtfhtmlcss.com/) - Reasons HTML and CSS might make you say what the fuck
