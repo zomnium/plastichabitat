@@ -42,6 +42,7 @@ On this page I want to write about the following subjects:
 - [Kalei Styleguide](http://kaleistyleguide.com/)
 - [kss-node](http://kss-node.github.io/kss-node/)
 - [Modulr](https://decorator.io/modulr/)
+- [Nucleus](https://holidaypirates.github.io/nucleus/)
 - [Pattern Lab](http://patternlab.io/)
 - [SC5 Styleguide](http://styleguide.sc5.io/)
 - [Styledecco](http://jacobrask.github.io/styledocco/)
