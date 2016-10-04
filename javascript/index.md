@@ -78,6 +78,7 @@ Description: Client side javascript and frameworks
 * [Breeze](http://www.breezejs.com/)
 * [Leaflets](http://leafletjs.com/) Creating interactive maps
 * [Slick](http://kenwheeler.github.io/slick/)
+* [ViewScroller](http://www.viewdesic.com/viewscroller/)
 * [Webpack](http://webpack.github.io/)
 
 
