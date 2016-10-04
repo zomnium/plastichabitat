@@ -109,6 +109,8 @@ Description: Useful websites, guides, blogs and newsletters
 ## Inspiration
 
 * [100 Days UI](http://www.100daysui.com/)
+* [Checkout Pages](http://www.checkoutpages.xyz/)
+* [Designgest](http://designgest.com/)
 * [Designspiration](http://designspiration.net/)
 * [HTTPSTER](http://httpster.net/)
 * [InboxPixels](http://inboxpixels.com/)
@@ -117,6 +119,8 @@ Description: Useful websites, guides, blogs and newsletters
 * [Minimal Sites](http://www.minimalsites.com/)
 * [Mobile Patterns](http://www.mobile-patterns.com/)
 * [Niice](http://niice.co/)
+* [Pricing Pages](http://www.pricingpages.xyz/)
+* [Product Pages](http://www.productpages.xyz/)
 * [Pttrns](http://www.pttrns.com/)
 * [Siteinspire](http://siteinspire.com/)
 * [Trendlist](http://www.trendlist.org/)
