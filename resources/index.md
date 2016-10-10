@@ -95,6 +95,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [The Noun Project](http://thenounproject.com/)
 * [The Pattern Library](http://thepatternlibrary.com/)
 * [Raumrot](http://www.raumrot.com/)
+* [Sneakpeekit](http://sneakpeekit.com/) - Printable Grids for Design Wireframing
 * [Stock photos that don't suck](https://medium.com/p/62ae4bcbe01b)
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [Unsplash](https://unsplash.com/)
