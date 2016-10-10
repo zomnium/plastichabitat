@@ -121,6 +121,12 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 A great inventory of typographic tools, from font identifiers, online calculation and grid tools, javascript and css libraries to making typfaces.
 
 
+## Favicons
+
+* [Favicon.cc](http://favicon.cc/)
+* [Real Favicon Generator](http://realfavicongenerator.net/)
+
+
 ## Front-end Tools
 
 * [Bower](http://bower.io/) - Web Package Manager / [What’s So Great About Bower?](http://css-tricks.com/whats-great-bower/)
