@@ -299,3 +299,9 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 
 - [Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
 - [Simpsons in CSS](https://pattle.github.io/simpsons-in-css/)
+
+### Spinners and loaders
+
+- [Single Element CSS Spinners](http://projects.lukehaas.me/css-loaders/)
+- [Spinkit](http://tobiasahlin.com/spinkit/)
+- [text-spinners](http://tawian.io/text-spinners/)
