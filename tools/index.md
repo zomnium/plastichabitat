@@ -30,6 +30,11 @@ For creating a secure connection you'll need to generate a SSH key, GitHub has a
 A self hosted version of GitHub, commercial and community licences are available. To get started read [How to Setup GitLab](http://scotch.io/tutorials/how-to-setup-gitlab-a-self-hosted-github) on Scotch.
 
 
+## [Kap](https://getkap.co/)
+
+An open-source screen recorder built with web technology.
+
+
 ## MAMP - Local development
 
 Combine Mac OS X with Apache, MySQL and PHP and you'll have MAMP. There is an application with all-in-one, called [MAMP](http://www.mamp.info/en/index.html). Bitnami has [some stacks](https://bitnami.com/stacks/infrastructure) available too. I prefer to install and manage it myself using these:
