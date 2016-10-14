@@ -65,6 +65,7 @@ Description: Client side javascript and frameworks
 
 ### User interface
 
+* [Headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 * [in-view](https://camwiegert.github.io/in-view/) - Get notified when a DOM element enters or exits the viewport
 * [Progress Bar](https://kimmobrunfeldt.github.io/progressbar.js/) - Create responsive and stylish progress bars
 * [SmoothState](http://weblinc.github.io/jquery.smoothState.js/index.html) page transitions ([introduction article on CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/))
