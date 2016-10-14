@@ -35,6 +35,7 @@ Description: Client side javascript and frameworks
 
 ### Filter and sort
 
+* [Fuse.js](http://fusejs.io/) - Lightweight fuzzy-search library
 * [Isotope](http://isotope.metafizzy.co/)
 * [Listjs](http://www.listjs.com/examples)
 * [Masonry](http://masonry.desandro.com/)
