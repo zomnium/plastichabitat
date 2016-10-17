@@ -126,6 +126,11 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 A great inventory of typographic tools, from font identifiers, online calculation and grid tools, javascript and css libraries to making typfaces.
 
 
+## [Yarn](https://yarnpkg.com/)
+
+A dependency manager for javascript. It is compatible with the npm package manager, and also can install bower packages. Although a slight different featuresset including lockfiles, checksums, flat mode and offline caching.
+
+
 ## Favicons
 
 * [Favicon.cc](http://favicon.cc/)
