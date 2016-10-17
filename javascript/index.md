@@ -111,6 +111,7 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 ### MVC - Angular
 
 * [The ginormous and unstoppable list of useful Angular resources](http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/) *on Planning for Aliens*
+* [Stateful and stateless components, the missing manual](https://toddmotto.com/stateful-stateless-components)
 
 
 ### MVC - Ember
