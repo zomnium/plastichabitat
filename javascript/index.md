@@ -18,6 +18,8 @@ Description: Client side javascript and frameworks
 ### Misc.
 
 * [Managing events in JavaScript](http://krasimirtsonev.com/blog/article/Managing-events-in-JavaScript-using-)
+* [You might not need JS](http://youmightnotneedjs.com/)
+* [You might not need jQuery](http://youmightnotneedjquery.com/)
 
 
 ## Awesome stuff

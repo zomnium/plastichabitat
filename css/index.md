@@ -280,6 +280,7 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 - [CSS Toggle Switch](http://ghinda.net/css-toggle-switch/)
 - [Fixed Table Layout](https://css-tricks.com/fixing-tables-long-strings/)
 - [wysiwyg.css](https://github.com/jgthms/wysiwyg.css)
+- [You might not need JS](http://youmightnotneedjs.com/)
 
 ### Icons
 
