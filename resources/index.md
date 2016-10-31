@@ -31,6 +31,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Codrops](http://tympanus.net/codrops/) - Awesome html5/css3 experiments
 * [Cody](http://codyhouse.co/) - A free library of HTML, CSS, JS nuggets
 * [CSS Animation Rocks](https://cssanimation.rocks/)
+* [Facebook.design](http://facebook.design/) - Collection of articles, videos and resources
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
 * [HTTML5 Accessibility](http://html5accessibility.com/) - Accessibility support status across major browsers
 * [Modern IE](http://www.modern.ie/) - Dev tools for testing IE
