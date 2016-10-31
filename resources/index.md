@@ -75,13 +75,18 @@ Description: Useful websites, guides, blogs and newsletters
 * [Evil Trout](http://eviltrout.com/) - Javascript, Ruby and Ember
 
 
-
 ## Books
 
 * [design+code](http://designcode.io/)
 * [The Smashing Library](http://www.smashingmagazine.com/ebooks/)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [MEAN Machine](https://leanpub.com/mean-machine)
+
+
+## UI Kits
+
+* [iOS 10](http://facebook.design/ios10) by Facebook
+* [Native UI kits](https://madebysource.com/uikit/) by source
 
 
 ## Graphics
