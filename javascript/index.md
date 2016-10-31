@@ -79,6 +79,7 @@ Description: Client side javascript and frameworks
 
 * [Agile](http://a-jie.github.io/Agile/) CSS3 Engine
 * [Google Charts](https://developers.google.com/chart/interactive/docs/index)
+* [GraphicJS](http://www.graphicsjs.org/)
 * [Prerender](https://prerender.io/)
 * [Breeze](http://www.breezejs.com/)
 * [Leaflets](http://leafletjs.com/) Creating interactive maps
