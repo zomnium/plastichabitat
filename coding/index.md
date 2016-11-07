@@ -69,3 +69,13 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 
 - [The Future of Developing Firefox Add-ons](https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/) *on Mozilla Blog*
 - [WebExtensions](https://wiki.mozilla.org/WebExtensions)  *on Mozilla Wiki*
+
+
+## Web
+
+### Performance
+
+- [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
+- [Preload: What Is It Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
+- [The future of loading CSS](https://jakearchibald.com/2016/link-in-body/)
+
