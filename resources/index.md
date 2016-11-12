@@ -93,11 +93,13 @@ Description: Useful websites, guides, blogs and newsletters
 ## Graphics
 
 * [Albumarium](http://albumarium.com/)
+* [App Store badges](https://developer.apple.com/app-store/marketing/guidelines/) - official, from Apple
 * [Devices](http://marvelapp.github.io/devices.css/) - 8 Pure CSS Flat Mobile Devices
 * [Font Awesome](http://fontawesome.io/)
 * [Hero Patterns](http://www.heropatterns.com/)
 * [Icon Works](http://icon-works.com/) - Free Icon Font
 * [Mazwai](http://mazwai.com/)
+* [Play Store badges](https://play.google.com/intl/en_us/badges/) - official, from Google
 * [The Noun Project](http://thenounproject.com/)
 * [The Pattern Library](http://thepatternlibrary.com/)
 * [Raumrot](http://www.raumrot.com/)
