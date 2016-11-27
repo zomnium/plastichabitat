@@ -22,6 +22,11 @@ Description: Client side javascript and frameworks
 * [You might not need jQuery](http://youmightnotneedjquery.com/)
 
 
+## Animation
+
+* [Choreographer-js](https://github.com/christinecha/choreographer-js) - A simple library to take care of complicated animations.
+
+
 ## Awesome stuff
 
 * [Socket.io](http://socket.io/)
