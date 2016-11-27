@@ -18,6 +18,11 @@ Description: Time saving approaches for creating awesome stuff
 * Deployment workflows using git, php and ...?
 
 
+## Design Sprints
+
+- [Duco](http://duco.newhaircut.com/) Your practical guide to running successful Design Sprints
+
+
 ## Deploy Git over FTP
 
 The best one I've found so far is based on NodeJS and called [DPLOY](http://leanmeanfightingmachine.github.io/dploy/) which is also available on [Github](https://github.com/LeanMeanFightingMachine/dploy). All settings are in YAML and it has support for multiple environments, perfect for local development with staging and production environments.
