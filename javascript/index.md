@@ -80,9 +80,15 @@ Description: Client side javascript and frameworks
 * [Stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
 * [Tooltipser](http://iamceege.github.io/tooltipster/)
 
+### Views
+
+* [Omniscient](http://omniscientjs.github.io/) - Do fast top-down rendering of views while thinking functional programming
+* [Riot](http://riotjs.com/) - Simple and elegant component-based UI library
+
 ### Misc.
 
 * [Agile](http://a-jie.github.io/Agile/) CSS3 Engine
+* [Clipboard.js](https://clipboardjs.com/)
 * [Google Charts](https://developers.google.com/chart/interactive/docs/index)
 * [GraphicJS](http://www.graphicsjs.org/)
 * [Prerender](https://prerender.io/)
