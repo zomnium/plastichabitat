@@ -76,6 +76,11 @@ Description: Useful websites, guides, blogs and newsletters
 * [Evil Trout](http://eviltrout.com/) - Javascript, Ruby and Ember
 
 
+## Stories
+
+* [Between the Wires](https://betweenthewires.org/) - How developer products are made
+
+
 ## Books
 
 * [design+code](http://designcode.io/)
