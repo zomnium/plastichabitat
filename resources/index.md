@@ -51,6 +51,7 @@ Description: Useful websites, guides, blogs and newsletters
 ## Guides
 
 * [Browser diet](http://browserdiet.com/) - How to lose weight in the browser
+* [Cssreference](http://cssreference.io/) - A free visual guide to CSS 
 * [Dive into html5](http://diveintohtml5.info/) - Online book about html5
 * [GoodUI](http://goodui.org/) - An idea list for good easy to use UI's
 * [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - O'Reilly e-book
