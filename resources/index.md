@@ -25,6 +25,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [24 ways](http://24ways.org/) - Advent calendar about all kinds of stuff
 * [Axureland](http://axureland.com/) - Tutorials for Axure
 * [Can I use](http://caniuse.com/) - Cross-browser compatibility
+* [Codemade](https://www.codemade.io/) - A place for developers to collect and share open-source projects
 * [The Code Player](http://thecodeplayer.com/) - HTML5 walkthroughs
 * [Codepen: Design Patterns](http://codepen.io/patterns/) - Ideas for your Projects
 * [Codepen: Webfont Browser Bugs](http://codepen.io/collection/ijEJq/) - A collection of browser bugs related to fonts, web fonts and text rendering
