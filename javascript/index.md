@@ -43,6 +43,7 @@ Description: Client side javascript and frameworks
 
 ### DOM
 
+* [RE:DOM](https://redom.js.org/) - Tiny turboboosted JavaScript library for creating user interfaces
 * [Superdom.js](https://superdom.site/) - Manipulate the DOM like it's 2016
 
 ### Filter and sort
