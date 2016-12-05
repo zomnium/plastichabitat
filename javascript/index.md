@@ -41,6 +41,10 @@ Description: Client side javascript and frameworks
 
 ## Useful libraries and plugins
 
+### DOM
+
+* [Superdom.js](https://superdom.site/) - Manipulate the DOM like it's 2016
+
 ### Filter and sort
 
 * [Fuse.js](http://fusejs.io/) - Lightweight fuzzy-search library
