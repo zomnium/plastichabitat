@@ -94,6 +94,7 @@ Description: Client side javascript and frameworks
 ### Misc.
 
 * [Agile](http://a-jie.github.io/Agile/) CSS3 Engine
+* [Charts.js](http://www.chartjs.org/) - Simple yet flexible JavaScript charting
 * [Clipboard.js](https://clipboardjs.com/)
 * [Google Charts](https://developers.google.com/chart/interactive/docs/index)
 * [GraphicJS](http://www.graphicsjs.org/)
