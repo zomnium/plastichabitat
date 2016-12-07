@@ -117,6 +117,8 @@ Description: Client side javascript and frameworks
 * [Synapse](http://bruth.github.io/synapse/docs/)
 * [Mean](http://mean.io/)
 * [Vue](http://vuejs.org/) *(is a framework alike library)*
+	* [Vuelidate](https://monterail.github.io/vuelidate/)
+	* [Learn Vue 2](https://laracasts.com/series/learn-vue-2-step-by-step)
 
 Check out [TodoMVC](http://todomvc.com/) for real examples!
 
