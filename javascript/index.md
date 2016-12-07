@@ -149,7 +149,7 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 ## HTML5 Spotlight
 
 * [Object.observe](http://wiki.ecmascript.org/doku.php?id=harmony:observe)
-* [Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
+* [Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) and [Promosis for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 * [Native Drag & Drop](http://www.html5rocks.com/en/tutorials/dnd/basics/)
 * [element.animate(), HTML Imports, and Object.observe()](http://blog.chromium.org/2014/05/chrome-36-beta-elementanimate-html.html)
 * [Presentation API Tutorial](http://html5hub.com/presentation-api-tutorial/)
