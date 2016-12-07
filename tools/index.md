@@ -79,6 +79,8 @@ Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple pl
 
 With [Runner](http://sketchrunner.com/) you can speed up your workflow, read more about it on [medium](https://medium.com/sketch-app-sources/runner-speed-up-your-sketch-workflow-fba470ed43c1#.v9tddmwxb).
 
+The plugin [User Flows](https://abynim.github.io/UserFlows/) helps you with generating flow diagrams from Artboards.
+
 
 ## [Sublime Text](http://www.sublimetext.com/) *and code editors in general*
 
