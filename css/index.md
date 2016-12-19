@@ -225,6 +225,7 @@ Todo: add some more information about Sass. For now, read this: [Sass Style Guid
 - [Getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) *on csswizardry*
 - [Principles for BEM + Sass](http://blog.14islands.com/post/70395374262/our-principles-for-bem-sass) *on 14islands blog*
 - [Sassier (BE)Modifers](http://viget.com/extend/bem-sass-modifiers) *on viget blog*
+- [McGriddle](https://jonsuh.com/mcgriddle/) is a Sass library designed to help you build based on a grid system.
 - [Naming UI components in OOCSS](http://csswizardry.com/2014/03/naming-ui-components-in-oocss/?utm_source=CSS-Weekly&utm_campaign=Issue-105&utm_medium=email) *on csswizardry*
 - [Sassy Grid](http://springload.github.io/sassy-grid/demos/)
 - [My Current CSS and Sass Styleguide](http://www.sitepoint.com/css-sass-styleguide/) *on sitepoint*
