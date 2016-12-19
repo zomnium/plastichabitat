@@ -13,6 +13,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Html5Rocks](http://html5rocks.com/)
 * [Product Hunt](http://www.producthunt.com/)
 * [Scotch](http://scotch.io/)
+* [Sessions](https://pusher.com/sessions)
 * [Sitepoint](http://www.sitepoint.com/)
 * [Smashing Magazine](http://smashingmagazine.com/)
 * [ThemeShaper](http://themeshaper.com/)
