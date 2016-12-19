@@ -285,6 +285,11 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 - [wysiwyg.css](https://github.com/jgthms/wysiwyg.css)
 - [You might not need JS](http://youmightnotneedjs.com/)
 
+### Parallax
+
+- [Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing)
+- [Practical CSS Parallax](http://keithclark.co.uk/articles/practical-css-parallax/)
+
 ### Icons
 
 - [Auticons](http://heydonworks.com/auticons-icon-font/)
