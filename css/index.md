@@ -45,6 +45,7 @@ Make use of the folowing properties, to prevent paints and ensure GPU accelerati
 ## Reset or Normalize
 
 - [Eric Meyer's Reset](http://meyerweb.com/eric/tools/css/reset/)
+- [Formbase](https://github.com/electerious/formbase) for better default styles for common input elements.
 - [Normalize](http://necolas.github.io/normalize.css/)
 - [HTML5 Boilerplate](http://html5boilerplate.com/) can be useful to, it makes use of Normalize together with some other quickstart defaults.
 - [Normalize Opentype](https://github.com/kennethormandy/normalize-opentype.css) adds OpenType features—ligatures, kerning, and more
