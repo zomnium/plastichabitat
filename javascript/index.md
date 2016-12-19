@@ -90,6 +90,16 @@ Description: Client side javascript and frameworks
 * [Stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
 * [Tooltipser](http://iamceege.github.io/tooltipster/)
 
+### Testing
+
+* [Buster.JS](http://docs.busterjs.org/) - A browser JavaScript testing toolkit.
+* [Intern](https://theintern.github.io/) - Software testing for humans.
+* [Jasmine](https://jasmine.github.io/) - A behavior-driven development framework.
+* [Karma](http://karma-runner.github.io/)
+* [Mocha](https://mochajs.org/) - Simple, flexible, fun.
+* [Nightwatch.js](http://nightwatchjs.org/) - Browser automated testing done easy.
+* [QUnit](http://qunitjs.com/) - A JavaScript Unit Testing framework.
+
 ### Views
 
 * [Omniscient](http://omniscientjs.github.io/) - Do fast top-down rendering of views while thinking functional programming
