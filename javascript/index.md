@@ -41,6 +41,10 @@ Description: Client side javascript and frameworks
 
 ## Useful libraries and plugins
 
+### Carousel
+
+* [Siema](https://pawelgrzybek.com/siema/) - Lightweight and simple carousel with no dependencies
+
 ### DOM
 
 * [RE:DOM](https://redom.js.org/) - Tiny turboboosted JavaScript library for creating user interfaces
