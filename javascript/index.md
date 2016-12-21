@@ -136,8 +136,6 @@ Description: Client side javascript and frameworks
 * [Synapse](http://bruth.github.io/synapse/docs/)
 * [Mean](http://mean.io/)
 * [Vue](http://vuejs.org/) *(is a framework alike library)*
-	* [Vuelidate](https://monterail.github.io/vuelidate/)
-	* [Learn Vue 2](https://laracasts.com/series/learn-vue-2-step-by-step)
 
 Check out [TodoMVC](http://todomvc.com/) for real examples!
 
@@ -160,6 +158,14 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 
 * [EmberWatch](http://emberwatch.com/)
 * [Getting Into EmberJS](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js/) on Tutsplus
+
+
+### MVC - Vue
+
+* [Learn Vue 2](https://laracasts.com/series/learn-vue-2-step-by-step)
+* [NUXT](https://nuxtjs.org/) -  A minimalistic framework for server-rendered Vue.js applications 
+* [Vuelidate](https://monterail.github.io/vuelidate/)
+* [Vuetify](https://vuetifyjs.com/) - A component framework for Vue.js 2
 
 
 ### Interactive Libraries
