@@ -76,6 +76,7 @@ Description: Client side javascript and frameworks
 
 * [Dragula](https://github.com/bevacqua/dragula)
 * [Draggabilly](http://draggabilly.desandro.com/)
+* [egjs](https://naver.github.io/egjs/) - A set of UI interactions, effects and utilities components library
 * [Hammer](http://eightmedia.github.io/hammer.js/)
 * [Interact.js](http://interactjs.io/)
 * [Slip](https://github.com/pornel/slip)
@@ -83,6 +84,7 @@ Description: Client side javascript and frameworks
 
 ### User interface
 
+* [egjs](https://naver.github.io/egjs/) - A set of UI interactions, effects and utilities components library
 * [Headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 * [in-view](https://camwiegert.github.io/in-view/) - Get notified when a DOM element enters or exits the viewport
 * [Progress Bar](https://kimmobrunfeldt.github.io/progressbar.js/) - Create responsive and stylish progress bars
