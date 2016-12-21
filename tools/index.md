@@ -156,6 +156,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 
 ## Online Tools
 
+* [ASCII Emoticon Generator](https://ascii.li/emoticon-creator)
 * [Amp What?](http://www.amp-what.com/)
 * [Brandcolors](http://brandcolors.net/)
 * [Ceasar CSS Animation](http://matthewlein.com/ceaser/)
