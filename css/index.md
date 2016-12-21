@@ -170,6 +170,7 @@ There's a lot of choice, below a little overview with well-known frameworks you 
 - [Jeet](http://jeet.gs/)
 - [Less Framework](http://lessframework.com/)
 - [Modulr](https://decorator.io/modulr/)
+- [Petal](https://shakrmedia.github.io/petal/)
 - [PopGrid](http://www.popgridsass.com/)
 - [Pure](http://purecss.io/)
 - [Semantic Grid System](http://semantic.gs/)
