@@ -119,6 +119,7 @@ Description: Client side javascript and frameworks
 * [Prerender](https://prerender.io/)
 * [Breeze](http://www.breezejs.com/)
 * [Leaflets](http://leafletjs.com/) Creating interactive maps
+* [scrollMonitor](https://github.com/stutrek/scrollMonitor) A simple and fast API to monitor elements as you scroll
 * [Slick](http://kenwheeler.github.io/slick/)
 * [ViewScroller](http://www.viewdesic.com/viewscroller/)
 * [Webpack](http://webpack.github.io/)
