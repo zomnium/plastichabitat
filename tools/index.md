@@ -151,6 +151,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 
 ## Browser plugins
 
+* [CSS Peeper](https://csspeeper.com/)
 * [FontFaceNinja](http://fontface.ninja/)
 
 
