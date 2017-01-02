@@ -86,14 +86,18 @@ The plugin [User Flows](https://abynim.github.io/UserFlows/) helps you with gene
 
 A lightning fast extendable and customizable text-editor. Nice alternatives are [Atom.io](https://atom.io/) which looks alot like Sublime Text, but is open-source and has a CLI and Git intergration (also check out [Seti UI](https://atom.io/themes/seti-ui)). Adobe funded [Brackets](http://brackets.io/) which is also open-source and is completely build in JavaScript. Commonly used paid editors are [Coda](https://panic.com/coda/) and [BBEdit](http://www.barebones.com/products/bbedit/).
 
-### Useful plugins:
+### Plugins:
 
 * [Emmet](http://emmet.io/) - also in combination with [Re:View](http://re-view.emmet.io/)
-* [Spacegray Theme](http://kkga.github.io/spacegray/)
-* [Flatland Theme](https://github.com/thinkpixellab/flatland)
 * [More useful Sublime Text plugins](http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions/)
 * [Best of Sublime Text features, plugins and settings](https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings) *on Scotch*
 * [Working with Code Snippets in Sublime Text](http://www.hongkiat.com/blog/sublime-code-snippets/)
+
+### Themes:
+
+* [Spacegray Theme](http://kkga.github.io/spacegray/)
+* [Flatland Theme](https://github.com/thinkpixellab/flatland)
+* [Best themes of 2015 and 2016](https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016) *on Scotch*
 
 ### Hotkeys:
 
