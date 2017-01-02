@@ -198,6 +198,7 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 * [Express](http://expressjs.com/) application framework
 * [Ghost](https://ghost.org/) publishing platform
 * [Hexo](http://hexo.io/) bloging framework
+* [Passport](http://www.passportjs.org/) unobtrusive authentication
 * [ROOTS](http://roots.cx/) toolbox
 * [Sails](http://sailsjs.org/) realtime framework
 * [Snyk](https://snyk.io/) find & fix known vulnerabilities
