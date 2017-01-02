@@ -109,6 +109,15 @@ Description: Client side javascript and frameworks
 * [Omniscient](http://omniscientjs.github.io/) - Do fast top-down rendering of views while thinking functional programming
 * [Riot](http://riotjs.com/) - Simple and elegant component-based UI library
 
+### VR
+
+* [A-frame](https://aframe.io/)
+* [krpano WebVR](http://krpano.com/plugins/webvr/)
+* [Mozilla VR](https://mozvr.com/)
+* [Pano2VR](https://ggnome.com/pano2vr)
+* [ReactVR](https://facebookincubator.github.io/react-vr/) (on [Github](https://github.com/facebookincubator/react-vr) / [Introduction blog](https://developer.oculus.com/blog/introducing-the-react-vr-pre-release/))
+* [WebVR spec](https://w3c.github.io/webvr/)
+
 ### Misc.
 
 * [Agile](http://a-jie.github.io/Agile/) CSS3 Engine
