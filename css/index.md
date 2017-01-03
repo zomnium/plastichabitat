@@ -297,6 +297,7 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 
 ### CSS3
 
+- [Colofilter.css](http://lukyvj.github.io/colofilter.css/)
 - [Getting to know CSS Blend Modes](http://dev.opera.com/articles/getting-to-know-css-blend-modes/)
 - [Flexbox adventures](http://chriswrightdesign.com/experiments/flexbox-adventures/)
 - [Using Flexbox today](http://chriswrightdesign.com/experiments/using-flexbox-today/)
