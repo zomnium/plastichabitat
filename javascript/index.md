@@ -199,6 +199,9 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 * [Express](http://expressjs.com/) application framework
 * [Ghost](https://ghost.org/) publishing platform
 * [Hexo](http://hexo.io/) bloging framework
+* [Koa](http://koajs.com/) next generation web framework for node.js
+* [Next](https://github.com/zeit/next.js) minimalistic framework for universal server-rendered React application
+* [Nodal](http://www.nodaljs.com/) API services made easy
 * [Passport](http://www.passportjs.org/) unobtrusive authentication
 * [ROOTS](http://roots.cx/) toolbox
 * [Sails](http://sailsjs.org/) realtime framework
