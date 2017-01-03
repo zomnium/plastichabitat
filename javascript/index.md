@@ -86,6 +86,7 @@ Description: Client side javascript and frameworks
 ### User interface
 
 * [egjs](https://naver.github.io/egjs/) - A set of UI interactions, effects and utilities components library
+* [Force.js](https://force-js.com/) - Easy way to scroll and animate your page in vanilla javascript
 * [Headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 * [in-view](https://camwiegert.github.io/in-view/) - Get notified when a DOM element enters or exits the viewport
 * [Progress Bar](https://kimmobrunfeldt.github.io/progressbar.js/) - Create responsive and stylish progress bars
