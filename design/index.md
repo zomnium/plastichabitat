@@ -28,6 +28,7 @@ On this page I want to write about the following subjects:
 
 ### Exmaples
 
+- [Design Guidelines](http://designguidelines.co/) (A collection)
 - [A List Apart](http://alistapart.com/blog/post/getting-started-with-pattern-libraries)
 - [Code for America](http://style.codeforamerica.org/)
 - [FontShop](http://next.fontshop.com/styleguide/globals)
