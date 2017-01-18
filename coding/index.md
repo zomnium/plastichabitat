@@ -52,6 +52,13 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 'JSTalk is a scripting language for Mac OS X built on top of JavaScript, with a bridge to Apple's Cocoa libraries. You can use it to communicate with other applications just like AppleScript does.'
 
 
+## Bots
+
+
+- [BotKit](https://github.com/howdyai/botkit)
+- [BotPress](https://botpress.io/)
+
+
 ## Languages
 
 - [Lua](http://www.lua.org/) is a powerful, fast, lightweight, embeddable scripting language
