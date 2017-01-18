@@ -68,6 +68,11 @@ Description: Client side javascript and frameworks
 * [Scribe](https://github.com/guardian/scribe)
 * [ZenPen](http://www.zenpen.io/)
 
+### Presentation frameworks
+
+* [Reveal.js](http://lab.hakim.se/reveal-js/)
+* [WebSlides](https://webslides.tv/)
+
 ### Tools
 
 * [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs/)
