@@ -52,6 +52,13 @@ Description: Useful websites, guides, blogs and newsletters
 * [You might not need jQuery](http://youmightnotneedjquery.com/)
 
 
+## Checklists
+
+* [Flawless Typography Checklist](https://www.typographychecklist.com/)
+* [UX Project Checklist](https://uxchecklist.github.io/)
+* [Web Developer Checklist](http://webdevchecklist.com/)
+
+
 ## Guides
 
 * [Browser diet](http://browserdiet.com/) - How to lose weight in the browser
