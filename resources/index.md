@@ -25,6 +25,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [10up Engineering](https://10up.github.io/Engineering-Best-Practices/) Best Practices
 * [24 ways](http://24ways.org/) - Advent calendar about all kinds of stuff
 * [Axureland](http://axureland.com/) - Tutorials for Axure
+* [Blueprint](https://teamweek.com/blueprint-the-expectations-game) - A magazine for the curious creative
 * [Can I use](http://caniuse.com/) - Cross-browser compatibility
 * [Codemade](https://www.codemade.io/) - A place for developers to collect and share open-source projects
 * [The Code Player](http://thecodeplayer.com/) - HTML5 walkthroughs
