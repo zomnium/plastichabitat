@@ -81,6 +81,8 @@ With [Runner](http://sketchrunner.com/) you can speed up your workflow, read mor
 
 The plugin [User Flows](https://abynim.github.io/UserFlows/) helps you with generating flow diagrams from Artboards.
 
+[Introducing Auto-layout for Sketch](https://medium.com/sketch-app-sources/introducing-auto-layout-for-sketch-24e7b5d068f9) shows you how the [Auto-layout](https://animaapp.github.io/Auto-Layout/) plugin makes it easy to resize layouts.
+
 
 ## [Sublime Text](http://www.sublimetext.com/) *and code editors in general*
 
