@@ -150,6 +150,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Pricing Pages](http://www.pricingpages.xyz/)
 * [Product Pages](http://www.productpages.xyz/)
 * [Pttrns](http://www.pttrns.com/)
+* [Searchsystem](http://searchsystem.co/)
 * [Siteinspire](http://siteinspire.com/)
 * [Trendlist](http://www.trendlist.org/)
 * [Vormplatform](http://www.vormplatform.nl/)
