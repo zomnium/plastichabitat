@@ -100,6 +100,7 @@ Description: Client side javascript and frameworks
 * [SmoothState](http://weblinc.github.io/jquery.smoothState.js/index.html) page transitions ([introduction article on CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/))
 * [Stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
 * [Tooltipser](http://iamceege.github.io/tooltipster/)
+* [Zoom.js](https://github.com/nishanths/zoom.js) - Medium's Image Zoom (no dependencies, IE 10+)
 
 ### Testing
 
