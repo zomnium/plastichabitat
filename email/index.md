@@ -14,6 +14,7 @@ Description: HTML for use in emails
 * [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate)
 * [Html Email Boilerplate](http://htmlemailboilerplate.com/)
 * [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
+* [Pulp](http://pulp.glitchpack.com/)
 * [Responsive Email Patterns](http://responsiveemailpatterns.com/)
 * [Zurb Ink](http://zurb.com/ink/)
 
