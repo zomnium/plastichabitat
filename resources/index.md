@@ -71,6 +71,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [Javascript The Right Way](http://jstherightway.org/) - Doing Javascript the right way
 * [PHP The Right Way](http://www.phptherightway.com/) - Doing PHP the right way
+* [Type foundries](http://www.vanschneider.com/best-type-foundries-to-find-typefaces/) - Tobias' favorite Type Foundries to Find Typefaces
 * [Web standards](http://www.yellowshoe.com.au/standards/) - Best practices about front-end development
 
 
