@@ -91,6 +91,7 @@ Description: Client side javascript and frameworks
 
 ### User interface
 
+* [Animsition](http://git.blivesta.com/animsition/) - A simple and easy jQuery plugin for CSS animated page transitions
 * [egjs](https://naver.github.io/egjs/) - A set of UI interactions, effects and utilities components library
 * [Force.js](https://force-js.com/) - Easy way to scroll and animate your page in vanilla javascript
 * [Headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
