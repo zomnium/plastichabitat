@@ -70,6 +70,7 @@ Description: Client side javascript and frameworks
 
 ### Presentation frameworks
 
+* [Impress.js](https://github.com/impress/impress.js)
 * [Reveal.js](http://lab.hakim.se/reveal-js/)
 * [WebSlides](https://webslides.tv/)
 
