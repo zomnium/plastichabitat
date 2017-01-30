@@ -285,6 +285,7 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 - [Sass Boilerplate](https://github.com/srsgores/sass-boilerplate/) *on GitHub*
 - [CSS Toggle Switch](http://ghinda.net/css-toggle-switch/)
 - [Fixed Table Layout](https://css-tricks.com/fixing-tables-long-strings/)
+- [Text background, multiline](http://callmenick.com/post/multi-line-padded-text-css-box-decoration-break)
 - [wysiwyg.css](https://github.com/jgthms/wysiwyg.css)
 - [You might not need JS](http://youmightnotneedjs.com/)
 
