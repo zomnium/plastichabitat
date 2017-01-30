@@ -44,6 +44,7 @@ Make use of the folowing properties, to prevent paints and ensure GPU accelerati
 
 ## Reset or Normalize
 
+- [awsm.css](https://igoradamenko.github.io/awsm.css/) makes HTML beautiful
 - [Eric Meyer's Reset](http://meyerweb.com/eric/tools/css/reset/)
 - [Formbase](https://github.com/electerious/formbase) for better default styles for common input elements.
 - [Normalize](http://necolas.github.io/normalize.css/)
