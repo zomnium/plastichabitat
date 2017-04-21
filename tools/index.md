@@ -80,13 +80,11 @@ Open-source web analytics tool, online and app for mobile! Try it out, it even h
 
 Vector based application for designing digital media, with all kinds nice features. Including an easy assets export. The software is available on the App Store for $79, a trial version is available on their website.
 
-Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple plugin manager for Sketch.
+Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple plugin manager for Sketch. With [Runner](http://sketchrunner.com/) you can speed up your workflow, read more about it on [medium](https://medium.com/sketch-app-sources/runner-speed-up-your-sketch-workflow-fba470ed43c1#.v9tddmwxb). [Introducing Auto-layout for Sketch](https://medium.com/sketch-app-sources/introducing-auto-layout-for-sketch-24e7b5d068f9) shows you how the [Auto-layout](https://animaapp.github.io/Auto-Layout/) plugin makes it easy to resize layouts.
 
-With [Runner](http://sketchrunner.com/) you can speed up your workflow, read more about it on [medium](https://medium.com/sketch-app-sources/runner-speed-up-your-sketch-workflow-fba470ed43c1#.v9tddmwxb).
-
-The plugin [User Flows](https://abynim.github.io/UserFlows/) helps you with generating flow diagrams from Artboards.
-
-[Introducing Auto-layout for Sketch](https://medium.com/sketch-app-sources/introducing-auto-layout-for-sketch-24e7b5d068f9) shows you how the [Auto-layout](https://animaapp.github.io/Auto-Layout/) plugin makes it easy to resize layouts.
+* The plugin [User Flows](https://abynim.github.io/UserFlows/) helps you with generating flow diagrams from Artboards.
+* [Mockuuups Studio](https://mockuuups.studio/sketch) turns Sketch artboards unto perspective mockups, real-time.
+* [Slinky](https://finchalyzer.github.io/slinky/) export your Sketch designs  as HTML email templates.
 
 
 ## [Sublime Text](http://www.sublimetext.com/) *and code editors in general*
