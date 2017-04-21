@@ -148,6 +148,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Minimal Sites](http://www.minimalsites.com/)
 * [Mobile Patterns](http://www.mobile-patterns.com/)
 * [Niice](http://niice.co/)
+* [Oops](http://oops.re/)
 * [Pricing Pages](http://www.pricingpages.xyz/)
 * [Product Pages](http://www.productpages.xyz/)
 * [Pttrns](http://www.pttrns.com/)
