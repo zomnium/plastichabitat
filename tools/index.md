@@ -179,6 +179,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 * [Gridlover](http://www.gridlover.net/)
 * [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
 * [Icomoon](https://icomoon.io/)
+* [Lorem Ipsum Generator](https://loremipsumgenerator.com/)
 * [Material Palette](http://www.materialpalette.com/)
 * [Nibbler](http://nibbler.silktide.com/)
 * [Nucleo](https://nucleoapp.com/)
