@@ -83,6 +83,7 @@ Vector based application for designing digital media, with all kinds nice featur
 Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple plugin manager for Sketch. With [Runner](http://sketchrunner.com/) you can speed up your workflow, read more about it on [medium](https://medium.com/sketch-app-sources/runner-speed-up-your-sketch-workflow-fba470ed43c1#.v9tddmwxb). [Introducing Auto-layout for Sketch](https://medium.com/sketch-app-sources/introducing-auto-layout-for-sketch-24e7b5d068f9) shows you how the [Auto-layout](https://animaapp.github.io/Auto-Layout/) plugin makes it easy to resize layouts.
 
 * The plugin [User Flows](https://abynim.github.io/UserFlows/) helps you with generating flow diagrams from Artboards.
+* [UX Flow](http://uxflow.co/) a flowchart kit for Sketch.
 * [Mockuuups Studio](https://mockuuups.studio/sketch) turns Sketch artboards unto perspective mockups, real-time.
 * [Slinky](https://finchalyzer.github.io/slinky/) export your Sketch designs  as HTML email templates.
 * [React Sketch.app](http://airbnb.io/react-sketchapp/), render React components to Sketch; tailor-made for design systems.
