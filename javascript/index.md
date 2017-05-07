@@ -146,6 +146,11 @@ Description: Client side javascript and frameworks
 * [ViewScroller](http://www.viewdesic.com/viewscroller/)
 * [Webpack](http://webpack.github.io/)
 
+### Panorama
+
+* [pannellum](https://pannellum.org/)
+* [krpano](http://krpano.com/)
+
 
 ## Frameworks
 
