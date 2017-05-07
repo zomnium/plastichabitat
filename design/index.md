@@ -71,6 +71,7 @@ On this page I want to write about the following subjects:
 
 - [Pattern Lab](http://patternlab.io/) *Create atomic design systems*
 - [Brad Frost: Atomic Design (Webdagene 2014)](http://vimeo.com/109130093) *on Vimeo*
+- [Carbon Design systems](http://carbondesignsystem.com/)
 
 
 ## Facebook images
