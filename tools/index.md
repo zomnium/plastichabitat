@@ -203,6 +203,13 @@ A dependency manager for javascript. It is compatible with the npm package manag
 * [Gimp](http://www.gimp.org/) - Raster image editor
 
 
+## Misc.
+
+* [Captain](https://getcaptain.co/) - Manage Docker containers, instantly from the menu bar.
+* [Macify](https://macify.io/) - rom web to macOS, onvert webapps to native macOS apps with ease.
+* [tlapse](https://github.com/typicode/tlapse) - create a timelapse of your web development.
+
+
 ## I also like to use...
 
 * [Dropbox](http://dropbox.com/)
