@@ -214,6 +214,7 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 
 * [Cyclotron](http://www.cyclotron.io/), a web application for constructing dashboards.
 * [Express](http://expressjs.com/) application framework
+* [Feathers](https://feathersjs.com/) open source REST and realtime API layer for modern applications
 * [Ghost](https://ghost.org/) publishing platform
 * [Hexo](http://hexo.io/) bloging framework
 * [Koa](http://koajs.com/) next generation web framework for node.js
