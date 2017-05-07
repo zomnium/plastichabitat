@@ -187,6 +187,7 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 
 * [EmberWatch](http://emberwatch.com/)
 * [Getting Into EmberJS](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js/) on Tutsplus
+* [Sparks](http://ember-sparks.com/) - Ambitious UI components for Ember apps
 
 
 ### MVC - Vue
