@@ -52,10 +52,15 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 'JSTalk is a scripting language for Mac OS X built on top of JavaScript, with a bridge to Apple's Cocoa libraries. You can use it to communicate with other applications just like AppleScript does.'
 
 
+### [Electron](https://electron.atom.io/)
+
+- [Photon](http://photonkit.com/) - The fastest way to build beautiful Electron apps using simple HTML and CSS
+
+
 ## Bots
 
-
 - [BotKit](https://github.com/howdyai/botkit)
+- [Botman](https://github.com/mpociot/botman)
 - [BotPress](https://botpress.io/)
 
 
