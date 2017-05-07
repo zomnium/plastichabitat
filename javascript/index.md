@@ -58,6 +58,7 @@ Description: Client side javascript and frameworks
 * [Listjs](http://www.listjs.com/examples)
 * [Masonry](http://masonry.desandro.com/)
 * [MixItUp](http://mixitup.io/)
+* [Muuri](https://haltu.github.io/muuri/)
 * [Shuffle](http://vestride.github.io/Shuffle/)
 
 ### Editors
