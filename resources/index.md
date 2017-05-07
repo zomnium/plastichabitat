@@ -35,6 +35,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Cody](http://codyhouse.co/) - A free library of HTML, CSS, JS nuggets
 * [CSS Animation Rocks](https://cssanimation.rocks/)
 * [Facebook.design](http://facebook.design/) - Collection of articles, videos and resources
+* [Glitch](https://glitch.com/) - Friendly community where you'll build the app of your dreams
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
 * [Inclusive Design at Microsoft](https://www.microsoft.com/en-us/design/inclusive) - Inclusive design principles
 * [HTTML5 Accessibility](http://html5accessibility.com/) - Accessibility support status across major browsers
