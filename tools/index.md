@@ -193,6 +193,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 
 * [Google Web Designer](http://www.google.nl/webdesigner/) - Create HTML5 animations in a Flash kinda interface
 * [Adobe Edge](http://html.adobe.com/edge/) - Create HTML5 animations in a Flash kinda interface
+* [Keyshape](https://www.pixofield.com/) - Create animations for the Web
 
 
 ## Graphic Applications (open-source)
