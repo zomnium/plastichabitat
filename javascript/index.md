@@ -97,9 +97,11 @@ Description: Client side javascript and frameworks
 * [Animsition](http://git.blivesta.com/animsition/) - A simple and easy jQuery plugin for CSS animated page transitions
 * [Choices.js](https://joshuajohnson.co.uk/Choices/) - Lightweight, configurable select box/text input plugin
 * [egjs](https://naver.github.io/egjs/) - A set of UI interactions, effects and utilities components library
+* [Ensure](https://github.com/vigetlabs/ensure-animation) - Ensure animation runs until class loaded
 * [Force.js](https://force-js.com/) - Easy way to scroll and animate your page in vanilla javascript
 * [Headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 * [in-view](https://camwiegert.github.io/in-view/) - Get notified when a DOM element enters or exits the viewport
+* [multi.js](http://fabianlindfors.se/multijs/) - user-friendly replacement for select boxes with multiple attribute enabled
 * [Progress Bar](https://kimmobrunfeldt.github.io/progressbar.js/) - Create responsive and stylish progress bars
 * [Rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 * [Select2](https://select2.github.io/) -  The jQuery replacement for select boxes 
@@ -142,6 +144,7 @@ Description: Client side javascript and frameworks
 * [Prerender](https://prerender.io/)
 * [Breeze](http://www.breezejs.com/)
 * [Leaflets](http://leafletjs.com/) Creating interactive maps
+* [Progressively](https://thinker3197.github.io/progressively/) A JavaScript library to load images progressively
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) A simple and fast API to monitor elements as you scroll
 * [Slick](http://kenwheeler.github.io/slick/)
 * [Tracking.js](https://trackingjs.com/) Brings different computer vision algorithms and techniques, real-time color tracking, face detection and much more
