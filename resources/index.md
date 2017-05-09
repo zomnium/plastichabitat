@@ -38,6 +38,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Glitch](https://glitch.com/) - Friendly community where you'll build the app of your dreams
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
 * [Inclusive Design at Microsoft](https://www.microsoft.com/en-us/design/inclusive) - Inclusive design principles
+* [InterfaceLovers.](https://interfacelovers.com/) - Online magazine for creative professionals
 * [HTTML5 Accessibility](http://html5accessibility.com/) - Accessibility support status across major browsers
 * [Modern IE](http://www.modern.ie/) - Dev tools for testing IE
 * [OneXtraPixel](http://www.onextrapixel.com/) - Tutorials, freebies and inspiration
