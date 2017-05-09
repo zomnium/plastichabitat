@@ -184,6 +184,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 * [Material Palette](http://www.materialpalette.com/)
 * [Nibbler](http://nibbler.silktide.com/)
 * [Nucleo](https://nucleoapp.com/)
+* [Page Weight](https://pageweight.imgix.com/)
 * [Placeholdit](http://placehold.it/)
 * [Programmer Excuses](www.programmerexcuses.com)
 * [SVG 2 VectorDrawable](http://inloop.github.io/svg2android/)
