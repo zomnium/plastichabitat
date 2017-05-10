@@ -4,6 +4,11 @@ Description: Useful tools for creating and managing front-end and backend stuff
 */
 
 
+## [Color Oracle](http://www.colororacle.org/)
+
+ Color Oracle is a free color blindness simulator for Window, Mac and Linux. It takes the guesswork out of designing for color blindness by showing you in real time what people with common color vision impairments will see.
+ 
+
 ## [Composer](http://getcomposer.org)
 
 The package and dependency-manager for PHP. More information and documentation can be found on [getcomposer.org](http://getcomposer.org) and packages can be browsed and added at [Packagist](https://packagist.org/).
