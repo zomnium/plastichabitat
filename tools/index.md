@@ -109,8 +109,12 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 
 ### Themes:
 
-* [Spacegray Theme](http://kkga.github.io/spacegray/)
+* [Ayu](https://github.com/dempfi/ayu)
 * [Flatland Theme](https://github.com/thinkpixellab/flatland)
+* [Material Theme](http://equinsuocha.io/material-theme/)
+* [Predawn](http://jamiewilson.io/predawn/)
+* [Spacegray Theme](http://kkga.github.io/spacegray/)
+* [Solarized Theme](https://github.com/paulcpederson/solarized-sublime)
 * [Best themes of 2015 and 2016](https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016) *on Scotch*
 
 ### Hotkeys:
