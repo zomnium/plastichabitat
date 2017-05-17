@@ -122,19 +122,24 @@ Description: Useful websites, guides, blogs and newsletters
 * [App Store badges](https://developer.apple.com/app-store/marketing/guidelines/) - official, from Apple
 * [Devices](http://marvelapp.github.io/devices.css/) - 8 Pure CSS Flat Mobile Devices
 * [Font Awesome](http://fontawesome.io/)
+* [Foter](http://foter.com/) - Royalty-free stock photos
 * [Freephotos.cc](https://freephotos.cc/)
+* [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures
 * [Hero Patterns](http://www.heropatterns.com/)
 * [Icon Works](http://icon-works.com/) - Free Icon Font
 * [Mazwai](http://mazwai.com/)
 * [Mockuuups Studio](https://mockuuups.studio/)
+* [Pexels](https://www.pexels.com/) - Best free stock photos in one place
 * [Play Store badges](https://play.google.com/intl/en_us/badges/) - official, from Google
 * [The Noun Project](http://thenounproject.com/)
 * [The Pattern Library](http://thepatternlibrary.com/)
 * [Raumrot](http://www.raumrot.com/)
 * [Sneakpeekit](http://sneakpeekit.com/) - Printable Grids for Design Wireframing
 * [Stock photos that don't suck](https://medium.com/p/62ae4bcbe01b)
+* [StockSnap](https://stocksnap.io/) - Beautiful free stock photos
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [Unsplash](https://unsplash.com/)
+* [You work for them](https://www.youworkforthem.com/) - Fonts, graphics and photos
 
 
 ## Theming
