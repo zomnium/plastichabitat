@@ -76,6 +76,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Moving to HTTPS Guide](https://movingtohttps.com/) - migrate to HTTPS with a simple tested process
 * [Oh shit, git!](http://ohshitgit.com/) - Here are some bad situations and how to get out of them
 * [PHP The Right Way](http://www.phptherightway.com/) - Doing PHP the right way
+* [Practical Typography](http://practicaltypography.com/)
 * [Type foundries](http://www.vanschneider.com/best-type-foundries-to-find-typefaces/) - Tobias' favorite Type Foundries to Find Typefaces
 * [Web Field Manual](https://webfieldmanual.com/) - A curated list of resources focused on documenting knowledge for designing experiences and interfaces
 * [Web standards](http://www.yellowshoe.com.au/standards/) - Best practices about front-end development
