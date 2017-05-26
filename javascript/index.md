@@ -134,12 +134,16 @@ Description: Client side javascript and frameworks
 * [ReactVR](https://facebookincubator.github.io/react-vr/) (on [Github](https://github.com/facebookincubator/react-vr) / [Introduction blog](https://developer.oculus.com/blog/introducing-the-react-vr-pre-release/))
 * [WebVR spec](https://w3c.github.io/webvr/)
 
+### Charts and graphs
+
+* [Britecharts](http://eventbrite.github.io/britecharts/) - Reusable Charting Library based on D3.js
+* [Charts.js](http://www.chartjs.org/) - Simple yet flexible JavaScript charting
+* [Google Charts](https://developers.google.com/chart/interactive/docs/index)
+
 ### Misc.
 
 * [Agile](http://a-jie.github.io/Agile/) CSS3 Engine
-* [Charts.js](http://www.chartjs.org/) - Simple yet flexible JavaScript charting
 * [Clipboard.js](https://clipboardjs.com/)
-* [Google Charts](https://developers.google.com/chart/interactive/docs/index)
 * [GraphicJS](http://www.graphicsjs.org/)
 * [Prerender](https://prerender.io/)
 * [Breeze](http://www.breezejs.com/)
