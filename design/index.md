@@ -49,6 +49,7 @@ On this page I want to write about the following subjects:
 - [SC5 Styleguide](http://styleguide.sc5.io/)
 - [Styledecco](http://jacobrask.github.io/styledocco/)
 - [Styleguide](https://devbridge.github.io/Styleguide/)
+- [Style Guide Guide](https://github.com/bradfrost/style-guide-guide)
 - [Stylify Me](http://stylifyme.com/)
 
 ### Articles
