@@ -147,6 +147,13 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 	}
 
 
+## [SQLPad](http://rickbergfalk.github.io/sqlpad/)
+
+SQLPad is a self-hosted web app for writing and running SQL queries and visualizing the results. Its goal is to be a simple tool for exploratory data work and visualizations, ideal for data analysts who would prefer to work in SQL.
+
+SQLPad is meant to be run on an internal network for a single team. All connections added to the app can be used by all individuals with access to the SQLPad server. All queries written can be run and edited by everyone on the server. 
+
+
 ## [Typographic Supply](http://typography.supply/)
 
 A great inventory of typographic tools, from font identifiers, online calculation and grid tools, javascript and css libraries to making typfaces.
