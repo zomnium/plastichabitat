@@ -181,6 +181,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 
 * [ASCII Emoticon Generator](https://ascii.li/emoticon-creator)
 * [Amp What?](http://www.amp-what.com/)
+* [Archetype](http://www.archetypeapp.com/)
 * [Brandcolors](http://brandcolors.net/)
 * [Ceasar CSS Animation](http://matthewlein.com/ceaser/)
 * [CloudConvert](https://cloudconvert.com/)
@@ -189,6 +190,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Google Maps Builder](http://googlemapbuilder.mynameisdonald.com/)
 * [Gridlover](http://www.gridlover.net/)
+* [WP Hasty](https://www.wp-hasty.com/)
 * [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
 * [Icomoon](https://icomoon.io/)
 * [Lorem Ipsum Generator](https://loremipsumgenerator.com/)
