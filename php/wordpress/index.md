@@ -140,6 +140,7 @@ More background information:
 ### Misc.
 
 - [Customize Login Page](https://premium.wpmudev.org/blog/customize-login-page/)
+- [WordPress for Web Apps](https://github.com/cferdinandi/gmt-wordpress-for-web-apps) provides the essential components you need to power your web app with WordPress
 
 
 ## Posts
