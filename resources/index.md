@@ -153,6 +153,7 @@ Description: Useful websites, guides, blogs and newsletters
 ## Inspiration
 
 * [100 Days UI](http://www.100daysui.com/)
+* [Bench.li](http://bench.li/)
 * [Checkout Pages](http://www.checkoutpages.xyz/)
 * [Designgest](http://designgest.com/)
 * [Designspiration](http://designspiration.net/)
@@ -160,6 +161,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [InboxPixels](http://inboxpixels.com/)
 * [MaterialUp](http://www.materialup.com/)
 * [Mediaqueri.es](http://mediaqueri.es/)
+* [Minimal Gallery](http://minimal.gallery/)
 * [Minimal Sites](http://www.minimalsites.com/)
 * [Mobile Patterns](http://www.mobile-patterns.com/)
 * [Niice](http://niice.co/)
@@ -169,7 +171,9 @@ Description: Useful websites, guides, blogs and newsletters
 * [Pttrns](http://www.pttrns.com/)
 * [Searchsystem](http://searchsystem.co/)
 * [Siteinspire](http://siteinspire.com/)
+* [The Gallery](http://thegallery.io/)
 * [Trendlist](http://www.trendlist.org/)
+* [Typewolf](https://www.typewolf.com/)
 * [Vormplatform](http://www.vormplatform.nl/)
 
 
