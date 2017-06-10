@@ -142,6 +142,7 @@ Description: Client side javascript and frameworks
 
 ### Misc.
 
+* [Amplitude](https://521dimensions.com/open-source/amplitudejs) HTML audio player for the modern era
 * [Agile](http://a-jie.github.io/Agile/) CSS3 Engine
 * [Clipboard.js](https://clipboardjs.com/)
 * [GraphicJS](http://www.graphicsjs.org/)
