@@ -171,6 +171,7 @@ Description: Client side javascript and frameworks
 * [Ampersand](http://ampersandjs.com/)
 * [Angular](http://angularjs.org/)
 * [Aurelia](http://aurelia.io/)
+* [Cell](https://www.celljs.org/)
 * [Backbone](http://backbonejs.org/)
 * [Ember](http://emberjs.com/)
 * [Rivets.JS](http://www.rivetsjs.com/)
