@@ -154,6 +154,7 @@ Description: Client side javascript and frameworks
 * [Progressively](https://thinker3197.github.io/progressively/) A JavaScript library to load images progressively
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) A simple and fast API to monitor elements as you scroll
 * [Slick](http://kenwheeler.github.io/slick/)
+* [Tilt.js](http://gijsroge.github.io/tilt.js/) lightweight parallax hover tilt effect for jQuery
 * [Tinydate](https://github.com/lukeed/tinydate) A tiny reusable date formatter, extremely fast
 * [Tracking.js](https://trackingjs.com/) Brings different computer vision algorithms and techniques, real-time color tracking, face detection and much more
 * [ViewScroller](http://www.viewdesic.com/viewscroller/)
