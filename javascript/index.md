@@ -137,6 +137,7 @@ Description: Client side javascript and frameworks
 
 ### Charts and graphs
 
+* [Billboard.js](https://naver.github.io/billboard.js/) - Re-usable easy interface JavaScript chart library, based on D3 v4+
 * [Britecharts](http://eventbrite.github.io/britecharts/) - Reusable Charting Library based on D3.js
 * [Charts.js](http://www.chartjs.org/) - Simple yet flexible JavaScript charting
 * [Google Charts](https://developers.google.com/chart/interactive/docs/index)
