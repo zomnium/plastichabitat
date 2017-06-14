@@ -95,6 +95,7 @@ Description: Client side javascript and frameworks
 ### User interface
 
 * [Animsition](http://git.blivesta.com/animsition/) - A simple and easy jQuery plugin for CSS animated page transitions
+* [Barba.js](http://barbajs.org/) - Fluid and smooth transition between your website's pages
 * [Choices.js](https://joshuajohnson.co.uk/Choices/) - Lightweight, configurable select box/text input plugin
 * [egjs](https://naver.github.io/egjs/) - A set of UI interactions, effects and utilities components library
 * [Ensure](https://github.com/vigetlabs/ensure-animation) - Ensure animation runs until class loaded
