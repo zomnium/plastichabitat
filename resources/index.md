@@ -123,6 +123,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Albumarium](http://albumarium.com/)
 * [App Store badges](https://developer.apple.com/app-store/marketing/guidelines/) - official, from Apple
 * [Devices](http://marvelapp.github.io/devices.css/) - 8 Pure CSS Flat Mobile Devices
+* [Feather](https://feathericons.com/) - Simply beautiful open source icons
 * [Font Awesome](http://fontawesome.io/)
 * [Foter](http://foter.com/) - Royalty-free stock photos
 * [Freephotos.cc](https://freephotos.cc/)
