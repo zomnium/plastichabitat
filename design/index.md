@@ -97,3 +97,8 @@ with modular scale and vertical rhythm.*
 - [Web Design is 95% Typography](https://ia.net/blog/the-web-is-all-about-typography-period/)
 - [Typography is a practice.](http://practice.typekit.com/)
 - [Typography is how text looks](http://practice.typekit.com/lesson/typography-is-how-text-looks/)
+
+
+## Misc.
+
+- [Coolhue](https://webkul.github.io/coolhue/) - Handpicked gradient hues
