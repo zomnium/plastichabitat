@@ -107,6 +107,7 @@ Description: Client side javascript and frameworks
 * [Rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 * [Select2](https://select2.github.io/) -  The jQuery replacement for select boxes 
 * [SmoothState](http://weblinc.github.io/jquery.smoothState.js/index.html) page transitions ([introduction article on CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/))
+* [StickyBits](https://dollarshaveclub.github.io/stickybits/) - Lightweight alternative to position: sticky polyfills
 * [Stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
 * [Tooltipser](http://iamceege.github.io/tooltipster/)
 * [Zoom.js](https://github.com/nishanths/zoom.js) - Medium's Image Zoom (no dependencies, IE 10+)
