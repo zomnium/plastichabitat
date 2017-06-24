@@ -182,6 +182,7 @@ Description: Client side javascript and frameworks
 * [Mean](http://mean.io/)
 * [Moon](http://moonjs.ga/)
 * [Vue](http://vuejs.org/) *(is a framework alike library)*
+* [Vulcan](http://vulcanjs.org/)
 
 Check out [TodoMVC](http://todomvc.com/) for real examples!
 
