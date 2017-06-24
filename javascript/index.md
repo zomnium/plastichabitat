@@ -155,6 +155,7 @@ Description: Client side javascript and frameworks
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) A simple and fast API to monitor elements as you scroll
 * [Slick](http://kenwheeler.github.io/slick/)
 * [Tilt.js](http://gijsroge.github.io/tilt.js/) lightweight parallax hover tilt effect for jQuery
+* [Timeline.js](https://ilkeryilmaz.github.io/timelinejs/) create a timeline slider easily
 * [Tinydate](https://github.com/lukeed/tinydate) A tiny reusable date formatter, extremely fast
 * [Tracking.js](https://trackingjs.com/) Brings different computer vision algorithms and techniques, real-time color tracking, face detection and much more
 * [ViewScroller](http://www.viewdesic.com/viewscroller/)
