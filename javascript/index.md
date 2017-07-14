@@ -34,6 +34,7 @@ Description: Client side javascript and frameworks
 
 * [Socket.io](http://socket.io/)
 * [D3JS](http://d3js.org/)
+* [Icaro](https://github.com/GianlucaGuarini/icaro) - Javascript object observer, ideal for batching DOM updates.
 * [Raphael](http://raphaeljs.com/)
 * [localForage](http://mozilla.github.io/localForage/)
 * [PlayerJS](http://playerjs.io/)
