@@ -60,6 +60,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Flawless Typography Checklist](https://www.typographychecklist.com/)
 * [UX Project Checklist](https://uxchecklist.github.io/)
 * [Web Developer Checklist](http://webdevchecklist.com/)
+* [Web Launch Checklist](https://weblaunchchecklist.com/)
 
 
 ## Guides
