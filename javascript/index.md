@@ -68,6 +68,7 @@ Description: Client side javascript and frameworks
 * [Ace](http://ace.c9.io/)
 * [Code Mirror](http://codemirror.net/)
 * [Cropper](https://fengyuanchen.github.io/cropper/)
+* [Ory](https://github.com/ory/editor)
 * [Medium.js](https://github.com/jakiestfu/Medium.js/)
 * [Scribe](https://github.com/guardian/scribe)
 * [ZenPen](http://www.zenpen.io/)
