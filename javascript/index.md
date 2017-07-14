@@ -104,6 +104,8 @@ Description: Client side javascript and frameworks
 * [Force.js](https://force-js.com/) - Easy way to scroll and animate your page in vanilla javascript
 * [Headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 * [in-view](https://camwiegert.github.io/in-view/) - Get notified when a DOM element enters or exits the viewport
+* [Infinite Scroll](https://infinite-scroll.com/) - Automatically add next page
+* [jRange](http://nitinhayaran.github.io/jRange/demo/) - jQuery Plugin to create Range Selector
 * [multi.js](http://fabianlindfors.se/multijs/) - user-friendly replacement for select boxes with multiple attribute enabled
 * [Progress Bar](https://kimmobrunfeldt.github.io/progressbar.js/) - Create responsive and stylish progress bars
 * [Rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
