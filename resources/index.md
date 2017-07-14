@@ -68,6 +68,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Browser diet](http://browserdiet.com/) - How to lose weight in the browser
 * [Cssreference](http://cssreference.io/) - A free visual guide to CSS 
 * [Design Guidelines](http://designguidelines.co/) - The way products are built
+* [Design with Fontforge](http://designwithfontforge.com/) - How to create new typefaces using FontForge
 * [Dive into html5](http://diveintohtml5.info/) - Online book about html5
 * [GoodUI](http://goodui.org/) - An idea list for good easy to use UI's
 * [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - O'Reilly e-book
