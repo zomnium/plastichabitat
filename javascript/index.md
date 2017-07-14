@@ -214,7 +214,7 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 ### MVC - Vue
 
 * [Learn Vue 2](https://laracasts.com/series/learn-vue-2-step-by-step)
-* [NUXT](https://nuxtjs.org/) -  A minimalistic framework for server-rendered Vue.js applications 
+* [NUXT](https://nuxtjs.org/) - A minimalistic framework for server-rendered Vue.js applications 
 * [Vuelidate](https://monterail.github.io/vuelidate/)
 * [Vuetify](https://vuetifyjs.com/) - A component framework for Vue.js 2
 
