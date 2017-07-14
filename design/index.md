@@ -68,6 +68,14 @@ On this page I want to write about the following subjects:
 - [Designer Theme Style Guide](http://themes.array.is/designer/style-guide/)
 
 
+## Animation
+
+- [Bodymoovin](https://github.com/bodymovin/bodymovin) - After effects to html library.
+- [Dynamics.js](http://dynamicsjs.com/) - JavaScript library to create physics-based animations
+- [Flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
+- [Keyshapes](https://www.pixofield.com/) - Create animated vector graphics.
+
+
 ## Atomic Design
 
 - [Pattern Lab](http://patternlab.io/) *Create atomic design systems*
