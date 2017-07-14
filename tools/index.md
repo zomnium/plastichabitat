@@ -196,6 +196,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 * [Compressor.io](http://compressor.io/compress)
 * [Cubic Bezier](http://cubic-bezier.com/)
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
+* [Font inspector](https://opentype.js.org/font-inspector.html)
 * [Google Maps Builder](http://googlemapbuilder.mynameisdonald.com/)
 * [Gridlover](http://www.gridlover.net/)
 * [WP Hasty](https://www.wp-hasty.com/)
@@ -209,6 +210,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 * [Placeholdit](http://placehold.it/)
 * [Programmer Excuses](www.programmerexcuses.com)
 * [SVG 2 VectorDrawable](http://inloop.github.io/svg2android/)
+* [sqlify](https://sqlify.io/convert)
 * [xip.io](http://xip.io/) *wildcard dns for everyone*
 
 
