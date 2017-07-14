@@ -179,6 +179,7 @@ There's a lot of choice, below a little overview with well-known frameworks you 
 - [Skeleton](http://www.getskeleton.com/)
 - [SpaceBase](http://spacebase.space150.com/)
 - [Susy](http://susy.oddbird.net/)
+- [Taffy](http://www.taffy.logancarlile23.com/)
 - [UIKit](http://www.getuikit.com/)
 
 
