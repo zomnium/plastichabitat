@@ -40,6 +40,7 @@ On this page I want to write about the following subjects:
 - [Astrum](http://astrum.nodividestudio.com/)
 - [Atomic Docs](http://atomicdocs.io/)
 - [Barebones](http://barebones.paulrobertlloyd.com/)
+- [Design Manual](https://github.com/EightMedia/design-manual)
 - [Fractal](http://fractal.build/)
 - [Kalei Styleguide](http://kaleistyleguide.com/)
 - [kss-node](http://kss-node.github.io/kss-node/)
