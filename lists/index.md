@@ -4,6 +4,18 @@ Description: Resources, frameworks, plugins, tools etc.
 */
 
 
+## Some lists
+
+- [Headless CMS](https://headlesscms.org/)
+- [Remote Starter Kit](http://www.remotestarterkit.com/)
+- [StaticGen](https://www.staticgen.com/)
+
+
+## Apps and services
+
+Have a look at my Trello board: [Apps 'n Services](https://trello.com/b/wiIPR1f1/apps-n-services)
+
+
 ## Make lists!
 
 - .htaccess
