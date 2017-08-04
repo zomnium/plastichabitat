@@ -132,6 +132,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Feather](https://feathericons.com/) - Simply beautiful open source icons
 * [Font Awesome](http://fontawesome.io/)
 * [Foter](http://foter.com/) - Royalty-free stock photos
+* [Freebies LStore](https://free.lstore.graphics/) - Mindblowing freebies for designers and developers 
 * [Freephotos.cc](https://freephotos.cc/)
 * [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures
 * [Hero Patterns](http://www.heropatterns.com/)
