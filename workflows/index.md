@@ -13,6 +13,9 @@ Description: Time saving approaches for creating awesome stuff
 	* [inVision](http://www.invisionapp.com/)
 	* [FramerJS](http://framerjs.com/)
 	* [Origami](http://facebook.github.io/origami/) prototyping toolkit for Quartz Composer
+	* [CSS Wireframes](https://github.com/agauniyal/wireframe)
+* A/B Testing
+	* [Study](https://github.com/dollarshaveclub/study)
 * Responsive webdesign workflow (from design to deploy)
 * Application planning and UML
 * Deployment workflows using git, php and ...?
