@@ -165,6 +165,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [InboxPixels](http://inboxpixels.com/)
 * [MaterialUp](http://www.materialup.com/)
 * [Mediaqueri.es](http://mediaqueri.es/)
+* [Mindsparkle Mag](http://mindsparklemag.com/)
 * [Minimal Gallery](http://minimal.gallery/)
 * [Minimal Sites](http://www.minimalsites.com/)
 * [Mobile Patterns](http://www.mobile-patterns.com/)
@@ -178,6 +179,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [The Gallery](http://thegallery.io/)
 * [Trendlist](http://www.trendlist.org/)
 * [Typewolf](https://www.typewolf.com/)
+* [Typograph.her](http://www.typographher.com/)
 * [Vormplatform](http://www.vormplatform.nl/)
 
 
