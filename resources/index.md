@@ -73,6 +73,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Design with Fontforge](http://designwithfontforge.com/) - How to create new typefaces using FontForge
 * [Dive into html5](http://diveintohtml5.info/) - Online book about html5
 * [GoodUI](http://goodui.org/) - An idea list for good easy to use UI's
+* [Inclusive Components](https://inclusive-components.design/) - All about designing inclusive web interfaces, piece by piece (by Heydon Pickering)
 * [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - O'Reilly e-book
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [Javascript The Right Way](http://jstherightway.org/) - Doing Javascript the right way
