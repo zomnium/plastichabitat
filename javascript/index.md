@@ -274,6 +274,7 @@ The easiest way to update node through npm (by [David Walsh](http://davidwalsh.n
 
 * [In browser DVD's](http://gmarty.github.io/jsconf-2014-talk-play-dvd-in-js/)
 * [Screeps](http://screeps.com/) JavaScript game!
+* [Swip](https://github.com/paulsonnentag/swip) a library to create multi device experiments
 
 
 ## Wrapper
