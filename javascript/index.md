@@ -154,6 +154,7 @@ Description: Client side javascript and frameworks
 * [Amplitude](https://521dimensions.com/open-source/amplitudejs) HTML audio player for the modern era
 * [Agile](http://a-jie.github.io/Agile/) CSS3 Engine
 * [Clipboard.js](https://clipboardjs.com/)
+* [Fitty](https://github.com/rikschennink/fitty) makes text fit perfectly
 * [GraphicJS](http://www.graphicsjs.org/)
 * [Prerender](https://prerender.io/)
 * [Breeze](http://www.breezejs.com/)
