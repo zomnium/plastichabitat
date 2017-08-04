@@ -87,14 +87,18 @@ Vector based application for designing digital media, with all kinds nice featur
 
 Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple plugin manager for Sketch. With [Runner](http://sketchrunner.com/) you can speed up your workflow, read more about it on [medium](https://medium.com/sketch-app-sources/runner-speed-up-your-sketch-workflow-fba470ed43c1#.v9tddmwxb). [Introducing Auto-layout for Sketch](https://medium.com/sketch-app-sources/introducing-auto-layout-for-sketch-24e7b5d068f9) shows you how the [Auto-layout](https://animaapp.github.io/Auto-Layout/) plugin makes it easy to resize layouts.
 
+* [7 Columns Calendar Creator](https://free.lstore.graphics/plugin-sketch-7-columns-calendar-creator/) allows you to generate a 7 Columns Calendar for any month.
+* [Chain](https://lalomrtnz.github.io/Chain/) create dynamic color relations in Sketch.
 * The plugin [User Flows](https://abynim.github.io/UserFlows/) helps you with generating flow diagrams from Artboards.
 * [UX Flow](http://uxflow.co/) a flowchart kit for Sketch.
 * [Lists](http://lists.design/), gallery of real data ready to be placed in your design.
 * [Mirr.io](https://mirr.io/) turns Sketch designs into working prototypes, fast.
 * [Mockuuups Studio](https://mockuuups.studio/sketch) turns Sketch artboards unto perspective mockups, real-time.
 * [Slinky](https://finchalyzer.github.io/slinky/) export your Sketch designs  as HTML email templates.
+* [Sketch Material](https://websiddu.github.io/sketch-material/) is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
 * [React Sketch.app](http://airbnb.io/react-sketchapp/), render React components to Sketch; tailor-made for design systems.
 * [Stark](http://getstark.co/) is a color-blind simulator and contrast checker for Sketch. Design with accessibility in mind.
+* [Wireframe Prototyping System](https://free.lstore.graphics/uxflow/), plan your project navigation, for your mobile and web projects.
 
 
 ## [Sublime Text](http://www.sublimetext.com/) *and code editors in general*
