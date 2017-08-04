@@ -111,6 +111,7 @@ Description: Client side javascript and frameworks
 * [Progress Bar](https://kimmobrunfeldt.github.io/progressbar.js/) - Create responsive and stylish progress bars
 * [Rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 * [Select2](https://select2.github.io/) -  The jQuery replacement for select boxes 
+* [SmartPhoto.js](https://appleple.github.io/SmartPhoto/) - Most easy to use responsive image viewer especially for mobile devices
 * [SmoothState](http://weblinc.github.io/jquery.smoothState.js/index.html) page transitions ([introduction article on CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/))
 * [StickyBits](https://dollarshaveclub.github.io/stickybits/) - Lightweight alternative to position: sticky polyfills
 * [Stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
