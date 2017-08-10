@@ -199,9 +199,11 @@ A dependency manager for javascript. It is compatible with the npm package manag
 * [CloudConvert](https://cloudconvert.com/)
 * [Compressor.io](http://compressor.io/compress)
 * [Cubic Bezier](http://cubic-bezier.com/)
+* [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Font inspector](https://opentype.js.org/font-inspector.html)
 * [Google Maps Builder](http://googlemapbuilder.mynameisdonald.com/)
+* [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/)
 * [Gridlover](http://www.gridlover.net/)
 * [WP Hasty](https://www.wp-hasty.com/)
 * [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
@@ -225,6 +227,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 * [Google Web Designer](http://www.google.nl/webdesigner/) - Create HTML5 animations in a Flash kinda interface
 * [Adobe Edge](http://html.adobe.com/edge/) - Create HTML5 animations in a Flash kinda interface
 * [Keyshape](https://www.pixofield.com/) - Create animations for the Web
+* [SVG Animation Tools](https://github.com/parallax/svg-animation-tools) - A simple set of python functions to help working with animated SVGs exported from Illustrator
 
 
 ## Graphic Applications (open-source)
