@@ -52,11 +52,16 @@ Description: HTML for use in emails
 
 ## Online Services
 
+* [Bee](https://beefree.io/) - Beautiful emails, easy and fast
+* [Coffeecup Email Designer](https://www.coffeecup.com/email-designer/) - Custom crafted email and newsletter creations
+* [EDMDesigner](https://edmdesigner.com/) - Responsive email design made simple
 * [MailChimp](http://mailchimp.com/) - Newsletter subscriptions
 * [Campaign Monitor](http://www.campaignmonitor.com/) - Newsletter subscriptions
 * [Mad Mimi](https://madmimi.com/) - Simple Newsletter subscriptions
 * [Mandrill](http://mandrill.com/) - Transactional Email from MailChimp
 * [Litmus](https://litmus.com/) - Test and track emails
+* [Taxi for Email](http://taxiforemail.com/) - Make great email campaigns
+* [Topol](https://topol.io/) - Beautiful emails, easily
 
 
 ## Aditional awesomeness
