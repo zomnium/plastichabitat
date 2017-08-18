@@ -14,6 +14,7 @@ Description: HTML for use in emails
 * [Email Standards](http://www.email-standards.org/)
 * [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate)
 * [Html Email Boilerplate](http://htmlemailboilerplate.com/)
+* [mjml](https://mjml.io/) a framework that makes responsive email easy
 * [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
 * [Pulp](http://pulp.glitchpack.com/)
 * [Responsive Email Patterns](http://responsiveemailpatterns.com/)
