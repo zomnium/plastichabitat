@@ -108,6 +108,7 @@ Description: Client side javascript and frameworks
 * [Infinite Scroll](https://infinite-scroll.com/) - Automatically add next page
 * [jRange](http://nitinhayaran.github.io/jRange/demo/) - jQuery Plugin to create Range Selector
 * [multi.js](http://fabianlindfors.se/multijs/) - user-friendly replacement for select boxes with multiple attribute enabled
+* [Popper.js](https://popper.js.org/) - A kickass library used to manage poppers in web applications
 * [Progress Bar](https://kimmobrunfeldt.github.io/progressbar.js/) - Create responsive and stylish progress bars
 * [Rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 * [Select2](https://select2.github.io/) -  The jQuery replacement for select boxes 
