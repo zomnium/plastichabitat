@@ -104,6 +104,7 @@ Description: Client side javascript and frameworks
 * [egjs](https://naver.github.io/egjs/) - A set of UI interactions, effects and utilities components library
 * [Ensure](https://github.com/vigetlabs/ensure-animation) - Ensure animation runs until class loaded
 * [Force.js](https://force-js.com/) - Easy way to scroll and animate your page in vanilla javascript
+* [Flatpickr](https://github.com/chmln/flatpickr) - Lightweight and powerful datetimepicker with no dependencies
 * [Headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 * [in-view](https://camwiegert.github.io/in-view/) - Get notified when a DOM element enters or exits the viewport
 * [Infinite Scroll](https://infinite-scroll.com/) - Automatically add next page
