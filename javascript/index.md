@@ -73,6 +73,7 @@ Description: Client side javascript and frameworks
 * [Ory](https://github.com/ory/editor)
 * [Medium.js](https://github.com/jakiestfu/Medium.js/)
 * [Scribe](https://github.com/guardian/scribe)
+* [Wick](http://wickeditor.com/)
 * [ZenPen](http://www.zenpen.io/)
 
 ### Presentation frameworks
