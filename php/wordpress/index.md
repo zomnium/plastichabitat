@@ -40,6 +40,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 - [Posts 2 Posts](http://scribu.net/wordpress/posts-to-posts/) makes post relationships easy
 - [Redux Framework](https://wordpress.org/plugins/redux-framework/)
 - [Regenerate thumbnails](http://www.viper007bond.com/wordpress-plugins/regenerate-thumbnails/) in batches
+- [Tonic Starter Theme](http://labs.tonik.pl/theme/) aims to modernize and organize some aspects of theme development
 - [WordPress Importer](http://wordpress.org/plugins/wordpress-importer/) let's you import exported content
 
 ### Editing
