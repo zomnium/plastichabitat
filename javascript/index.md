@@ -33,14 +33,18 @@ Description: Client side javascript and frameworks
 
 ## Awesome stuff
 
-* [Socket.io](http://socket.io/)
+* [A-frame](https://aframe.io/) -  A web framework for building virtual reality experiences .
 * [D3JS](http://d3js.org/)
+* [GPU.js](http://gpu.rocks/) - GPU Accelerated JavaScript 
 * [Icaro](https://github.com/GianlucaGuarini/icaro) - Javascript object observer, ideal for batching DOM updates.
-* [Raphael](http://raphaeljs.com/)
 * [localForage](http://mozilla.github.io/localForage/)
-* [PlayerJS](http://playerjs.io/)
-* [Watch.js](https://github.com/melanke/Watch.JS)
 * [Metrics Graphics JS](http://metricsgraphicsjs.org/)
+* [PlayerJS](http://playerjs.io/)
+* [Pts.js](https://ptsjs.org/) - Enables you to compose and visualize points in spaces.
+* [Raphael](http://raphaeljs.com/)
+* [Socket.io](http://socket.io/)
+* [Three.js](https://threejs.org/) - JavaScript 3D library.
+* [Watch.js](https://github.com/melanke/Watch.JS)
 
 
 ## Useful libraries and plugins
