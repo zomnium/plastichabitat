@@ -57,6 +57,7 @@ Description: Client side javascript and frameworks
 ### Filter and sort
 
 * [Fuse.js](http://fusejs.io/) - Lightweight fuzzy-search library
+* [Fuzzysort](https://github.com/farzher/fuzzysort) - Fast SublimeText-like fuzzy search for JavaScript
 * [Isotope](http://isotope.metafizzy.co/)
 * [Listjs](http://www.listjs.com/examples)
 * [Masonry](http://masonry.desandro.com/)
