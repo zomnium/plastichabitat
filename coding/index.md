@@ -64,6 +64,7 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 - [BotPress](https://botpress.io/)
 - [BotUI](https://botui.org/)
 - [Operator](https://www.intercom.com/operator-bot) *by Intercom*
+- [PHPBot](https://www.phpbot.org/)
 - [Tars](https://hellotars.com/)
 
 
