@@ -87,6 +87,7 @@ Vector based application for designing digital media, with all kinds nice featur
 
 Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple plugin manager for Sketch. With [Runner](http://sketchrunner.com/) you can speed up your workflow, read more about it on [medium](https://medium.com/sketch-app-sources/runner-speed-up-your-sketch-workflow-fba470ed43c1#.v9tddmwxb). [Introducing Auto-layout for Sketch](https://medium.com/sketch-app-sources/introducing-auto-layout-for-sketch-24e7b5d068f9) shows you how the [Auto-layout](https://animaapp.github.io/Auto-Layout/) plugin makes it easy to resize layouts.
 
+* [Blender](https://github.com/bunnieabc/Blender), a blend tool for Sketch.
 * [7 Columns Calendar Creator](https://free.lstore.graphics/plugin-sketch-7-columns-calendar-creator/) allows you to generate a 7 Columns Calendar for any month.
 * [Chain](https://lalomrtnz.github.io/Chain/) create dynamic color relations in Sketch.
 * The plugin [User Flows](https://abynim.github.io/UserFlows/) helps you with generating flow diagrams from Artboards.
