@@ -201,9 +201,11 @@ A dependency manager for javascript. It is compatible with the npm package manag
 * [CloudConvert](https://cloudconvert.com/)
 * [Compressor.io](http://compressor.io/compress)
 * [Cubic Bezier](http://cubic-bezier.com/)
+* [Dimmy club](https://dimmy.club/) - Device mockup generator for your screenshots
 * [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Font inspector](https://opentype.js.org/font-inspector.html)
+* [Gifmock](https://gifmock.com/)
 * [Google Maps Builder](http://googlemapbuilder.mynameisdonald.com/)
 * [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/)
 * [Gridlover](http://www.gridlover.net/)
