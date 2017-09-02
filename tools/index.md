@@ -224,12 +224,23 @@ A dependency manager for javascript. It is compatible with the npm package manag
 * [xip.io](http://xip.io/) *wildcard dns for everyone*
 
 
-## HTML5 Animation Tools
+## Animation
 
-* [Google Web Designer](http://www.google.nl/webdesigner/) - Create HTML5 animations in a Flash kinda interface
+### HTML5 Animation
+
 * [Adobe Edge](http://html.adobe.com/edge/) - Create HTML5 animations in a Flash kinda interface
+* [Google Web Designer](http://www.google.nl/webdesigner/) - Create HTML5 animations in a Flash kinda interface
 * [Keyshape](https://www.pixofield.com/) - Create animations for the Web
 * [SVG Animation Tools](https://github.com/parallax/svg-animation-tools) - A simple set of python functions to help working with animated SVGs exported from Illustrator
+
+### Misc.
+
+* [ButtCapper](http://www.battleaxe.co/buttcapper/) - The stroke cap selector Adobe kinda forgot
+* [Duik](https://rainboxprod.coop/en/tools/duik/) - The comprehensive rigging and animation tool set for After Effects
+* [Inspector Spacetime](https://google.github.io/inspectorspacetime/) - Inject motion specs into reference video to become an engineer’s best friend
+* [RubberHose 2](http://www.battleaxe.co/rubberhose) - Animation rigging for everyone
+* [Sketch2AE](https://google.github.io/sketch2ae/) - Live After Effects layers straight from Sketch artboards
+
 
 
 ## Graphic Applications (open-source)
