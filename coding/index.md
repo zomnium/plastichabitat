@@ -66,6 +66,7 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 - [Operator](https://www.intercom.com/operator-bot) *by Intercom*
 - [PHPBot](https://www.phpbot.org/)
 - [Tars](https://hellotars.com/)
+- [Wit.ai](https://wit.ai/) turns what your users say into actions
 
 
 ## Languages
