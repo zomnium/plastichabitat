@@ -96,6 +96,8 @@ Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple pl
 * [Mirr.io](https://mirr.io/) turns Sketch designs into working prototypes, fast.
 * [Mockuuups Studio](https://mockuuups.studio/sketch) turns Sketch artboards unto perspective mockups, real-time.
 * [Slinky](https://finchalyzer.github.io/slinky/) export your Sketch designs  as HTML email templates.
+* [Sketch2AE](https://google.github.io/sketch2ae/) - Live After Effects layers straight from Sketch artboards
+* [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files that can take a lot of space
 * [Sketch for Designers](http://sketch.fordesignrs.com/) a growing collection of the best Sketch resources
 * [Sketch Material](https://websiddu.github.io/sketch-material/) is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
 * [React Sketch.app](http://airbnb.io/react-sketchapp/), render React components to Sketch; tailor-made for design systems.
