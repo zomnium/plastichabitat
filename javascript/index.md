@@ -156,6 +156,7 @@ Description: Client side javascript and frameworks
 * [Britecharts](http://eventbrite.github.io/britecharts/) - Reusable Charting Library based on D3.js
 * [Charts.js](http://www.chartjs.org/) - Simple yet flexible JavaScript charting
 * [Google Charts](https://developers.google.com/chart/interactive/docs/index)
+* [Markvis](https://markvis.js.org/) - Make visualization in markdown
 
 ### Misc.
 
