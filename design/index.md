@@ -34,6 +34,7 @@ On this page I want to write about the following subjects:
 - [FontShop](http://next.fontshop.com/styleguide/globals)
 - [MailChimp](http://mailchimp.com/about/brand-assets/)
 - [Voice and Tone](http://voiceandtone.com/) *by MailChimp*
+- [YouTube](https://www.youtube.com/yt/about/brand-resources/)
 
 ### Projects
 
