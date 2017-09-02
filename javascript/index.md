@@ -28,6 +28,7 @@ Description: Client side javascript and frameworks
 * [Anime](http://anime-js.com/) - A flexible yet lightweight JavaScript animation library.
 * [Choreographer-js](https://github.com/christinecha/choreographer-js) - A simple library to take care of complicated animations.
 * [Kute.js](http://thednp.github.io/kute.js/) - Animation engine with top performance, memory efficient & modular code.
+* [Lottie](http://airbnb.io/lottie/) - Animation library, natively on mobile and on the web (with AE and Bodymovin).
 * [Pop](https://popmotion.io/) - Create delightful interactions with input tracking, animations and physics.
 
 
