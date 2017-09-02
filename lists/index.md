@@ -6,6 +6,8 @@ Description: Resources, frameworks, plugins, tools etc.
 
 ## Some lists
 
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+- [Design Resources](http://designresources.party/)
 - [Headless CMS](https://headlesscms.org/)
 - [Remote Starter Kit](http://www.remotestarterkit.com/)
 - [StaticGen](https://www.staticgen.com/)
