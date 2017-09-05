@@ -22,9 +22,11 @@ Date: 2014-2-1
 
 ## Animation
 
+- [Animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
 - [CSS animations performance: the untold story](http://greensock.com/css-performance) *on GreenSock*
 - [High performance animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/) *on HTML5Rocks*
 - [An introduction to CSS3 keyframe animations](http://www.smashingmagazine.com/2011/05/17/an-introduction-to-css3-keyframe-animations/) *on Smashing Magazine*
+- [Vivify](http://vivify.mkcreative.cz/) - CSS animation library
 
 Make use of the folowing properties, to prevent paints and ensure GPU acceleration:
 
