@@ -65,6 +65,7 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 - [BotUI](https://botui.org/)
 - [Operator](https://www.intercom.com/operator-bot) *by Intercom*
 - [PHPBot](https://www.phpbot.org/)
+- [React Simple Chatbot](https://lucasbassetti.com.br/react-simple-chatbot/)
 - [Tars](https://hellotars.com/)
 - [Wit.ai](https://wit.ai/) turns what your users say into actions
 
