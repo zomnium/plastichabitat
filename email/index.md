@@ -18,6 +18,7 @@ Description: HTML for use in emails
 * [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
 * [Pulp](http://pulp.glitchpack.com/)
 * [Responsive Email Patterns](http://responsiveemailpatterns.com/)
+* [The Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)
 * [Zurb Ink](http://zurb.com/ink/)
 
 
@@ -27,6 +28,7 @@ Description: HTML for use in emails
 * [CSS Inliner](http://beaker.mailchimp.com/inline-css) *by MailChimp*
 * [CSS Inliner](https://inliner.cm/) *by Campaign Monitor*
 * [PutsMail](https://putsmail.com/) sends html mails *by Litmus*
+* [The Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)
 
 
 ## Inspiration

@@ -205,6 +205,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 * [Cubic Bezier](http://cubic-bezier.com/)
 * [Dimmy club](https://dimmy.club/) - Device mockup generator for your screenshots
 * [Entity Conversion Calculator](http://www.evotech.net/articles/testjsentities.html)
+* [E-mail client CSS](https://www.campaignmonitor.com/css/) - The Ultimate Guide to CSS
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Font inspector](https://opentype.js.org/font-inspector.html)
 * [Gifmock](https://gifmock.com/)
