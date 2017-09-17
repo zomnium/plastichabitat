@@ -158,15 +158,18 @@ More background information:
 - [WP API Docs](http://wp-api.org/)
 
 
-remove_action('template_redirect', 'redirect_canonical');
+## Moving WordPress (changing the domain and/or location)
+
+	remove_action('template_redirect', 'redirect_canonical');
 
 wp-login.php can be used to (re-)set the URIs. Find this line:
 
-require( dirname(__FILE__) . '/wp-load.php' );
+	require( dirname(__FILE__) . '/wp-load.php' );
 
 and insert the following lines below:
 
-//FIXME: do comment/remove these hack lines. (once the database is updated)
-update_option('siteurl', 'http://your.domain.name/the/path' );
-update_option('home', 'http://your.domain.name/the/path' );
-
+	// Comment or remove these lines of code once the database is updated,
+	// due to performance. Good to know: they don't kick in when the url and
+	// home are defined in wp-config.php.
+	update_option('siteurl', 'http://your.domain.name/the/path' );
+	update_option('home', 'http://your.domain.name/the/path' );
