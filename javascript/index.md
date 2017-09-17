@@ -264,6 +264,8 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 * [Snyk](https://snyk.io/) find & fix known vulnerabilities
 * [Wintersmith](http://wintersmith.io/) static site generator
 
+NOTE: there is a Node.JS fork called [Ayo](https://github.com/ayojs/ayo) (pronounced like "IO").
+
 ### Update Node.js
 
 The easiest way to update node through npm (by [David Walsh](http://davidwalsh.name/upgrade-nodejs)):
