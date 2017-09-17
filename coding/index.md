@@ -107,3 +107,4 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 ## Tinkering
 
 - [Codemade](https://www.codemade.io/) - A place for developers to collect and share open-source projects made with code
+- [Lövr](http://lovr.org/) - A simple framework for creating VR with Lua
