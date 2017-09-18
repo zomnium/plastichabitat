@@ -35,6 +35,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Codrops](http://tympanus.net/codrops/) - Awesome html5/css3 experiments
 * [Cody](http://codyhouse.co/) - A free library of HTML, CSS, JS nuggets
 * [CSS Animation Rocks](https://cssanimation.rocks/)
+* [Design Resources](http://designresources.party/) - Select websites, tools, assets, and readings for working in and learning about design
 * [Facebook.design](http://facebook.design/) - Collection of articles, videos and resources
 * [Glitch](https://glitch.com/) - Friendly community where you'll build the app of your dreams
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
@@ -44,6 +45,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Modern IE](http://www.modern.ie/) - Dev tools for testing IE
 * [OneXtraPixel](http://www.onextrapixel.com/) - Tutorials, freebies and inspiration
 * [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
+* [Sans Francisco](http://www.sansfrancis.co/) - Collection of tools to help designers craft delightful experiences
 * [Tutsplus](http://tutsplus.com/) - All kinds of tutorials
 * [Tutorialzine](https://tutorialzine.com/) -  Acommunity of talented developers who learn together
 * [TypeWolf](https://www.typewolf.com/) - What’s Trending in Type
@@ -127,6 +129,7 @@ Description: Useful websites, guides, blogs and newsletters
 ## Graphics
 
 * [Albumarium](http://albumarium.com/)
+* [All the free stock](http://allthefreestock.com/)
 * [App Store badges](https://developer.apple.com/app-store/marketing/guidelines/) - official, from Apple
 * [Devices](http://marvelapp.github.io/devices.css/) - 8 Pure CSS Flat Mobile Devices
 * [Feather](https://feathericons.com/) - Simply beautiful open source icons
@@ -137,6 +140,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures
 * [Hero Patterns](http://www.heropatterns.com/)
 * [Icon Works](http://icon-works.com/) - Free Icon Font
+* [Makerbook](http://makerbook.net/) - A hand-picked directory of the best free resources for creatives
 * [Mazwai](http://mazwai.com/)
 * [Mockuuups Studio](https://mockuuups.studio/)
 * [Pexels](https://www.pexels.com/) - Best free stock photos in one place
@@ -148,6 +152,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Stock photos that don't suck](https://medium.com/p/62ae4bcbe01b)
 * [StockSnap](https://stocksnap.io/) - Beautiful free stock photos
 * [Subtle Patterns](http://subtlepatterns.com/)
+* [The Stocks](http://thestocks.im/) - The best royalty free stock
 * [Unsplash](https://unsplash.com/)
 * [You work for them](https://www.youworkforthem.com/) - Fonts, graphics and photos
 

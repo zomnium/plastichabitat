@@ -112,3 +112,4 @@ with modular scale and vertical rhythm.*
 ## Misc.
 
 - [Coolhue](https://webkul.github.io/coolhue/) - Handpicked gradient hues
+- [Design Resources](http://designresources.party/) - Select websites, tools, assets, and readings for working in and learning about design
