@@ -45,6 +45,8 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 - [Free Swift Tutorials for Apple’s New Programming Language](http://designmodo.com/swift-tutorials/) *on Designmodo*
 - [iOS 8 Day-by-Day](http://www.shinobicontrols.com/blog/posts/2014/07/16/ios8-day-by-day-index)
 - [Prototyping iOS animations in Swift](http://mathewsanders.com/prototyping-iOS-iPhone-iPad-animations-in-swift/)
+- [NSHipster](http://nshipster.com/) is a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly
+- [Ray Wenderlich](https://www.raywenderlich.com/) a blog about mobile development
 
 
 ### [JS Talk](http://jstalk.org/)
