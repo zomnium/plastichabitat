@@ -171,11 +171,13 @@ Description: Client side javascript and frameworks
 * [deeplearn.js](https://pair-code.github.io/deeplearnjs/) a hardware-accelerated machine intelligence library for the web
 * [Fitty](https://github.com/rikschennink/fitty) makes text fit perfectly
 * [GraphicJS](http://www.graphicsjs.org/)
+* [Howler.js](https://howlerjs.com/) a audio library for the modern web
 * [Prerender](https://prerender.io/)
 * [Breeze](http://www.breezejs.com/)
 * [Leaflets](http://leafletjs.com/) Creating interactive maps
 * [Progressively](https://thinker3197.github.io/progressively/) A JavaScript library to load images progressively
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) A simple and fast API to monitor elements as you scroll
+* [Sizzle](https://sizzlejs.com/) a pure-JavaScript CSS selector engine
 * [Slick](http://kenwheeler.github.io/slick/)
 * [Tilt.js](http://gijsroge.github.io/tilt.js/) lightweight parallax hover tilt effect for jQuery
 * [Timeline.js](https://ilkeryilmaz.github.io/timelinejs/) create a timeline slider easily
