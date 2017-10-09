@@ -28,9 +28,9 @@ Description: Time saving approaches for creating awesome stuff
 
 ## Deploy Git over FTP
 
-The best one I've found so far is based on NodeJS and called [DPLOY](http://leanmeanfightingmachine.github.io/dploy/) which is also available on [Github](https://github.com/LeanMeanFightingMachine/dploy). All settings are in YAML and it has support for multiple environments, perfect for local development with staging and production environments.
+The best one I've found so far is based on NodeJS and called [DPLOY](http://lucasmotta.github.io/dploy/) which is also available on [Github](https://github.com/lucasmotta/dploy). All settings are in YAML and it has support for multiple environments, perfect for local development with staging and production environments.
 
-Note: if you install dploy in the same directory you want to sync, then leave path.local blank! [Read Github Issue](https://github.com/LeanMeanFightingMachine/dploy/issues/19#issuecomment-29133963).
+Note: if you install dploy in the same directory you want to sync, then leave path.local blank! [Read Github Issue](https://github.com/lucasmotta/dploy/issues/19#issuecomment-29133963).
 
 You also have online services to deploy git project over FTP, but the most are quite expensive and not always so reliable:
 
