@@ -65,6 +65,7 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 - [Botman](https://github.com/mpociot/botman)
 - [BotPress](https://botpress.io/)
 - [BotUI](https://botui.org/)
+- [i-chatbot](https://github.com/Endore8/i-chatbot)
 - [Operator](https://www.intercom.com/operator-bot) *by Intercom*
 - [PHPBot](https://www.phpbot.org/)
 - [React Simple Chatbot](https://lucasbassetti.com.br/react-simple-chatbot/)
