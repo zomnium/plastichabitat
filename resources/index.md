@@ -10,7 +10,6 @@ Description: Useful websites, guides, blogs and newsletters
 * [Bits of Code](http://bitsofco.de/)
 * [CSS Tricks](http://css-tricks.com/)
 * [Designmodo](http://designmodo.com/)
-* [Html5Rocks](http://html5rocks.com/)
 * [Product Hunt](http://www.producthunt.com/)
 * [Scotch](http://scotch.io/)
 * [Sessions](https://pusher.com/sessions)
@@ -18,6 +17,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Smashing Magazine](http://smashingmagazine.com/)
 * [ThemeShaper](http://themeshaper.com/)
 * [UsabilityPost](http://usabilitypost.com/)
+* [Web](https://developers.google.com/web/) *by Google Developers*
 
 
 ## Useful sites
