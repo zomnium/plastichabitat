@@ -68,6 +68,7 @@ Description: Client side javascript and frameworks
 * [Masonry](http://masonry.desandro.com/)
 * [MixItUp](http://mixitup.io/)
 * [Muuri](https://haltu.github.io/muuri/)
+* [ProseMirror](http://prosemirror.net/)
 * [Shuffle](http://vestride.github.io/Shuffle/)
 
 ### Editors
