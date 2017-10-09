@@ -118,6 +118,7 @@ Description: Client side javascript and frameworks
 * [Infinite Scroll](https://infinite-scroll.com/) - Automatically add next page
 * [jRange](http://nitinhayaran.github.io/jRange/demo/) - jQuery Plugin to create Range Selector
 * [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant lazy loader in pure JS with no dependencies
+* [Micromodal.js](https://micromodal.now.sh/) - lightweight, configurable and a11y-enabled modal library written in pure JavaScript
 * [multi.js](http://fabianlindfors.se/multijs/) - user-friendly replacement for select boxes with multiple attribute enabled
 * [Popper.js](https://popper.js.org/) - A kickass library used to manage poppers in web applications
 * [Progress Bar](https://kimmobrunfeldt.github.io/progressbar.js/) - Create responsive and stylish progress bars
