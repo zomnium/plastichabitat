@@ -69,6 +69,7 @@ Description: Useful websites, guides, blogs and newsletters
 
 ## Guides
 
+* [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 * [Browser diet](http://browserdiet.com/) - How to lose weight in the browser
 * [Cssreference](http://cssreference.io/) - A free visual guide to CSS 
 * [Design Guidelines](http://designguidelines.co/) - The way products are built
