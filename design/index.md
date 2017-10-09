@@ -47,6 +47,7 @@ On this page I want to write about the following subjects:
 - [Fractal](http://fractal.build/)
 - [Kalei Styleguide](http://kaleistyleguide.com/)
 - [kss-node](http://kss-node.github.io/kss-node/)
+- [Material Design](https://material.io/)
 - [Modulr](https://decorator.io/modulr/)
 - [Nucleus](https://holidaypirates.github.io/nucleus/)
 - [Pattern Lab](http://patternlab.io/)
@@ -55,6 +56,7 @@ On this page I want to write about the following subjects:
 - [Styleguide](https://devbridge.github.io/Styleguide/)
 - [Style Guide Guide](https://github.com/bradfrost/style-guide-guide)
 - [Stylify Me](http://stylifyme.com/)
+- [Symbols and Styleguides](http://symbols.janlosert.com/)
 
 ### Articles
 
