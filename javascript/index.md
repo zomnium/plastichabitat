@@ -97,6 +97,7 @@ Description: Client side javascript and frameworks
 
 * [Dragula](https://github.com/bevacqua/dragula)
 * [Draggabilly](http://draggabilly.desandro.com/)
+* [Draggable](https://shopify.github.io/draggable/)
 * [egjs](https://naver.github.io/egjs/) - A set of UI interactions, effects and utilities components library
 * [Hammer](http://eightmedia.github.io/hammer.js/)
 * [Interact.js](http://interactjs.io/)
