@@ -172,6 +172,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Checkout Pages](http://www.checkoutpages.xyz/)
 * [Designgest](http://designgest.com/)
 * [Designspiration](http://designspiration.net/)
+* [Good Web Design](http://www.goodweb.design/)
 * [HTTPSTER](http://httpster.net/)
 * [InboxPixels](http://inboxpixels.com/)
 * [MaterialUp](http://www.materialup.com/)
