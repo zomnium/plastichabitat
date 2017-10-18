@@ -258,10 +258,12 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 
 ## Node
 
-* [Cyclotron](http://www.cyclotron.io/), a web application for constructing dashboards.
+* [Cyclotron](http://www.cyclotron.io/), a web application for constructing dashboards
 * [Express](http://expressjs.com/) application framework
+* [Fastify](https://www.fastify.io/) fast and low overhead web framework
 * [Feathers](https://feathersjs.com/) open source REST and realtime API layer for modern applications
 * [Ghost](https://ghost.org/) publishing platform
+* [Hapi](https://hapijs.com/) framework for building applications and services
 * [Hexo](http://hexo.io/) bloging framework
 * [Koa](http://koajs.com/) next generation web framework for node.js
 * [Next](https://github.com/zeit/next.js) minimalistic framework for universal server-rendered React application
