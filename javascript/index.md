@@ -130,6 +130,7 @@ Description: Client side javascript and frameworks
 * [Stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
 * [Tooltipser](http://iamceege.github.io/tooltipster/)
 * [Zoom.js](https://github.com/nishanths/zoom.js) - Medium's Image Zoom (no dependencies, IE 10+)
+* [Zoomove](http://emersonthompson.com.br/zoomove/) - Dynamically zoom images with mouseover
 
 ### Testing
 
