@@ -147,9 +147,10 @@ Description: Client side javascript and frameworks
 * [Omniscient](http://omniscientjs.github.io/) - Do fast top-down rendering of views while thinking functional programming
 * [Riot](http://riotjs.com/) - Simple and elegant component-based UI library
 
-### VR
+### AR and VR
 
 * [A-frame](https://aframe.io/)
+* [AR.js](https://github.com/jeromeetienne/AR.js)
 * [krpano WebVR](http://krpano.com/plugins/webvr/)
 * [Mozilla VR](https://mozvr.com/)
 * [Pano2VR](https://ggnome.com/pano2vr)
