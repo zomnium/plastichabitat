@@ -33,6 +33,7 @@ It can be a lot of work to start from nothing, therefore it can be useful to sta
 
 ### Development
 
+- [Adding WordPress Admin Tables with WP_List_Table](https://premium.wpmudev.org/blog/wordpress-admin-tables/) *on wpmudev*
 - [Advanced Custom Fields](http://www.advancedcustomfields.com/) for full control of your edit screens &amp; custom field data
 	- [Extending ACF](http://www.smashingmagazine.com/2015/09/extending-advanced-custom-fields-with-your-own-controls/) *on Smashing Magazine*
 - [Asynchronous Tasks](https://github.com/techcrunch/wp-async-task) *by TechCrunch*
