@@ -117,3 +117,5 @@ with modular scale and vertical rhythm.*
 
 - [Coolhue](https://webkul.github.io/coolhue/) - Handpicked gradient hues
 - [Design Resources](http://designresources.party/) - Select websites, tools, assets, and readings for working in and learning about design
+- [Inclusive Components](https://inclusive-components.design/) - A blog trying to be a pattern library
+- [Stencil](https://stenciljs.com/) - Magical, reusable web component generator
