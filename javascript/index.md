@@ -156,6 +156,8 @@ Description: Client side javascript and frameworks
 * [Pano2VR](https://ggnome.com/pano2vr)
 * [ReactVR](https://facebookincubator.github.io/react-vr/) (on [Github](https://github.com/facebookincubator/react-vr) / [Introduction blog](https://developer.oculus.com/blog/introducing-the-react-vr-pre-release/))
 * [WebVR spec](https://w3c.github.io/webvr/)
+* [WebXR](https://github.com/mozilla/webxr-api), a proposal for WebXR, based on the WebVR extension
+* [WebXR Viewer](https://github.com/mozilla-mobile/webxr-ios) is an iOS app for testing WebXR
 
 ### Charts and graphs
 
