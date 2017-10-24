@@ -108,6 +108,7 @@ Description: Client side javascript and frameworks
 
 * [Animsition](http://git.blivesta.com/animsition/) - A simple and easy jQuery plugin for CSS animated page transitions
 * [Barba.js](http://barbajs.org/) - Fluid and smooth transition between your website's pages
+* [Bosket](https://elbywan.github.io/bosket/) - collection of front-end tree view components
 * [Choices.js](https://joshuajohnson.co.uk/Choices/) - Lightweight, configurable select box/text input plugin
 * [egjs](https://naver.github.io/egjs/) - A set of UI interactions, effects and utilities components library
 * [Ensure](https://github.com/vigetlabs/ensure-animation) - Ensure animation runs until class loaded
@@ -127,6 +128,7 @@ Description: Client side javascript and frameworks
 * [SmartPhoto.js](https://appleple.github.io/SmartPhoto/) - Most easy to use responsive image viewer especially for mobile devices
 * [SmoothState](http://weblinc.github.io/jquery.smoothState.js/index.html) page transitions ([introduction article on CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/))
 * [StickyBits](https://dollarshaveclub.github.io/stickybits/) - Lightweight alternative to position: sticky polyfills
+* [Sticky Sidebar](https://abouolia.github.io/sticky-sidebar/) - Pure JavaScript plugin for making smart and high performance sticky sidebar
 * [Stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
 * [Tooltipser](http://iamceege.github.io/tooltipster/)
 * [Zoom.js](https://github.com/nishanths/zoom.js) - Medium's Image Zoom (no dependencies, IE 10+)
