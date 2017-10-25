@@ -41,6 +41,7 @@ Description: Client side javascript and frameworks
 * [Icaro](https://github.com/GianlucaGuarini/icaro) - Javascript object observer, ideal for batching DOM updates.
 * [localForage](http://mozilla.github.io/localForage/)
 * [Metrics Graphics JS](http://metricsgraphicsjs.org/)
+* [Pixi.js](http://www.pixijs.com/)
 * [PlayerJS](http://playerjs.io/)
 * [Pts.js](https://ptsjs.org/) - Enables you to compose and visualize points in spaces.
 * [Raphael](http://raphaeljs.com/)
