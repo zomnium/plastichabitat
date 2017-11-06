@@ -35,8 +35,9 @@ Description: Client side javascript and frameworks
 
 ## Awesome stuff
 
-* [A-frame](https://aframe.io/) -  A web framework for building virtual reality experiences .
+* [A-frame](https://aframe.io/) -  A web framework for building virtual reality experiences
 * [D3JS](http://d3js.org/)
+* [Dexie](http://dexie.org/) - Minimalistic Wrapper for IndexedDB
 * [GPU.js](http://gpu.rocks/) - GPU Accelerated JavaScript 
 * [Icaro](https://github.com/GianlucaGuarini/icaro) - Javascript object observer, ideal for batching DOM updates.
 * [localForage](http://mozilla.github.io/localForage/)
