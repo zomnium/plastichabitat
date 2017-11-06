@@ -44,6 +44,7 @@ On this page I want to write about the following subjects:
 - [Atomic Docs](http://atomicdocs.io/)
 - [Barebones](http://barebones.paulrobertlloyd.com/)
 - [Design Manual](https://github.com/EightMedia/design-manual)
+- [Infusion](https://thepaciellogroup.github.io/infusion/)
 - [Fractal](http://fractal.build/)
 - [Kalei Styleguide](http://kaleistyleguide.com/)
 - [kss-node](http://kss-node.github.io/kss-node/)
