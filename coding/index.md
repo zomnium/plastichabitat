@@ -47,6 +47,7 @@ Four Ways To Build A Mobile Application *on Smashing Magazine*:
 - [Prototyping iOS animations in Swift](http://mathewsanders.com/prototyping-iOS-iPhone-iPad-animations-in-swift/)
 - [NSHipster](http://nshipster.com/) is a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly
 - [Ray Wenderlich](https://www.raywenderlich.com/) a blog about mobile development
+- [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator), a library for building complex iOS UIView animations
 
 
 ### [JS Talk](http://jstalk.org/)
