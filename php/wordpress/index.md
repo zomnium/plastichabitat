@@ -102,6 +102,7 @@ Manage remote WordPress installations with [ManageWP Worker](http://wordpress.or
 
 - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
 - [Contact Form DB](https://wordpress.org/plugins/contact-form-7-to-database-extension/)
+- [Gravity Forms](https://www.gravityforms.com/)
 
 
 ## Multilingual websites
