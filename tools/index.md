@@ -99,6 +99,7 @@ Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple pl
 * [Sketch2AE](https://google.github.io/sketch2ae/) - Live After Effects layers straight from Sketch artboards
 * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files that can take a lot of space
 * [Sketch for Designers](http://sketch.fordesignrs.com/) a growing collection of the best Sketch resources
+* [Sketch Emmet](https://joelbqz.github.io/sketch-emmet/) gets Emmet HTML abbreviations based on layers structure and naming
 * [Sketch Material](https://websiddu.github.io/sketch-material/) is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
 * [React Sketch.app](http://airbnb.io/react-sketchapp/), render React components to Sketch; tailor-made for design systems.
 * [Stark](http://getstark.co/) is a color-blind simulator and contrast checker for Sketch. Design with accessibility in mind.
@@ -111,7 +112,7 @@ A lightning fast extendable and customizable text-editor. Nice alternatives are 
 
 ### Plugins:
 
-* [Emmet](http://emmet.io/) - also in combination with [Re:View](http://re-view.emmet.io/)
+* [Emmet](http://emmet.io/) - also in combination with [Re:View](http://re-view.emmet.io/) and [Sketch Emmet](https://joelbqz.github.io/sketch-emmet/)
 * [More useful Sublime Text plugins](http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions/)
 * [Best of Sublime Text features, plugins and settings](https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings) *on Scotch*
 * [Working with Code Snippets in Sublime Text](http://www.hongkiat.com/blog/sublime-code-snippets/)
