@@ -299,6 +299,7 @@ Working with Modernizr can also be quite helpful when you need to support prehis
 - [Text background, multiline](http://callmenick.com/post/multi-line-padded-text-css-box-decoration-break)
 - [wysiwyg.css](https://github.com/jgthms/wysiwyg.css)
 - [You might not need JS](http://youmightnotneedjs.com/)
+- [Pretty checkbox](https://lokesh-coder.github.io/pretty-checkbox/)
 
 ### Parallax
 
