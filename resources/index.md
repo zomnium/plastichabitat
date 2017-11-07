@@ -36,6 +36,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Cody](http://codyhouse.co/) - A free library of HTML, CSS, JS nuggets
 * [CSS Animation Rocks](https://cssanimation.rocks/)
 * [Design Resources](http://designresources.party/) - Select websites, tools, assets, and readings for working in and learning about design
+* [Designer Lynx](https://www.designerlynx.co/) - Comprehensive list of links for all your UI needs.
 * [Facebook.design](http://facebook.design/) - Collection of articles, videos and resources
 * [Glitch](https://glitch.com/) - Friendly community where you'll build the app of your dreams
 * [HowtoForge](http://www.howtoforge.com/) - Linux tutorials
