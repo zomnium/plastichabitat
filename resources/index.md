@@ -172,6 +172,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [100 Days UI](http://www.100daysui.com/)
 * [Bench.li](http://bench.li/)
 * [Checkout Pages](http://www.checkoutpages.xyz/)
+* [Data Viz Project](http://datavizproject.com/)
 * [Designgest](http://designgest.com/)
 * [Designspiration](http://designspiration.net/)
 * [Good Web Design](http://www.goodweb.design/)
