@@ -189,6 +189,7 @@ Description: Client side javascript and frameworks
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) A simple and fast API to monitor elements as you scroll
 * [Sizzle](https://sizzlejs.com/) a pure-JavaScript CSS selector engine
 * [Slick](http://kenwheeler.github.io/slick/)
+* [Superstruct](https://github.com/ianstormtaylor/superstruct/) makes it easy to define interfaces and then validate JavaScript data against them
 * [Tilt.js](http://gijsroge.github.io/tilt.js/) lightweight parallax hover tilt effect for jQuery
 * [Timeline.js](https://ilkeryilmaz.github.io/timelinejs/) create a timeline slider easily
 * [Tinydate](https://github.com/lukeed/tinydate) A tiny reusable date formatter, extremely fast
