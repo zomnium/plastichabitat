@@ -127,6 +127,7 @@ Description: Client side javascript and frameworks
 * [Popper.js](https://popper.js.org/) - A kickass library used to manage poppers in web applications
 * [Progress Bar](https://kimmobrunfeldt.github.io/progressbar.js/) - Create responsive and stylish progress bars
 * [Rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
+* [Scrollama](https://github.com/russellgoldenberg/scrollama) - Scrollytelling with IntersectionObserver ([an Introduction](https://pudding.cool/process/introducing-scrollama/))
 * [Select2](https://select2.github.io/) -  The jQuery replacement for select boxes 
 * [SmartPhoto.js](https://appleple.github.io/SmartPhoto/) - Most easy to use responsive image viewer especially for mobile devices
 * [SmoothState](http://weblinc.github.io/jquery.smoothState.js/index.html) page transitions ([introduction article on CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/))
