@@ -48,6 +48,7 @@ On this page I want to write about the following subjects:
 - [Fractal](http://fractal.build/)
 - [Kalei Styleguide](http://kaleistyleguide.com/)
 - [kss-node](http://kss-node.github.io/kss-node/)
+- [Lona](https://github.com/airbnb/Lona)
 - [Material Design](https://material.io/)
 - [Modulr](https://decorator.io/modulr/)
 - [Nucleus](https://holidaypirates.github.io/nucleus/)
