@@ -310,6 +310,13 @@ The easiest way to update node through npm (by [David Walsh](http://davidwalsh.n
 * [Swip](https://github.com/paulsonnentag/swip) a library to create multi device experiments
 
 
+## GraphQL
+
+* [GraphiQL](https://github.com/graphql/graphiql) an in-browser IDE for exploring GraphQL
+* [GiraffQL](https://www.giraffql.com/) an interactive GraphQL exploration tool 
+
+
+
 ## Wrapper
 
 	(function (window, document) {
