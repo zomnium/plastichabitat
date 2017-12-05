@@ -13,6 +13,7 @@ Description: HTML for use in emails
 * [Email Lab](seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails) Starter Kit for HTML Emails
 * [Email Standards](http://www.email-standards.org/)
 * [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate)
+* [heml](https://heml.io/), quickly craft clean and responsive emails
 * [Html Email Boilerplate](http://htmlemailboilerplate.com/)
 * [mjml](https://mjml.io/) a framework that makes responsive email easy
 * [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
