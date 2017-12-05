@@ -175,6 +175,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Data Viz Project](http://datavizproject.com/)
 * [Designgest](http://designgest.com/)
 * [Designspiration](http://designspiration.net/)
+* [Empty states](http://emptystat.es/)
 * [Good Web Design](http://www.goodweb.design/)
 * [HTTPSTER](http://httpster.net/)
 * [InboxPixels](http://inboxpixels.com/)
