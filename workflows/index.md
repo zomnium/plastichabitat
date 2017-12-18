@@ -93,7 +93,13 @@ Nice Yo Generators
 
 ## Taskmanagers
 
-[Choose: Grunt, Gulp, or npm?](http://ponyfoo.com/articles/choose-grunt-gulp-or-npm)
+- [Choose: Grunt, Gulp, or npm?](http://ponyfoo.com/articles/choose-grunt-gulp-or-npm)
+- [Broccoli](https://github.com/broccolijs/broccoli)
+- [Gulp](https://gulpjs.com/)
+- [Grunt](https://gruntjs.com/)
+- [npm](https://docs.npmjs.com/misc/scripts)
+- [Parcel](https://parceljs.org/)
+- [Webpack](https://webpack.js.org/)
 
 
 ### Grunt
