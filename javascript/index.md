@@ -25,6 +25,7 @@ Description: Client side javascript and frameworks
 
 ## Animation
 
+* [Animate Plus](https://github.com/bendc/animateplus) -  A+ animation module for the modern web
 * [Anime](http://anime-js.com/) - A flexible yet lightweight JavaScript animation library.
 * [Choreographer-js](https://github.com/christinecha/choreographer-js) - A simple library to take care of complicated animations.
 * [Kute.js](http://thednp.github.io/kute.js/) - Animation engine with top performance, memory efficient & modular code.
