@@ -115,6 +115,7 @@ Description: Client side javascript and frameworks
 * [Bosket](https://elbywan.github.io/bosket/) - collection of front-end tree view components
 * [Choices.js](https://joshuajohnson.co.uk/Choices/) - Lightweight, configurable select box/text input plugin
 * [egjs](https://naver.github.io/egjs/) - A set of UI interactions, effects and utilities components library
+* [Emergence.js](https://xtianmiller.github.io/emergence.js/) - Lightweight, high-performance JS plugin for detecting (scrolling) and manipulating elements in the browser
 * [Ensure](https://github.com/vigetlabs/ensure-animation) - Ensure animation runs until class loaded
 * [Force.js](https://force-js.com/) - Easy way to scroll and animate your page in vanilla javascript
 * [Flatpickr](https://github.com/chmln/flatpickr) - Lightweight and powerful datetimepicker with no dependencies
