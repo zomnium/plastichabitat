@@ -11,6 +11,7 @@ Description: Handy plugins, resources and snippets for WordPress.
 - [Filter Reference](http://codex.wordpress.org/Plugin_API/Filter_Reference) *on WP codex*
 - [Capabilities](http://codex.wordpress.org/Function_Reference/current_user_can) *on WP codex (current_user_can)*
 - [10 things every WP developer should know](http://www.smashingmagazine.com/2011/03/08/ten-things-every-wordpress-plugin-developer-should-know/) *on SmashingMagazine*
+- [WordPressify](http://www.wordpressify.co/) - A build system designed to automate your WordPress development workflow
 
 
 ## Developing themes
