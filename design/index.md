@@ -54,6 +54,7 @@ On this page I want to write about the following subjects:
 - [Nucleus](https://holidaypirates.github.io/nucleus/)
 - [Pattern Lab](http://patternlab.io/)
 - [SC5 Styleguide](http://styleguide.sc5.io/)
+- [Stencil](https://stenciljs.com/) The magical, reusable web component compiler
 - [Styledecco](http://jacobrask.github.io/styledocco/)
 - [Styleguide](https://devbridge.github.io/Styleguide/)
 - [Style Guide Guide](https://github.com/bradfrost/style-guide-guide)
