@@ -71,7 +71,7 @@ Description: Client side javascript and frameworks
 * [Listjs](http://www.listjs.com/examples)
 * [Masonry](http://masonry.desandro.com/)
 * [MixItUp](http://mixitup.io/)
-* [Muuri](https://haltu.github.io/muuri/)
+* [Muuri](https://haltu.github.io/muuri/) - Responsive, sortable, filterable and draggable grid layouts
 * [ProseMirror](http://prosemirror.net/)
 * [Shuffle](http://vestride.github.io/Shuffle/)
 
