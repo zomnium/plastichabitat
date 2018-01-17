@@ -19,6 +19,8 @@ Description: Time saving approaches for creating awesome stuff
 * Responsive webdesign workflow (from design to deploy)
 * Application planning and UML
 * Deployment workflows using git, php and ...?
+* Code formatting
+	* [Prettier](https://prettier.io/)
 
 
 ## Design Sprints
