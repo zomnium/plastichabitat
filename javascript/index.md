@@ -226,6 +226,11 @@ Description: Client side javascript and frameworks
 Check out [TodoMVC](http://todomvc.com/) for real examples!
 
 
+## Libraries
+
+* [Canivete](http://canivete.leofavre.com/) (Brazilian Portuguese for swiss army knife)
+
+
 ### Good reads about MVC Frameworks
 
 * [Ember vs. Angular](http://eviltrout.com/2013/06/15/ember-vs-angular.html)
