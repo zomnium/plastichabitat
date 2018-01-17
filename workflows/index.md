@@ -97,6 +97,7 @@ Nice Yo Generators
 
 - [Choose: Grunt, Gulp, or npm?](http://ponyfoo.com/articles/choose-grunt-gulp-or-npm)
 - [Broccoli](https://github.com/broccolijs/broccoli)
+- [FuseBox](https://fuse-box.org/)
 - [Gulp](https://gulpjs.com/)
 - [Grunt](https://gruntjs.com/)
 - [npm](https://docs.npmjs.com/misc/scripts)
