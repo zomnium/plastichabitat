@@ -230,6 +230,7 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 ## Libraries
 
 * [Canivete](http://canivete.leofavre.com/) (Brazilian Portuguese for swiss army knife)
+* [Umbrella JS](https://umbrellajs.com/) the tiny library for DOM manipulation, events and AJAX
 
 
 ### Good reads about MVC Frameworks
