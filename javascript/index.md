@@ -196,6 +196,7 @@ Description: Client side javascript and frameworks
 * [Timeline.js](https://ilkeryilmaz.github.io/timelinejs/) create a timeline slider easily
 * [Tinydate](https://github.com/lukeed/tinydate) A tiny reusable date formatter, extremely fast
 * [Tracking.js](https://trackingjs.com/) Brings different computer vision algorithms and techniques, real-time color tracking, face detection and much more
+* [Uppy](https://uppy.io/) The file uploader that...
 * [ViewScroller](http://www.viewdesic.com/viewscroller/)
 * [Webpack](http://webpack.github.io/)
 
