@@ -92,6 +92,7 @@ Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple pl
 * [Chain](https://lalomrtnz.github.io/Chain/) create dynamic color relations in Sketch.
 * The plugin [User Flows](https://abynim.github.io/UserFlows/) helps you with generating flow diagrams from Artboards.
 * [Confetti](http://www.sketchconfetti.com/) - Generate gorgeous confetti patterns in 1 click
+* [FontRapid](https://fontrapid.com/) - Design and create fonts directly in Sketch
 * [UX Flow](http://uxflow.co/) a flowchart kit for Sketch.
 * [Lists](http://lists.design/), gallery of real data ready to be placed in your design.
 * [Mirr.io](https://mirr.io/) turns Sketch designs into working prototypes, fast.
