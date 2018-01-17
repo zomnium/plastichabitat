@@ -10,6 +10,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Bits of Code](http://bitsofco.de/)
 * [CSS Tricks](http://css-tricks.com/)
 * [Designmodo](http://designmodo.com/)
+* [Gutenberg News](http://gutenberg.news/)
 * [Product Hunt](http://www.producthunt.com/)
 * [Scotch](http://scotch.io/)
 * [Sessions](https://pusher.com/sessions)
