@@ -91,10 +91,13 @@ Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple pl
 * [7 Columns Calendar Creator](https://free.lstore.graphics/plugin-sketch-7-columns-calendar-creator/) allows you to generate a 7 Columns Calendar for any month.
 * [Chain](https://lalomrtnz.github.io/Chain/) create dynamic color relations in Sketch.
 * The plugin [User Flows](https://abynim.github.io/UserFlows/) helps you with generating flow diagrams from Artboards.
+* [Chart](https://github.com/pavelkuligin/chart) creates the most popular types of charts by real or random data
 * [Confetti](http://www.sketchconfetti.com/) - Generate gorgeous confetti patterns in 1 click
 * [FontRapid](https://fontrapid.com/) - Design and create fonts directly in Sketch
+* [Gifme](https://www.sketchgif.me/) plays gifs and videos inside the sketch app while you're designing
 * [UX Flow](http://uxflow.co/) a flowchart kit for Sketch.
 * [Lists](http://lists.design/), gallery of real data ready to be placed in your design.
+* [Midnight](https://midnightsketch.com/) dark theme sketch plugin
 * [Mirr.io](https://mirr.io/) turns Sketch designs into working prototypes, fast.
 * [Mockuuups Studio](https://mockuuups.studio/sketch) turns Sketch artboards unto perspective mockups, real-time.
 * [Slinky](https://finchalyzer.github.io/slinky/) export your Sketch designs  as HTML email templates.
