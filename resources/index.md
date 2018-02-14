@@ -18,6 +18,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Smashing Magazine](http://smashingmagazine.com/)
 * [ThemeShaper](http://themeshaper.com/)
 * [UsabilityPost](http://usabilitypost.com/)
+* [Vue.js News](https://news.vuejs.org/)
 * [Web](https://developers.google.com/web/) *by Google Developers*
 
 
@@ -82,6 +83,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - O'Reilly e-book
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [Javascript The Right Way](http://jstherightway.org/) - Doing Javascript the right way
+* [Laws of UX](https://lawsofux.com/) - Collection of the key maxims that designers must consider when building user interfaces
 * [MaintainableCSS](http://maintainablecss.com/) - an approach to writing modular, scalable and of course, maintainable CSS
 * [Moving to HTTPS Guide](https://movingtohttps.com/) - migrate to HTTPS with a simple tested process
 * [Oh shit, git!](http://ohshitgit.com/) - Here are some bad situations and how to get out of them
@@ -92,6 +94,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [Type foundries](http://www.vanschneider.com/best-type-foundries-to-find-typefaces/) - Tobias' favorite Type Foundries to Find Typefaces
 * [Web Field Manual](https://webfieldmanual.com/) - A curated list of resources focused on documenting knowledge for designing experiences and interfaces
 * [Web standards](http://www.yellowshoe.com.au/standards/) - Best practices about front-end development
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript
 
 
 ## Newsletters
@@ -158,6 +161,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [StockSnap](https://stocksnap.io/) - Beautiful free stock photos
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [The Stocks](http://thestocks.im/) - The best royalty free stock
+* [unDraw](https://undraw.co/) - MIT licensed illustrations for every project you can imagine and create
 * [Unsplash](https://unsplash.com/)
 * [You work for them](https://www.youworkforthem.com/) - Fonts, graphics and photos
 
