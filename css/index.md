@@ -52,6 +52,7 @@ Make use of the folowing properties, to prevent paints and ensure GPU accelerati
 - [Normalize](http://necolas.github.io/normalize.css/)
 - [HTML5 Boilerplate](http://html5boilerplate.com/) can be useful to, it makes use of Normalize together with some other quickstart defaults.
 - [Normalize Opentype](https://github.com/kennethormandy/normalize-opentype.css) adds OpenType features—ligatures, kerning, and more
+- [Modern Normalize](https://github.com/sindresorhus/modern-normalize/) normalizes modern browsers and font-sizes
 - [Gutenberg](https://github.com/BafS/Gutenberg), a modern framework to print correctly
 - [Tipograf](https://github.com/mightyCrow/tipograf) is a lightweight pure CSS typography base
 
