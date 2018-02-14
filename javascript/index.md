@@ -31,6 +31,7 @@ Description: Client side javascript and frameworks
 * [Kute.js](http://thednp.github.io/kute.js/) - Animation engine with top performance, memory efficient & modular code.
 * [LookForward.js](https://appleple.github.io/lookforward/) - Small library that helps you to create smooth transitions between pages.
 * [Lottie](http://airbnb.io/lottie/) - Animation library, natively on mobile and on the web (with AE and Bodymovin).
+* [Micron](https://webkul.github.io/micron/) - Interaction library built with CSS Animations and controlled by JavaScript Power
 * [Pop](https://popmotion.io/) - Create delightful interactions with input tracking, animations and physics.
 
 
@@ -40,6 +41,7 @@ Description: Client side javascript and frameworks
 * [D3JS](http://d3js.org/)
 * [Dexie](http://dexie.org/) - Minimalistic Wrapper for IndexedDB
 * [GPU.js](http://gpu.rocks/) - GPU Accelerated JavaScript 
+* [Greenlet](https://github.com/developit/greenlet/) - Move an async function into its own thread
 * [Icaro](https://github.com/GianlucaGuarini/icaro) - Javascript object observer, ideal for batching DOM updates.
 * [localForage](http://mozilla.github.io/localForage/)
 * [Metrics Graphics JS](http://metricsgraphicsjs.org/)
@@ -48,6 +50,7 @@ Description: Client side javascript and frameworks
 * [Pts.js](https://ptsjs.org/) - Enables you to compose and visualize points in spaces.
 * [Raphael](http://raphaeljs.com/)
 * [Socket.io](http://socket.io/)
+* [Sockette](https://github.com/lukeed/sockette/) - Little WebSocket wrapper.
 * [Three.js](https://threejs.org/) - JavaScript 3D library.
 * [Watch.js](https://github.com/melanke/Watch.JS)
 
@@ -111,6 +114,7 @@ Description: Client side javascript and frameworks
 ### User interface
 
 * [Animsition](http://git.blivesta.com/animsition/) - A simple and easy jQuery plugin for CSS animated page transitions
+* [Badger Accordion](https://github.com/stuartjnelson/badger-accordion) - An accessible vanilla JS accordion with extensible API
 * [Barba.js](http://barbajs.org/) - Fluid and smooth transition between your website's pages
 * [Bosket](https://elbywan.github.io/bosket/) - collection of front-end tree view components
 * [Choices.js](https://joshuajohnson.co.uk/Choices/) - Lightweight, configurable select box/text input plugin
@@ -119,6 +123,7 @@ Description: Client side javascript and frameworks
 * [Ensure](https://github.com/vigetlabs/ensure-animation) - Ensure animation runs until class loaded
 * [Force.js](https://force-js.com/) - Easy way to scroll and animate your page in vanilla javascript
 * [Flatpickr](https://github.com/chmln/flatpickr) - Lightweight and powerful datetimepicker with no dependencies
+* [Goodshare](https://koddr.github.io/goodshare.js/en/) - Share a link from your website to social networks or mobile messengers
 * [Headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 * [in-view](https://camwiegert.github.io/in-view/) - Get notified when a DOM element enters or exits the viewport
 * [Infinite Scroll](https://infinite-scroll.com/) - Automatically add next page
@@ -222,6 +227,7 @@ Description: Client side javascript and frameworks
 * [Synapse](http://bruth.github.io/synapse/docs/)
 * [Mean](http://mean.io/)
 * [Moon](http://moonjs.ga/)
+* [Nerv](https://nerv.aotu.io/)
 * [Vue](http://vuejs.org/) *(is a framework alike library)*
 * [Vulcan](http://vulcanjs.org/)
 
