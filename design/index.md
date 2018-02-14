@@ -26,8 +26,9 @@ On this page I want to write about the following subjects:
 
 ## Style Guides
 
-### Exmaples
+### Examples
 
+- [Adele](https://adele.uxpin.com/) (A collection by UXPin)
 - [Design Guidelines](http://designguidelines.co/) (A collection)
 - [A List Apart](http://alistapart.com/blog/post/getting-started-with-pattern-libraries)
 - [Code for America](http://style.codeforamerica.org/)
