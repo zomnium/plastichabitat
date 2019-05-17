@@ -1,14 +1,9 @@
 variables:
   LOCAL_BUILD_DIR: "./"
 
-stages:
- - deploy
-
 deploy:
   stage: deploy
   image: alpine
-  # only:
-  #   - master
   before_script:
     - apk add --no-cache rsync openssh
     - mkdir -p ~/.ssh
