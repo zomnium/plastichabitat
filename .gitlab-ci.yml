@@ -12,5 +12,5 @@ deploy:
     - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" >> ~/.ssh/config
   script:
     - ssh $PRODUCTION_USER@$PRODUCTION_HOST cp -avr $PRODUCTION_DIR $(date "+$PRODUCTION_BACKUP_DIR/%y%m%d-$CI_COMMIT_SHORT_SHA-$CI_JOB_ID")
-    - rm -Rf {.git,.gitlab-runner.yml}
+    - rm -rf {.git/*,.git*}
     - rsync -rav --delete $LOCAL_BUILD_DIR $PRODUCTION_USER@$PRODUCTION_HOST:$PRODUCTION_DIR
