@@ -1,0 +1,19 @@
+variables:
+  LOCAL_BUILD_DIR: "./"
+
+stages:
+ - deploy
+
+deploy:
+  stage: deploy
+  image: alpine
+  # only:
+  #   - master
+  before_script:
+    - apk add --no-cache rsync openssh
+    - mkdir -p ~/.ssh
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' >> ~/.ssh/id_dsa
+    - chmod 600 ~/.ssh/id_dsa
+    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" >> ~/.ssh/config
+  script:
+    - rsync -rav --delete $LOCAL_BUILD_DIR $PRODUCTION_USER@$PRODUCTION_HOST:$PRODUCTION_DIR
