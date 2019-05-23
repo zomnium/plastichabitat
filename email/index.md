@@ -61,6 +61,7 @@ Description: HTML for use in emails
 * [Bee](https://beefree.io/) - Beautiful emails, easy and fast
 * [Coffeecup Email Designer](https://www.coffeecup.com/email-designer/) - Custom crafted email and newsletter creations
 * [EDMDesigner](https://edmdesigner.com/) - Responsive email design made simple
+* [Email on Acid](https://www.emailonacid.com/) - Test emails all kinds of clients
 * [MailChimp](http://mailchimp.com/) - Newsletter subscriptions
 * [Campaign Monitor](http://www.campaignmonitor.com/) - Newsletter subscriptions
 * [Mad Mimi](https://madmimi.com/) - Simple Newsletter subscriptions
