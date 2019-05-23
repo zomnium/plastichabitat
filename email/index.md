@@ -6,10 +6,12 @@ Description: HTML for use in emails
 
 ## Useful projects
 
+* [Antwort](https://github.com/InterNations/antwort) (Responsive email templates)
 * [Background Images](http://backgrounds.cm/)
 * [Bojler](https://bojler.slicejack.com/)
 * [Bullet proof buttons](http://buttons.cm/)
 * [Bulletproof HTML Email Components](https://www.sendwithus.com/resources/bulletproof-html-email-components)
+* [Email Blueprints](https://github.com/mailchimp/email-blueprints) by MailChimp
 * [Email Lab](seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails) Starter Kit for HTML Emails
 * [Email Standards](http://www.email-standards.org/)
 * [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate)
@@ -19,6 +21,7 @@ Description: HTML for use in emails
 * [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
 * [Pulp](http://pulp.glitchpack.com/)
 * [Responsive Email Patterns](http://responsiveemailpatterns.com/)
+* [Responsive Email Templates](https://zurb.com/playground/responsive-email-templates) *by Zurb*
 * [The Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)
 * [Zurb Ink](http://zurb.com/ink/)
 
