@@ -80,3 +80,6 @@ Description: HTML for use in emails
 
 * [Making responsive HTML emails](http://www.benjystanton.co.uk/blog/making-responsive-html-emails/) *by Benjy Stanton*
 * [A Bulletproof Guide to Using HTML5 and CSS3 in Email ](https://litmus.com/blog/a-bulletproof-guide-to-using-html5-and-css3-in-email) *on Litmus*
+* [How to Embed Images in Your Emails: The Facts](https://sendgrid.com/blog/embedding-images-emails-facts/) *on SendGrid*
+* [Using Web Fonts in Email](https://www.campaignmonitor.com/blog/email-marketing/2019/04/using-web-fonts-in-email/) *on Campaign Monitor*
+* [All You Need to Know About Web Fonts in Email](https://www.campaignmonitor.com/resources/guides/web-fonts-in-email/) *on Campaign Monitor*
