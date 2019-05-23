@@ -7,7 +7,7 @@ Description: HTML for use in emails
 ## Useful projects
 
 * [Background Images](http://backgrounds.cm/)
-* [Bojler](http://slicejack.github.io/bojler/)
+* [Bojler](https://bojler.slicejack.com/)
 * [Bullet proof buttons](http://buttons.cm/)
 * [Bulletproof HTML Email Components](https://www.sendwithus.com/resources/bulletproof-html-email-components)
 * [Email Lab](seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails) Starter Kit for HTML Emails
