@@ -14,6 +14,13 @@ Description: Useful tools for creating and managing front-end and backend stuff
 The package and dependency-manager for PHP. More information and documentation can be found on [getcomposer.org](http://getcomposer.org) and packages can be browsed and added at [Packagist](https://packagist.org/).
 
 
+## Documentation
+
+Projects for generating documentation:
+
+- [Cupper](https://thepaciellogroup.github.io/cupper/)
+
+
 ## [fontplop](http://www.fontplop.com/)
 
 Fontplop is an OSX/macOS application which takes ttf and otf files and outputs a webfont bundle: woff2, woff, tff, svg, and eot. It is the simpler, faster, free successor to [FontPrep](http://fontprep.com/), which is no longer maintained.
