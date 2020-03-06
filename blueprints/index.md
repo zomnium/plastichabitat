@@ -17,8 +17,12 @@ Description: Components and snippets, responsive and for daily use
 * Headline backgrounds
 * Email protection
 * Sharing and socials
+
+
+## Resources
+
 * [CSS tooltip](http://codepen.io/mildrenben/pen/rVBrpK)
-* [Boilerform](https://boilerform.design/)
+* [Inclusive components](https://inclusive-components.design/) - A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.
 
 
 ## Easiest fallback for Internet Explorer (IE6 to IE8)
