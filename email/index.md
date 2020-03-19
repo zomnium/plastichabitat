@@ -6,10 +6,12 @@ Description: HTML for use in emails
 
 ## Useful projects
 
+* [Antwort](https://github.com/InterNations/antwort) (Responsive email templates)
 * [Background Images](http://backgrounds.cm/)
-* [Bojler](http://slicejack.github.io/bojler/)
+* [Bojler](https://bojler.slicejack.com/)
 * [Bullet proof buttons](http://buttons.cm/)
 * [Bulletproof HTML Email Components](https://www.sendwithus.com/resources/bulletproof-html-email-components)
+* [Email Blueprints](https://github.com/mailchimp/email-blueprints) by MailChimp
 * [Email Lab](seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails) Starter Kit for HTML Emails
 * [Email Standards](http://www.email-standards.org/)
 * [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate)
@@ -19,6 +21,7 @@ Description: HTML for use in emails
 * [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
 * [Pulp](http://pulp.glitchpack.com/)
 * [Responsive Email Patterns](http://responsiveemailpatterns.com/)
+* [Responsive Email Templates](https://zurb.com/playground/responsive-email-templates) *by Zurb*
 * [The Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)
 * [Zurb Ink](http://zurb.com/ink/)
 
@@ -58,6 +61,7 @@ Description: HTML for use in emails
 * [Bee](https://beefree.io/) - Beautiful emails, easy and fast
 * [Coffeecup Email Designer](https://www.coffeecup.com/email-designer/) - Custom crafted email and newsletter creations
 * [EDMDesigner](https://edmdesigner.com/) - Responsive email design made simple
+* [Email on Acid](https://www.emailonacid.com/) - Test emails all kinds of clients
 * [MailChimp](http://mailchimp.com/) - Newsletter subscriptions
 * [Campaign Monitor](http://www.campaignmonitor.com/) - Newsletter subscriptions
 * [Mad Mimi](https://madmimi.com/) - Simple Newsletter subscriptions
@@ -76,3 +80,6 @@ Description: HTML for use in emails
 
 * [Making responsive HTML emails](http://www.benjystanton.co.uk/blog/making-responsive-html-emails/) *by Benjy Stanton*
 * [A Bulletproof Guide to Using HTML5 and CSS3 in Email ](https://litmus.com/blog/a-bulletproof-guide-to-using-html5-and-css3-in-email) *on Litmus*
+* [How to Embed Images in Your Emails: The Facts](https://sendgrid.com/blog/embedding-images-emails-facts/) *on SendGrid*
+* [Using Web Fonts in Email](https://www.campaignmonitor.com/blog/email-marketing/2019/04/using-web-fonts-in-email/) *on Campaign Monitor*
+* [All You Need to Know About Web Fonts in Email](https://www.campaignmonitor.com/resources/guides/web-fonts-in-email/) *on Campaign Monitor*
