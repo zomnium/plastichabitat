@@ -149,6 +149,7 @@ Description: Client side javascript and frameworks
 ### Testing
 
 * [Buster.JS](http://docs.busterjs.org/) - A browser JavaScript testing toolkit.
+* [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser.
 * [Intern](https://theintern.github.io/) - Software testing for humans.
 * [Jasmine](https://jasmine.github.io/) - A behavior-driven development framework.
 * [Karma](http://karma-runner.github.io/)
