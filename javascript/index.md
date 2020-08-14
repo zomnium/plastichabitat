@@ -146,6 +146,15 @@ Description: Client side javascript and frameworks
 * [Zoom.js](https://github.com/nishanths/zoom.js) - Medium's Image Zoom (no dependencies, IE 10+)
 * [Zoomove](http://emersonthompson.com.br/zoomove/) - Dynamically zoom images with mouseover
 
+### State management
+
+* [Akita](https://datorama.github.io/akita/) - A Reactive State Management Tailor-Made for JS Applications
+* [NgRx](https://ngrx.io/) - Reactive State for Angular
+* [Vuex](https://vuex.vuejs.org/) - Vuex is a state management pattern + library for Vue.js applications
+* [Recoil](https://recoiljs.org/) - A state management library for React
+* [Redux](https://redux.js.org/) - A Predictable State Container for JS Apps
+* [XState](https://xstate.js.org/) - Javascript state machines
+
 ### Testing
 
 * [Buster.JS](http://docs.busterjs.org/) - A browser JavaScript testing toolkit.
