@@ -274,6 +274,7 @@ A dependency manager for javascript. It is compatible with the npm package manag
 ## Misc.
 
 * [Captain](https://getcaptain.co/) - Manage Docker containers, instantly from the menu bar.
+* [DBeaver](https://dbeaver.io/) - Free Universal Database Tool.
 * [Macify](https://macify.io/) - rom web to macOS, onvert webapps to native macOS apps with ease.
 * [Tad](http://tadviewer.com/) - A better way to view & analyze data.
 * [tlapse](https://github.com/typicode/tlapse) - create a timelapse of your web development.
