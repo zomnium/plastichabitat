@@ -80,6 +80,8 @@ Description: All about server and client side coding
 
 - [Lua](http://www.lua.org/) is a powerful, fast, lightweight, embeddable scripting language
 - [Go](http://golang.org/) is an open source programming language that makes it easy to build simple, reliable, and efficient software
+- [Rust](https://www.rust-lang.org/) is a language empowering everyone to build reliable and efficient software. 
+  - [Tokio](https://tokio.rs/) - Build reliable network applications without compromising speed.
 
 
 ## Browser Extensions
