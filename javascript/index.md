@@ -188,6 +188,7 @@ Description: Client side javascript and frameworks
 * [Birdview.js](http://achrafkassioui.com/birdview/) for a glance at a whole web page with an aerial view
 * [Clipboard.js](https://clipboardjs.com/)
 * [deeplearn.js](https://pair-code.github.io/deeplearnjs/) a hardware-accelerated machine intelligence library for the web
+* [Faker.js](https://github.com/Marak/faker.js/blob/master/Readme.md) - generate massive amounts of fake data in the browser and node.js
 * [Fitty](https://github.com/rikschennink/fitty) makes text fit perfectly
 * [GraphicJS](http://www.graphicsjs.org/)
 * [Howler.js](https://howlerjs.com/) a audio library for the modern web
