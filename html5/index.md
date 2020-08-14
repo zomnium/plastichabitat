@@ -7,6 +7,13 @@ Description: All about HTML5
 ## Todo: Make a reference about semantics etc.
 
 
+## Web components
+
+* [LitElement](https://lit-element.polymer-project.org/) - A simple base class for creating fast, lightweight web components
+* [Polymer Project](https://www.polymer-project.org/) - Libraries, tools, and standards for a better web
+* [Stencil](https://stenciljs.com/) - A toolchain for building reusable, scalable Design Systems.
+
+
 ## Outlining
 
 Todo: write something about [outlining content](http://html5doctor.com/outlines/) and semantic structures. Nice tool: [HTML 5 Outliner](http://gsnedders.html5.org/outliner/)
