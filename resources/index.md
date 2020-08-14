@@ -113,6 +113,11 @@ Description: Useful websites, guides, blogs and newsletters
 * [Evil Trout](http://eviltrout.com/) - Javascript, Ruby and Ember
 
 
+## Events
+
+* [Dev events](https://dev.events/ON)
+
+
 ## Stories
 
 * [Between the Wires](https://betweenthewires.org/) - How developer products are made
