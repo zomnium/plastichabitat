@@ -49,6 +49,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [OneXtraPixel](http://www.onextrapixel.com/) - Tutorials, freebies and inspiration
 * [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
 * [Sans Francisco](http://www.sansfrancis.co/) - Collection of tools to help designers craft delightful experiences
+* [Sidn Labs](https://www.sidnlabs.nl/en) - Your world. Our domain.
 * [Tutsplus](http://tutsplus.com/) - All kinds of tutorials
 * [Tutorialzine](https://tutorialzine.com/) -  Acommunity of talented developers who learn together
 * [TypeWolf](https://www.typewolf.com/) - What’s Trending in Type
@@ -74,6 +75,8 @@ Description: Useful websites, guides, blogs and newsletters
 
 * [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 * [Browser diet](http://browserdiet.com/) - How to lose weight in the browser
+* [Build your own x](https://github.com/danistefanovic/build-your-own-x) - What I cannot create, I do not understand.
+  * [Didact](https://github.com/pomber/didact) - A DIY guide to build your own React
 * [Cssreference](http://cssreference.io/) - A free visual guide to CSS 
 * [Design Guidelines](http://designguidelines.co/) - The way products are built
 * [Design with Fontforge](http://designwithfontforge.com/) - How to create new typefaces using FontForge
@@ -87,6 +90,8 @@ Description: Useful websites, guides, blogs and newsletters
 * [MaintainableCSS](http://maintainablecss.com/) - an approach to writing modular, scalable and of course, maintainable CSS
 * [Moving to HTTPS Guide](https://movingtohttps.com/) - migrate to HTTPS with a simple tested process
 * [Oh shit, git!](http://ohshitgit.com/) - Here are some bad situations and how to get out of them
+* [OWASP](https://owasp.org/) - The Open Web Application Security Project is a nonprofit foundation that works to improve the security of software
+  * [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - Standard awareness document for developers and web application security
 * [PHP The Right Way](http://www.phptherightway.com/) - Doing PHP the right way
 * [Pocket Guides](https://gomakethings.com/guides/) - Step-by-step training guides to help you master vanilla JavaScript
 * [Practical Typography](http://practicaltypography.com/)
@@ -111,6 +116,7 @@ Description: Useful websites, guides, blogs and newsletters
 * [CSS Wizardry](http://csswizardry.com/) - Front-end
 * [Dayle Rees](http://daylerees.com/) - PHP
 * [Evil Trout](http://eviltrout.com/) - Javascript, Ruby and Ember
+* [ncjamieson](https://ncjamieson.com/) - Mostly articles about RxJS, TypeScript and React
 
 
 ## Events
