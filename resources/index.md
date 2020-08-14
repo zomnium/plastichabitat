@@ -175,6 +175,7 @@ Description: Useful websites, guides, blogs and newsletters
 ## Inspiration
 
 * [100 Days UI](http://www.100daysui.com/)
+* [abdz.](https://abduzeedo.com/)
 * [Bench.li](http://bench.li/)
 * [Checkout Pages](http://www.checkoutpages.xyz/)
 * [Data Viz Project](http://datavizproject.com/)
