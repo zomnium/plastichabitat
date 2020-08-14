@@ -298,7 +298,11 @@ Check out [TodoMVC](http://todomvc.com/) for real examples!
 * [ROOTS](http://roots.cx/) toolbox
 * [Sails](http://sailsjs.org/) realtime framework
 * [Snyk](https://snyk.io/) find & fix known vulnerabilities
-* [Wintersmith](http://wintersmith.io/) static site generator
+
+## Static site generators
+
+* [Scully](https://github.com/scullyio/scully) for Angular on a JAM stack
+* [Wintersmith](http://wintersmith.io/)
 
 NOTE: there is a Node.JS fork called [Ayo](https://github.com/ayojs/ayo) (pronounced like "IO").
 
