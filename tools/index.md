@@ -107,7 +107,7 @@ Also try [Sketch Toolbox](http://sketchtoolbox.com/), which is a super simple pl
 * [Midnight](https://midnightsketch.com/) dark theme sketch plugin
 * [Mirr.io](https://mirr.io/) turns Sketch designs into working prototypes, fast.
 * [Mockuuups Studio](https://mockuuups.studio/sketch) turns Sketch artboards unto perspective mockups, real-time.
-* [Slinky](https://finchalyzer.github.io/slinky/) export your Sketch designs  as HTML email templates.
+* [Slinky](https://finchalyzer.github.io/slinky/) export your Sketch designs as HTML email templates.
 * [Sketch2AE](https://google.github.io/sketch2ae/) - Live After Effects layers straight from Sketch artboards
 * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files that can take a lot of space
 * [Sketch Cleaner](http://www.sketchcleaner.com/) - Plugin that helps you get your design files as clean as a whistle
